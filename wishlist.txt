@@ -1,5 +1,5 @@
 dimwishlist:item=4129629253#notes:BB Tier S+; PvE Rating 4.5; PvP Rating 3.9
-dimwishlist:item=821154603#notes:BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=821154603#notes:BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9
 dimwishlist:item=821154603&perks=1820235745,3425386926#notes:Most Popular Combo (14.416%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9
 dimwishlist:item=821154603&perks=1820235745#notes:Most Popular Perk 1 (14.416%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9
 dimwishlist:item=821154603&perks=3425386926#notes:Most Popular Perk 2 (14.416%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9
@@ -7,7 +7,7 @@ dimwishlist:item=821154603&perks=2387244414,3425386926#notes:Popular Combo (13.8
 dimwishlist:item=821154603&perks=2387244414#notes:Popular Perk 1 (13.872%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9
 dimwishlist:item=821154603&perks=2387244414,1015611457#notes:Popular Combo (8.839%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9
 dimwishlist:item=821154603&perks=1015611457#notes:Popular Perk 2 (8.839%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.3; Category Popular Rank 9; Category Popular Rank 9
-dimwishlist:item=2119346509#notes:BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=2119346509#notes:BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6
 dimwishlist:item=2119346509&perks=1359896290,4293542123#notes:Most Popular Combo (19.429%) - BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6
 dimwishlist:item=2119346509&perks=1359896290#notes:Most Popular Perk 1 (19.429%) - BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6
 dimwishlist:item=2119346509&perks=4293542123#notes:Most Popular Perk 2 (19.429%) - BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6
@@ -15,7 +15,7 @@ dimwishlist:item=2119346509&perks=2010801679,4293542123#notes:Popular Combo (18.
 dimwishlist:item=2119346509&perks=2010801679#notes:Popular Perk 1 (18.203%) - BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6
 dimwishlist:item=2119346509&perks=1359896290,1890422124#notes:Popular Combo (13.183%) - BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6
 dimwishlist:item=2119346509&perks=1890422124#notes:Popular Perk 2 (13.183%) - BB Tier S; PvE Rating 5; PvP Rating 4.7; Category Popular Rank 6; Category Popular Rank 6
-dimwishlist:item=484515708#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=484515708#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=484515708&perks=1523832109,365154968#notes:Most Popular Combo (18.322%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=484515708&perks=1523832109#notes:Most Popular Perk 1 (18.322%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=484515708&perks=365154968#notes:Most Popular Perk 2 (18.322%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 5
@@ -64,8 +64,8 @@ dimwishlist:item=1292594730&perks=95528736#notes:Popular Perk 2 (6.467%) - BB Ti
 dimwishlist:item=1292594730&perks=2387244414,365154968#notes:Popular Combo (6.156%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.7
 dimwishlist:item=1292594730&perks=2387244414#notes:Popular Perk 1 (6.156%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.7
 dimwishlist:item=1292594730&perks=365154968#notes:Popular Perk 2 (6.156%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.7
-dimwishlist:item=3698448090#notes:BB Tier S; PvE Rating 4.7; PvP Rating 3.1; Category Popular Rank 1; Category Popular Rank 1
-dimwishlist:item=3229982889#notes:BB Tier S; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=3698448090#notes:BB Tier S; PvE Rating 4.7; PvP Rating 3.1; Category Popular Rank 1
+dimwishlist:item=3229982889#notes:BB Tier S; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=3229982889&perks=692399809,2298656195#notes:Most Popular Combo (13.698%) - BB Tier S; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=3229982889&perks=692399809#notes:Most Popular Perk 1 (13.698%) - BB Tier S; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=3229982889&perks=2298656195#notes:Most Popular Perk 2 (13.698%) - BB Tier S; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 2
@@ -109,7 +109,7 @@ dimwishlist:item=2826850739&perks=880644845,3891536761#notes:Popular Combo (2.97
 dimwishlist:item=2826850739&perks=880644845#notes:Popular Perk 1 (2.976%) - BB Tier S; PvE Rating 4.1; PvP Rating 4.1
 dimwishlist:item=1644162710#notes:BB Tier S; PvE Rating 4.3; PvP Rating 4.3
 dimwishlist:item=4024037919#notes:BB Tier S; PvE Rating 2.5; PvP Rating 3.5
-dimwishlist:item=3754408118#notes:BB Tier S; PvE Rating 3.4; PvP Rating 4.4; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=3754408118#notes:BB Tier S; PvE Rating 3.4; PvP Rating 4.4; Category Popular Rank 10
 dimwishlist:item=3754408118&perks=776531651,2048641572#notes:Most Popular Combo (18.613%) - BB Tier S; PvE Rating 3.4; PvP Rating 4.4; Category Popular Rank 10
 dimwishlist:item=3754408118&perks=776531651#notes:Most Popular Perk 1 (18.613%) - BB Tier S; PvE Rating 3.4; PvP Rating 4.4; Category Popular Rank 10
 dimwishlist:item=3754408118&perks=2048641572#notes:Most Popular Perk 2 (18.613%) - BB Tier S; PvE Rating 3.4; PvP Rating 4.4; Category Popular Rank 10
@@ -145,7 +145,7 @@ dimwishlist:item=2026755633&perks=3700496672,3891536761#notes:Popular Combo (3.9
 dimwishlist:item=2026755633&perks=3700496672#notes:Popular Perk 1 (3.955%) - BB Tier A; PvE Rating 4.8; PvP Rating 4.4
 dimwishlist:item=2026755633&perks=3891536761#notes:Popular Perk 2 (3.955%) - BB Tier A; PvE Rating 4.8; PvP Rating 4.4
 dimwishlist:item=2026755633&perks=1820235745,3891536761#notes:Popular Combo (3.931%) - BB Tier A; PvE Rating 4.8; PvP Rating 4.4
-dimwishlist:item=880829467#notes:BB Tier A; PvE Rating 3.5; PvP Rating 4.7; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=880829467#notes:BB Tier A; PvE Rating 3.5; PvP Rating 4.7; Category Popular Rank 3
 dimwishlist:item=880829467&perks=2848615171,2173046394#notes:Most Popular Combo (10.001%) - BB Tier A; PvE Rating 3.5; PvP Rating 4.7; Category Popular Rank 3
 dimwishlist:item=880829467&perks=2848615171#notes:Most Popular Perk 1 (10.001%) - BB Tier A; PvE Rating 3.5; PvP Rating 4.7; Category Popular Rank 3
 dimwishlist:item=880829467&perks=2173046394#notes:Most Popular Perk 2 (10.001%) - BB Tier A; PvE Rating 3.5; PvP Rating 4.7; Category Popular Rank 3
@@ -224,7 +224,7 @@ dimwishlist:item=2598420927&perks=1359896290#notes:Popular Perk 1 (13.073%) - BB
 dimwishlist:item=2598420927&perks=2450788523,3891536761#notes:Popular Combo (6.313%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.9
 dimwishlist:item=2598420927&perks=2450788523#notes:Popular Perk 1 (6.313%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.9
 dimwishlist:item=4176873718#notes:BB Tier A; PvE Rating 4.5; PvP Rating 4.7
-dimwishlist:item=4232480042#notes:BB Tier A; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=4232480042#notes:BB Tier A; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 7
 dimwishlist:item=4232480042&perks=243981275,3966416502#notes:Most Popular Combo (19.187%) - BB Tier A; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 7
 dimwishlist:item=4232480042&perks=243981275#notes:Most Popular Perk 1 (19.187%) - BB Tier A; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 7
 dimwishlist:item=4232480042&perks=3966416502#notes:Most Popular Perk 2 (19.187%) - BB Tier A; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 7
@@ -285,7 +285,7 @@ dimwishlist:item=3782662983&perks=1820235745#notes:Popular Perk 1 (5.451%) - BB 
 dimwishlist:item=3782662983&perks=1523832109,4293542123#notes:Popular Combo (5.152%) - BB Tier A; PvE Rating 4.8; PvP Rating 4
 dimwishlist:item=3782662983&perks=1523832109#notes:Popular Perk 1 (5.152%) - BB Tier A; PvE Rating 4.8; PvP Rating 4
 dimwishlist:item=1034055198#notes:BB Tier A; PvE Rating 4; PvP Rating 3.8
-dimwishlist:item=3583275737#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=3583275737#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=3583275737&perks=3418782618,95528736#notes:Most Popular Combo (21.909%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=3583275737&perks=3418782618#notes:Most Popular Perk 1 (21.909%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=3583275737&perks=95528736#notes:Most Popular Perk 2 (21.909%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
@@ -293,7 +293,7 @@ dimwishlist:item=3583275737&perks=1820235745,95528736#notes:Popular Combo (13.88
 dimwishlist:item=3583275737&perks=1820235745#notes:Popular Perk 1 (13.884%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=3583275737&perks=776531651,95528736#notes:Popular Combo (13.810%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=3583275737&perks=776531651#notes:Popular Perk 1 (13.810%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
-dimwishlist:item=1801007332#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=1801007332#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 4
 dimwishlist:item=1801007332&perks=2980589453,4293542123#notes:Most Popular Combo (27.041%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 4
 dimwishlist:item=1801007332&perks=2980589453#notes:Most Popular Perk 1 (27.041%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 4
 dimwishlist:item=1801007332&perks=4293542123#notes:Most Popular Perk 2 (27.041%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 4
@@ -390,7 +390,7 @@ dimwishlist:item=1621657423&perks=2450788523,3365897133#notes:Popular Combo (7.9
 dimwishlist:item=1621657423&perks=2450788523#notes:Popular Perk 1 (7.901%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.7
 dimwishlist:item=1621657423&perks=706527188,3365897133#notes:Popular Combo (7.375%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.7
 dimwishlist:item=1621657423&perks=706527188#notes:Popular Perk 1 (7.375%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.7
-dimwishlist:item=1770490683#notes:BB Tier S; PvE Rating 5; PvP Rating 3.6; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=1770490683#notes:BB Tier S; PvE Rating 5; PvP Rating 3.6; Category Popular Rank 4
 dimwishlist:item=1770490683&perks=2848615171,2173046394#notes:Most Popular Combo (30.295%) - BB Tier S; PvE Rating 5; PvP Rating 3.6; Category Popular Rank 4
 dimwishlist:item=1770490683&perks=2848615171#notes:Most Popular Perk 1 (30.295%) - BB Tier S; PvE Rating 5; PvP Rating 3.6; Category Popular Rank 4
 dimwishlist:item=1770490683&perks=2173046394#notes:Most Popular Perk 2 (30.295%) - BB Tier S; PvE Rating 5; PvP Rating 3.6; Category Popular Rank 4
@@ -410,7 +410,7 @@ dimwishlist:item=1039915310&perks=1866048759#notes:Popular Perk 1 (4.792%) - BB 
 dimwishlist:item=1039915310&perks=3414324643#notes:Popular Perk 2 (4.792%) - BB Tier S; PvE Rating 5; PvP Rating 5
 dimwishlist:item=814876685#notes:BB Tier S; PvE Rating 4.8; PvP Rating 2.8
 dimwishlist:item=814876684#notes:BB Tier S; PvE Rating 4.1; PvP Rating 3.9
-dimwishlist:item=232928045#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=232928045#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 9
 dimwishlist:item=232928045&perks=201365942,3365897133#notes:Most Popular Combo (22.989%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 9
 dimwishlist:item=232928045&perks=201365942#notes:Most Popular Perk 1 (22.989%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 9
 dimwishlist:item=232928045&perks=3365897133#notes:Most Popular Perk 2 (22.989%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 9
@@ -460,7 +460,7 @@ dimwishlist:item=3710082365&perks=951095735,1683379515#notes:Popular Combo (9.93
 dimwishlist:item=3710082365&perks=1683379515#notes:Popular Perk 2 (9.931%) - BB Tier A; PvE Rating 4; PvP Rating 4.1
 dimwishlist:item=3710082365&perks=776531651,3365897133#notes:Popular Combo (7.900%) - BB Tier A; PvE Rating 4; PvP Rating 4.1
 dimwishlist:item=3710082365&perks=776531651#notes:Popular Perk 1 (7.900%) - BB Tier A; PvE Rating 4; PvP Rating 4.1
-dimwishlist:item=3388655311#notes:BB Tier A; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=3388655311#notes:BB Tier A; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 10
 dimwishlist:item=3388655311&perks=2848615171,4293542123#notes:Most Popular Combo (38.567%) - BB Tier A; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 10
 dimwishlist:item=3388655311&perks=2848615171#notes:Most Popular Perk 1 (38.567%) - BB Tier A; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 10
 dimwishlist:item=3388655311&perks=4293542123#notes:Most Popular Perk 2 (38.567%) - BB Tier A; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 10
@@ -477,7 +477,7 @@ dimwishlist:item=2721249463&perks=3425386926#notes:Popular Perk 2 (16.870%) - BB
 dimwishlist:item=2721249463&perks=588594999,3365897133#notes:Popular Combo (11.427%) - BB Tier A; PvE Rating 3.8; PvP Rating 2.4
 dimwishlist:item=2721249463&perks=588594999#notes:Popular Perk 1 (11.427%) - BB Tier A; PvE Rating 3.8; PvP Rating 2.4
 dimwishlist:item=2591746970#notes:BB Tier A; PvE Rating 4.5; PvP Rating 4
-dimwishlist:item=2591241074#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.7; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=2591241074#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=2591241074&perks=201365942,4293542123#notes:Most Popular Combo (10.798%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=2591241074&perks=201365942#notes:Most Popular Perk 1 (10.798%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=2591241074&perks=4293542123#notes:Most Popular Perk 2 (10.798%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.7; Category Popular Rank 7
@@ -533,7 +533,7 @@ dimwishlist:item=496556698&perks=201365942,3365897133#notes:Popular Combo (9.197
 dimwishlist:item=496556698&perks=3365897133#notes:Popular Perk 2 (9.197%) - BB Tier A; PvE Rating 4.7; PvP Rating 3.8
 dimwishlist:item=496556698&perks=201365942,555281244#notes:Popular Combo (7.464%) - BB Tier A; PvE Rating 4.7; PvP Rating 3.8
 dimwishlist:item=496556698&perks=555281244#notes:Popular Perk 2 (7.464%) - BB Tier A; PvE Rating 4.7; PvP Rating 3.8
-dimwishlist:item=2326578623#notes:BB Tier A; PvE Rating 4; PvP Rating 4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=2326578623#notes:BB Tier A; PvE Rating 4; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=2326578623&perks=776531651,2048641572#notes:Most Popular Combo (26.819%) - BB Tier A; PvE Rating 4; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=2326578623&perks=776531651#notes:Most Popular Perk 1 (26.819%) - BB Tier A; PvE Rating 4; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=2326578623&perks=2048641572#notes:Most Popular Perk 2 (26.819%) - BB Tier A; PvE Rating 4; PvP Rating 4; Category Popular Rank 3
@@ -543,7 +543,7 @@ dimwishlist:item=2326578623&perks=201365942,1015611457#notes:Popular Combo (7.15
 dimwishlist:item=2326578623&perks=1015611457#notes:Popular Perk 2 (7.158%) - BB Tier A; PvE Rating 4; PvP Rating 4; Category Popular Rank 3; Category Popular Rank 3
 dimwishlist:item=591672323#notes:BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=2631466936#notes:BB Tier A; PvE Rating 0; PvP Rating 0
-dimwishlist:item=2291392465#notes:BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=2291392465#notes:BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=2291392465&perks=776531651,2048641572#notes:Most Popular Combo (10.466%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=2291392465&perks=776531651#notes:Most Popular Perk 1 (10.466%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=2291392465&perks=2048641572#notes:Most Popular Perk 2 (10.466%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
@@ -585,7 +585,7 @@ dimwishlist:item=3962575203&perks=3365897133#notes:Popular Perk 2 (4.451%) - BB 
 dimwishlist:item=3962575203&perks=1866048759,3414324643#notes:Popular Combo (4.414%) - BB Tier A; PvE Rating 5; PvP Rating 5
 dimwishlist:item=3962575203&perks=1866048759#notes:Popular Perk 1 (4.414%) - BB Tier A; PvE Rating 5; PvP Rating 5
 dimwishlist:item=3962575203&perks=3414324643#notes:Popular Perk 2 (4.414%) - BB Tier A; PvE Rating 5; PvP Rating 5
-dimwishlist:item=2848549302#notes:PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=2848549302#notes:PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1
 dimwishlist:item=2848549302&perks=2846385770,1546637391#notes:Most Popular Combo (3.755%) - PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1
 dimwishlist:item=2848549302&perks=2846385770#notes:Most Popular Perk 1 (3.755%) - PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1
 dimwishlist:item=2848549302&perks=1546637391#notes:Most Popular Perk 2 (3.755%) - PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1
@@ -593,8 +593,8 @@ dimwishlist:item=2848549302&perks=880644845,2579169598#notes:Popular Combo (3.68
 dimwishlist:item=2848549302&perks=880644845#notes:Popular Perk 1 (3.682%) - PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1
 dimwishlist:item=2848549302&perks=2579169598#notes:Popular Perk 2 (3.682%) - PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1; Category Popular Rank 1
 dimwishlist:item=2848549302&perks=2846385770,2579169598#notes:Popular Combo (3.594%) - PvE Rating 1.7; PvP Rating 1.6; Category Popular Rank 1
-dimwishlist:item=2910326942#notes:PvE Rating 4.5; PvP Rating 3.1; Category Popular Rank 5; Category Popular Rank 5
-dimwishlist:item=839344841#notes:PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=2910326942#notes:PvE Rating 4.5; PvP Rating 3.1; Category Popular Rank 5
+dimwishlist:item=839344841#notes:PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=839344841&perks=3365897133,831391274#notes:Most Popular Combo (13.184%) - PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=839344841&perks=3365897133#notes:Most Popular Perk 1 (13.184%) - PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=839344841&perks=831391274#notes:Most Popular Perk 2 (13.184%) - PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6
@@ -603,7 +603,7 @@ dimwishlist:item=839344841&perks=923806249#notes:Popular Perk 1 (9.297%) - PvE R
 dimwishlist:item=839344841&perks=201365942,555281244#notes:Popular Combo (7.874%) - PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=839344841&perks=201365942#notes:Popular Perk 1 (7.874%) - PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=839344841&perks=555281244#notes:Popular Perk 2 (7.874%) - PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 6; Category Popular Rank 6
-dimwishlist:item=720351795#notes:PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=720351795#notes:PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=720351795&perks=3425386926,3365897133#notes:Most Popular Combo (30.976%) - PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=720351795&perks=3425386926#notes:Most Popular Perk 1 (30.976%) - PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=720351795&perks=3365897133#notes:Most Popular Perk 2 (30.976%) - PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8
@@ -611,7 +611,7 @@ dimwishlist:item=720351795&perks=2848615171,3365897133#notes:Popular Combo (19.7
 dimwishlist:item=720351795&perks=2848615171#notes:Popular Perk 1 (19.735%) - PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=720351795&perks=2848615171,201365942#notes:Popular Combo (7.405%) - PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=720351795&perks=201365942#notes:Popular Perk 2 (7.405%) - PvE Rating 4.7; PvP Rating 4; Category Popular Rank 8; Category Popular Rank 8
-dimwishlist:item=3436626079#notes:BB Tier S; PvE Rating 4.3; PvP Rating 5; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=3436626079#notes:BB Tier S; PvE Rating 4.3; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3436626079&perks=2048641572,1464081238#notes:Most Popular Combo (7.144%) - BB Tier S; PvE Rating 4.3; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3436626079&perks=2048641572#notes:Most Popular Perk 1 (7.144%) - BB Tier S; PvE Rating 4.3; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3436626079&perks=1464081238#notes:Most Popular Perk 2 (7.144%) - BB Tier S; PvE Rating 4.3; PvP Rating 5; Category Popular Rank 7
@@ -738,7 +738,7 @@ dimwishlist:item=1216319404&perks=3038247973,47981717#notes:Popular Combo (5.229
 dimwishlist:item=1216319404&perks=47981717#notes:Popular Perk 2 (5.229%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.6
 dimwishlist:item=2907129557#notes:BB Tier S; PvE Rating 4.8; PvP Rating 4.1
 dimwishlist:item=204878059#notes:BB Tier S; PvE Rating 4.4; PvP Rating 3.9
-dimwishlist:item=431721920#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=431721920#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
 dimwishlist:item=431721920&perks=3038247973,4293542123#notes:Most Popular Combo (70.570%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
 dimwishlist:item=431721920&perks=3038247973#notes:Most Popular Perk 1 (70.570%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
 dimwishlist:item=431721920&perks=4293542123#notes:Most Popular Perk 2 (70.570%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
@@ -754,7 +754,7 @@ dimwishlist:item=291092617&perks=3038247973,4049631843#notes:Popular Combo (13.1
 dimwishlist:item=291092617&perks=4049631843#notes:Popular Perk 2 (13.143%) - BB Tier S; PvE Rating 4.4; PvP Rating 3.8
 dimwishlist:item=291092617&perks=3038247973,3824105627#notes:Popular Combo (11.833%) - BB Tier S; PvE Rating 4.4; PvP Rating 3.8
 dimwishlist:item=291092617&perks=3824105627#notes:Popular Perk 2 (11.833%) - BB Tier S; PvE Rating 4.4; PvP Rating 3.8
-dimwishlist:item=2763843898#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4.1; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=2763843898#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=2763843898&perks=3038247973,3891536761#notes:Most Popular Combo (14.202%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=2763843898&perks=3038247973#notes:Most Popular Perk 1 (14.202%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=2763843898&perks=3891536761#notes:Most Popular Perk 2 (14.202%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.1; Category Popular Rank 5
@@ -792,8 +792,8 @@ dimwishlist:item=2378785953&perks=1354429876#notes:Popular Perk 1 (6.575%) - BB 
 dimwishlist:item=2378785953&perks=1546637391#notes:Popular Perk 2 (6.575%) - BB Tier S; PvE Rating 4.2; PvP Rating 3
 dimwishlist:item=347366834#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.9
 dimwishlist:item=3973202132#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4.6
-dimwishlist:item=3856705927#notes:BB Tier S; PvE Rating 3.8; PvP Rating 4.1; Category Popular Rank 8; Category Popular Rank 8
-dimwishlist:item=882778888#notes:BB Tier S; PvE Rating 3.3; PvP Rating 5; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=3856705927#notes:BB Tier S; PvE Rating 3.8; PvP Rating 4.1; Category Popular Rank 8
+dimwishlist:item=882778888#notes:BB Tier S; PvE Rating 3.3; PvP Rating 5; Category Popular Rank 3
 dimwishlist:item=882778888&perks=3161816588,47981717#notes:Most Popular Combo (14.355%) - BB Tier S; PvE Rating 3.3; PvP Rating 5; Category Popular Rank 3
 dimwishlist:item=882778888&perks=3161816588#notes:Most Popular Perk 1 (14.355%) - BB Tier S; PvE Rating 3.3; PvP Rating 5; Category Popular Rank 3
 dimwishlist:item=882778888&perks=47981717#notes:Most Popular Perk 2 (14.355%) - BB Tier S; PvE Rating 3.3; PvP Rating 5; Category Popular Rank 3
@@ -893,7 +893,7 @@ dimwishlist:item=496728945&perks=124408337,3523296417#notes:Popular Combo (11.70
 dimwishlist:item=496728945&perks=3523296417#notes:Popular Perk 2 (11.708%) - BB Tier A; PvE Rating 4.9; PvP Rating 3.8
 dimwishlist:item=496728945&perks=124408337,2109543898#notes:Popular Combo (4.373%) - BB Tier A; PvE Rating 4.9; PvP Rating 3.8
 dimwishlist:item=496728945&perks=2109543898#notes:Popular Perk 2 (4.373%) - BB Tier A; PvE Rating 4.9; PvP Rating 3.8
-dimwishlist:item=1246793994#notes:BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=1246793994#notes:BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6
 dimwishlist:item=1246793994&perks=776531651,2048641572#notes:Most Popular Combo (19.772%) - BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6
 dimwishlist:item=1246793994&perks=776531651#notes:Most Popular Perk 1 (19.772%) - BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6
 dimwishlist:item=1246793994&perks=2048641572#notes:Most Popular Perk 2 (19.772%) - BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6
@@ -901,7 +901,7 @@ dimwishlist:item=1246793994&perks=247725512,2048641572#notes:Popular Combo (6.56
 dimwishlist:item=1246793994&perks=247725512#notes:Popular Perk 1 (6.568%) - BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6
 dimwishlist:item=1246793994&perks=776531651,2848615171#notes:Popular Combo (4.846%) - BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6
 dimwishlist:item=1246793994&perks=2848615171#notes:Popular Perk 2 (4.846%) - BB Tier A; PvE Rating 4.8; PvP Rating 2.5; Category Popular Rank 6; Category Popular Rank 6
-dimwishlist:item=2485881870#notes:BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=2485881870#notes:BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=2485881870&perks=2848615171,4104185692#notes:Most Popular Combo (9.050%) - BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=2485881870&perks=2848615171#notes:Most Popular Perk 1 (9.050%) - BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=2485881870&perks=4104185692#notes:Most Popular Perk 2 (9.050%) - BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4
@@ -909,7 +909,7 @@ dimwishlist:item=2485881870&perks=831391274,960997401#notes:Popular Combo (8.127
 dimwishlist:item=2485881870&perks=831391274#notes:Popular Perk 1 (8.127%) - BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=2485881870&perks=960997401#notes:Popular Perk 2 (8.127%) - BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4; Category Popular Rank 4
 dimwishlist:item=2485881870&perks=2848615171,960997401#notes:Popular Combo (7.458%) - BB Tier A; PvE Rating 4.2; PvP Rating 3.5; Category Popular Rank 4
-dimwishlist:item=198854575#notes:BB Tier A; PvE Rating 3; PvP Rating 4.4; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=198854575#notes:BB Tier A; PvE Rating 3; PvP Rating 4.4; Category Popular Rank 2
 dimwishlist:item=198854575&perks=2039302152,555281244#notes:Most Popular Combo (17.196%) - BB Tier A; PvE Rating 3; PvP Rating 4.4; Category Popular Rank 2
 dimwishlist:item=198854575&perks=2039302152#notes:Most Popular Perk 1 (17.196%) - BB Tier A; PvE Rating 3; PvP Rating 4.4; Category Popular Rank 2
 dimwishlist:item=198854575&perks=555281244#notes:Most Popular Perk 2 (17.196%) - BB Tier A; PvE Rating 3; PvP Rating 4.4; Category Popular Rank 2
@@ -986,7 +986,7 @@ dimwishlist:item=2763843899&perks=1015611457#notes:Popular Perk 2 (7.262%) - BB 
 dimwishlist:item=2763843899&perks=3017780555,2720533289#notes:Popular Combo (6.997%) - BB Tier A; PvE Rating 4.4; PvP Rating 4.8
 dimwishlist:item=2763843899&perks=2720533289#notes:Popular Perk 2 (6.997%) - BB Tier A; PvE Rating 4.4; PvP Rating 4.8
 dimwishlist:item=153979396#notes:BB Tier A; PvE Rating 3.4; PvP Rating 4
-dimwishlist:item=4077588826#notes:BB Tier A; PvE Rating 2.9; PvP Rating 3.9; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=4077588826#notes:BB Tier A; PvE Rating 2.9; PvP Rating 3.9; Category Popular Rank 9
 dimwishlist:item=4077588826&perks=3038247973,3218042543#notes:Most Popular Combo (14.638%) - BB Tier A; PvE Rating 2.9; PvP Rating 3.9; Category Popular Rank 9
 dimwishlist:item=4077588826&perks=3038247973#notes:Most Popular Perk 1 (14.638%) - BB Tier A; PvE Rating 2.9; PvP Rating 3.9; Category Popular Rank 9
 dimwishlist:item=4077588826&perks=3218042543#notes:Most Popular Perk 2 (14.638%) - BB Tier A; PvE Rating 2.9; PvP Rating 3.9; Category Popular Rank 9
@@ -1018,7 +1018,7 @@ dimwishlist:item=1481892490&perks=2450788523,2846385770#notes:Popular Combo (9.9
 dimwishlist:item=1481892490&perks=2450788523#notes:Popular Perk 1 (9.903%) - BB Tier A; PvE Rating 4.2; PvP Rating 4.6
 dimwishlist:item=1481892490&perks=1168162263,2846385770#notes:Popular Combo (5.364%) - BB Tier A; PvE Rating 4.2; PvP Rating 4.6
 dimwishlist:item=1481892490&perks=1168162263#notes:Popular Perk 1 (5.364%) - BB Tier A; PvE Rating 4.2; PvP Rating 4.6
-dimwishlist:item=2226572694#notes:PvE Rating 3.6; PvP Rating 3.2; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=2226572694#notes:PvE Rating 3.6; PvP Rating 3.2; Category Popular Rank 1
 dimwishlist:item=2226572694&perks=124408337,1955165503#notes:Most Popular Combo (10.438%) - PvE Rating 3.6; PvP Rating 3.2; Category Popular Rank 1
 dimwishlist:item=2226572694&perks=124408337#notes:Most Popular Perk 1 (10.438%) - PvE Rating 3.6; PvP Rating 3.2; Category Popular Rank 1
 dimwishlist:item=2226572694&perks=1955165503#notes:Most Popular Perk 2 (10.438%) - PvE Rating 3.6; PvP Rating 3.2; Category Popular Rank 1
@@ -1073,7 +1073,7 @@ dimwishlist:item=1987644603&perks=3161816588#notes:Popular Perk 1 (7.004%) - PvE
 dimwishlist:item=1987644603&perks=555281244#notes:Popular Perk 2 (7.004%) - PvE Rating 3.5; PvP Rating 4.5
 dimwishlist:item=1987644603&perks=3161816588,47981717#notes:Popular Combo (5.143%) - PvE Rating 3.5; PvP Rating 4.5
 dimwishlist:item=1987644603&perks=47981717#notes:Popular Perk 2 (5.143%) - PvE Rating 3.5; PvP Rating 4.5
-dimwishlist:item=3218364298#notes:BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=3218364298#notes:BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3218364298&perks=2387244414,460017080#notes:Most Popular Combo (8.081%) - BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3218364298&perks=2387244414#notes:Most Popular Perk 1 (8.081%) - BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3218364298&perks=460017080#notes:Most Popular Perk 2 (8.081%) - BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7
@@ -1081,7 +1081,7 @@ dimwishlist:item=3218364298&perks=2579169598,460017080#notes:Popular Combo (5.89
 dimwishlist:item=3218364298&perks=2579169598#notes:Popular Perk 1 (5.894%) - BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3218364298&perks=2579169598,1015611457#notes:Popular Combo (5.207%) - BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7
 dimwishlist:item=3218364298&perks=1015611457#notes:Popular Perk 2 (5.207%) - BB Tier S+; PvE Rating 4.7; PvP Rating 5; Category Popular Rank 7; Category Popular Rank 7
-dimwishlist:item=2708806099#notes:BB Tier S; PvE Rating 4.5; PvP Rating 4.6; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=2708806099#notes:BB Tier S; PvE Rating 4.5; PvP Rating 4.6; Category Popular Rank 4
 dimwishlist:item=2708806099&perks=3523296417,4293542123#notes:Most Popular Combo (22.547%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.6; Category Popular Rank 4
 dimwishlist:item=2708806099&perks=3523296417#notes:Most Popular Perk 1 (22.547%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.6; Category Popular Rank 4
 dimwishlist:item=2708806099&perks=4293542123#notes:Most Popular Perk 2 (22.547%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.6; Category Popular Rank 4
@@ -1107,7 +1107,7 @@ dimwishlist:item=892183998&perks=3824105627#notes:Popular Perk 1 (15.224%) - BB 
 dimwishlist:item=892183998&perks=3017780555,3640170453#notes:Popular Combo (8.690%) - BB Tier S; PvE Rating 0; PvP Rating 0
 dimwishlist:item=892183998&perks=3640170453#notes:Popular Perk 2 (8.690%) - BB Tier S; PvE Rating 0; PvP Rating 0
 dimwishlist:item=427899681#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4.5
-dimwishlist:item=157601190#notes:BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=157601190#notes:BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1
 dimwishlist:item=157601190&perks=2848615171,2048641572#notes:Most Popular Combo (6.391%) - BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1
 dimwishlist:item=157601190&perks=2848615171#notes:Most Popular Perk 1 (6.391%) - BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1
 dimwishlist:item=157601190&perks=2048641572#notes:Most Popular Perk 2 (6.391%) - BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1
@@ -1117,7 +1117,7 @@ dimwishlist:item=157601190&perks=2579169598,460017080#notes:Popular Combo (3.765
 dimwishlist:item=157601190&perks=2579169598#notes:Popular Perk 1 (3.765%) - BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1
 dimwishlist:item=157601190&perks=460017080#notes:Popular Perk 2 (3.765%) - BB Tier S; PvE Rating 5; PvP Rating 4.3; Category Popular Rank 1; Category Popular Rank 1
 dimwishlist:item=3628991658#notes:BB Tier S; PvE Rating 4.5; PvP Rating 4.1
-dimwishlist:item=3824673936#notes:BB Tier S; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=3824673936#notes:BB Tier S; PvE Rating 5; PvP Rating 4.2; Category Popular Rank 2
 dimwishlist:item=400096939#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.5
 dimwishlist:item=3843477312#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.8
 dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:Most Popular Combo (19.600%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.8
@@ -1143,7 +1143,7 @@ dimwishlist:item=2372514508&perks=3891536761,4049631843#notes:Popular Combo (9.2
 dimwishlist:item=2372514508&perks=4049631843#notes:Popular Perk 2 (9.209%) - BB Tier S; PvE Rating 4.2; PvP Rating 4.5
 dimwishlist:item=2372514508&perks=3891536761,4104185692#notes:Popular Combo (8.112%) - BB Tier S; PvE Rating 4.2; PvP Rating 4.5
 dimwishlist:item=2372514508&perks=4104185692#notes:Popular Perk 2 (8.112%) - BB Tier S; PvE Rating 4.2; PvP Rating 4.5
-dimwishlist:item=1505862304#notes:BB Tier S; PvE Rating 3.3; PvP Rating 4.9; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=1505862304#notes:BB Tier S; PvE Rating 3.3; PvP Rating 4.9; Category Popular Rank 8
 dimwishlist:item=1505862304&perks=776531651,2048641572#notes:Most Popular Combo (13.698%) - BB Tier S; PvE Rating 3.3; PvP Rating 4.9; Category Popular Rank 8
 dimwishlist:item=1505862304&perks=776531651#notes:Most Popular Perk 1 (13.698%) - BB Tier S; PvE Rating 3.3; PvP Rating 4.9; Category Popular Rank 8
 dimwishlist:item=1505862304&perks=2048641572#notes:Most Popular Perk 2 (13.698%) - BB Tier S; PvE Rating 3.3; PvP Rating 4.9; Category Popular Rank 8
@@ -1185,7 +1185,7 @@ dimwishlist:item=1924276978&perks=2387244414,1015611457#notes:Popular Combo (13.
 dimwishlist:item=1924276978&perks=2387244414#notes:Popular Perk 1 (13.615%) - BB Tier S; PvE Rating 4.3; PvP Rating 4.8
 dimwishlist:item=1924276978&perks=1428297954,4104185692#notes:Popular Combo (4.898%) - BB Tier S; PvE Rating 4.3; PvP Rating 4.8
 dimwishlist:item=1924276978&perks=4104185692#notes:Popular Perk 2 (4.898%) - BB Tier S; PvE Rating 4.3; PvP Rating 4.8
-dimwishlist:item=2372514509#notes:BB Tier S; PvE Rating 3.5; PvP Rating 5; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=2372514509#notes:BB Tier S; PvE Rating 3.5; PvP Rating 5; Category Popular Rank 9
 dimwishlist:item=2372514509&perks=2387244414,460017080#notes:Most Popular Combo (16.422%) - BB Tier S; PvE Rating 3.5; PvP Rating 5; Category Popular Rank 9
 dimwishlist:item=2372514509&perks=2387244414#notes:Most Popular Perk 1 (16.422%) - BB Tier S; PvE Rating 3.5; PvP Rating 5; Category Popular Rank 9
 dimwishlist:item=2372514509&perks=460017080#notes:Most Popular Perk 2 (16.422%) - BB Tier S; PvE Rating 3.5; PvP Rating 5; Category Popular Rank 9
@@ -1437,7 +1437,7 @@ dimwishlist:item=2563668388&perks=3828510309,460017080#notes:Popular Combo (4.16
 dimwishlist:item=2563668388&perks=3828510309#notes:Popular Perk 1 (4.162%) - BB Tier A; PvE Rating 2.5; PvP Rating 5
 dimwishlist:item=2563668388&perks=3619207468,243981275#notes:Popular Combo (3.610%) - BB Tier A; PvE Rating 2.5; PvP Rating 5
 dimwishlist:item=2563668388&perks=243981275#notes:Popular Perk 2 (3.610%) - BB Tier A; PvE Rating 2.5; PvP Rating 5
-dimwishlist:item=3969379530#notes:BB Tier A; PvE Rating 4.3; PvP Rating 4.8; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=3969379530#notes:BB Tier A; PvE Rating 4.3; PvP Rating 4.8; Category Popular Rank 6
 dimwishlist:item=3969379530&perks=2387244414,460017080#notes:Most Popular Combo (6.717%) - BB Tier A; PvE Rating 4.3; PvP Rating 4.8; Category Popular Rank 6
 dimwishlist:item=3969379530&perks=2387244414#notes:Most Popular Perk 1 (6.717%) - BB Tier A; PvE Rating 4.3; PvP Rating 4.8; Category Popular Rank 6
 dimwishlist:item=3969379530&perks=460017080#notes:Most Popular Perk 2 (6.717%) - BB Tier A; PvE Rating 4.3; PvP Rating 4.8; Category Popular Rank 6
@@ -1503,7 +1503,7 @@ dimwishlist:item=2712244741&perks=1015611457,1168162263#notes:Popular Combo (17.
 dimwishlist:item=2712244741&perks=1168162263#notes:Popular Perk 2 (17.989%) - BB Tier A; PvE Rating 4.5; PvP Rating 4.9
 dimwishlist:item=2712244741&perks=3425386926,1168162263#notes:Popular Combo (9.134%) - BB Tier A; PvE Rating 4.5; PvP Rating 4.9
 dimwishlist:item=2712244741&perks=3425386926#notes:Popular Perk 1 (9.134%) - BB Tier A; PvE Rating 4.5; PvP Rating 4.9
-dimwishlist:item=3733988413#notes:PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=3733988413#notes:PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=3733988413&perks=3824105627,831391274#notes:Most Popular Combo (8.623%) - PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=3733988413&perks=3824105627#notes:Most Popular Perk 1 (8.623%) - PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=3733988413&perks=831391274#notes:Most Popular Perk 2 (8.623%) - PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3
@@ -1511,7 +1511,7 @@ dimwishlist:item=3733988413&perks=960997401,831391274#notes:Popular Combo (5.925
 dimwishlist:item=3733988413&perks=960997401#notes:Popular Perk 1 (5.925%) - PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=3733988413&perks=3824105627,3047969693#notes:Popular Combo (4.242%) - PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=3733988413&perks=3047969693#notes:Popular Perk 2 (4.242%) - PvE Rating 3.5; PvP Rating 3; Category Popular Rank 3; Category Popular Rank 3
-dimwishlist:item=3681280908#notes:PvE Rating 4.5; PvP Rating 4; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=3681280908#notes:PvE Rating 4.5; PvP Rating 4; Category Popular Rank 10
 dimwishlist:item=3681280908&perks=3824105627,831391274#notes:Most Popular Combo (10.369%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 10
 dimwishlist:item=3681280908&perks=3824105627#notes:Most Popular Perk 1 (10.369%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 10
 dimwishlist:item=3681280908&perks=831391274#notes:Most Popular Perk 2 (10.369%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 10
@@ -1546,7 +1546,7 @@ dimwishlist:item=1827058652&perks=960997401#notes:Popular Perk 1 (6.279%) - PvE 
 dimwishlist:item=1827058652&perks=3619207468,460017080#notes:Popular Combo (5.196%) - PvE Rating 5; PvP Rating 3
 dimwishlist:item=1827058652&perks=3619207468#notes:Popular Perk 1 (5.196%) - PvE Rating 5; PvP Rating 3
 dimwishlist:item=1827058652&perks=460017080#notes:Popular Perk 2 (5.196%) - PvE Rating 5; PvP Rating 3
-dimwishlist:item=2347178967#notes:PvE Rating 3.6; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=2347178967#notes:PvE Rating 3.6; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2347178967&perks=2848615171,3218042543#notes:Most Popular Combo (12.566%) - PvE Rating 3.6; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2347178967&perks=2848615171#notes:Most Popular Perk 1 (12.566%) - PvE Rating 3.6; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2347178967&perks=3218042543#notes:Most Popular Perk 2 (12.566%) - PvE Rating 3.6; PvP Rating 3.8; Category Popular Rank 5
@@ -1562,7 +1562,7 @@ dimwishlist:item=233635202&perks=684456054,3218042543#notes:Popular Combo (4.402
 dimwishlist:item=233635202&perks=684456054#notes:Popular Perk 1 (4.402%) - PvE Rating 2.8; PvP Rating 2
 dimwishlist:item=233635202&perks=3523296417,3218042543#notes:Popular Combo (4.263%) - PvE Rating 2.8; PvP Rating 2
 dimwishlist:item=233635202&perks=3523296417#notes:Popular Perk 1 (4.263%) - PvE Rating 2.8; PvP Rating 2
-dimwishlist:item=2226158470#notes:BB Tier S+; PvE Rating 4.2; PvP Rating 4.4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=2226158470#notes:BB Tier S+; PvE Rating 4.2; PvP Rating 4.4; Category Popular Rank 3
 dimwishlist:item=2226158470&perks=3824105627,2173046394#notes:Most Popular Combo (14.705%) - BB Tier S+; PvE Rating 4.2; PvP Rating 4.4; Category Popular Rank 3
 dimwishlist:item=2226158470&perks=3824105627#notes:Most Popular Perk 1 (14.705%) - BB Tier S+; PvE Rating 4.2; PvP Rating 4.4; Category Popular Rank 3
 dimwishlist:item=2226158470&perks=2173046394#notes:Most Popular Perk 2 (14.705%) - BB Tier S+; PvE Rating 4.2; PvP Rating 4.4; Category Popular Rank 3
@@ -1578,7 +1578,7 @@ dimwishlist:item=1392919471&perks=247725512,4293542123#notes:Popular Combo (9.75
 dimwishlist:item=1392919471&perks=247725512#notes:Popular Perk 1 (9.757%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1
 dimwishlist:item=1392919471&perks=1523832109,3201496230#notes:Popular Combo (5.209%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1
 dimwishlist:item=1392919471&perks=3201496230#notes:Popular Perk 2 (5.209%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.1
-dimwishlist:item=3292795429#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4.8; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=3292795429#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4.8; Category Popular Rank 5
 dimwishlist:item=3292795429&perks=2387244414,1015611457#notes:Most Popular Combo (5.882%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.8; Category Popular Rank 5
 dimwishlist:item=3292795429&perks=2387244414#notes:Most Popular Perk 1 (5.882%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.8; Category Popular Rank 5
 dimwishlist:item=3292795429&perks=1015611457#notes:Most Popular Perk 2 (5.882%) - BB Tier S; PvE Rating 4.4; PvP Rating 4.8; Category Popular Rank 5
@@ -1643,7 +1643,7 @@ dimwishlist:item=2218569744&perks=247725512#notes:Popular Perk 1 (13.725%) - BB 
 dimwishlist:item=2218569744&perks=3700496672,3038247973#notes:Popular Combo (9.491%) - BB Tier A; PvE Rating 4.6; PvP Rating 3.1
 dimwishlist:item=2218569744&perks=3700496672#notes:Popular Perk 1 (9.491%) - BB Tier A; PvE Rating 4.6; PvP Rating 3.1
 dimwishlist:item=2218569744&perks=3038247973#notes:Popular Perk 2 (9.491%) - BB Tier A; PvE Rating 4.6; PvP Rating 3.1
-dimwishlist:item=1937552980#notes:BB Tier A; PvE Rating 5; PvP Rating 3.9; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=1937552980#notes:BB Tier A; PvE Rating 5; PvP Rating 3.9; Category Popular Rank 9
 dimwishlist:item=1937552980&perks=3824105627,2848615171#notes:Most Popular Combo (15.157%) - BB Tier A; PvE Rating 5; PvP Rating 3.9; Category Popular Rank 9
 dimwishlist:item=1937552980&perks=3824105627#notes:Most Popular Perk 1 (15.157%) - BB Tier A; PvE Rating 5; PvP Rating 3.9; Category Popular Rank 9
 dimwishlist:item=1937552980&perks=2848615171#notes:Most Popular Perk 2 (15.157%) - BB Tier A; PvE Rating 5; PvP Rating 3.9; Category Popular Rank 9
@@ -1669,7 +1669,7 @@ dimwishlist:item=2779821308&perks=3619207468#notes:Popular Perk 1 (9.276%) - BB 
 dimwishlist:item=2779821308&perks=247725512,2048641572#notes:Popular Combo (9.003%) - BB Tier A; PvE Rating 4.5; PvP Rating 4.8
 dimwishlist:item=2779821308&perks=247725512#notes:Popular Perk 1 (9.003%) - BB Tier A; PvE Rating 4.5; PvP Rating 4.8
 dimwishlist:item=2779821308&perks=2048641572#notes:Popular Perk 2 (9.003%) - BB Tier A; PvE Rating 4.5; PvP Rating 4.8
-dimwishlist:item=1453235079#notes:BB Tier A; PvE Rating 4.6; PvP Rating 4.2; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=1453235079#notes:BB Tier A; PvE Rating 4.6; PvP Rating 4.2; Category Popular Rank 6
 dimwishlist:item=1453235079&perks=3891536761,3824105627#notes:Most Popular Combo (18.195%) - BB Tier A; PvE Rating 4.6; PvP Rating 4.2; Category Popular Rank 6
 dimwishlist:item=1453235079&perks=3891536761#notes:Most Popular Perk 1 (18.195%) - BB Tier A; PvE Rating 4.6; PvP Rating 4.2; Category Popular Rank 6
 dimwishlist:item=1453235079&perks=3824105627#notes:Most Popular Perk 2 (18.195%) - BB Tier A; PvE Rating 4.6; PvP Rating 4.2; Category Popular Rank 6
@@ -1733,7 +1733,7 @@ dimwishlist:item=2883684343&perks=247725512,3891536761#notes:Popular Combo (18.4
 dimwishlist:item=2883684343&perks=247725512#notes:Popular Perk 1 (18.423%) - BB Tier A; PvE Rating 4.3; PvP Rating 3.5
 dimwishlist:item=2883684343&perks=247725512,3824105627#notes:Popular Combo (9.432%) - BB Tier A; PvE Rating 4.3; PvP Rating 3.5
 dimwishlist:item=2883684343&perks=3824105627#notes:Popular Perk 2 (9.432%) - BB Tier A; PvE Rating 4.3; PvP Rating 3.5
-dimwishlist:item=2249996761#notes:BB Tier A; PvE Rating 4.5; PvP Rating 4; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=2249996761#notes:BB Tier A; PvE Rating 4.5; PvP Rating 4; Category Popular Rank 7
 dimwishlist:item=2249996761&perks=247725512,3038247973#notes:Most Popular Combo (14.443%) - BB Tier A; PvE Rating 4.5; PvP Rating 4; Category Popular Rank 7
 dimwishlist:item=2249996761&perks=247725512#notes:Most Popular Perk 1 (14.443%) - BB Tier A; PvE Rating 4.5; PvP Rating 4; Category Popular Rank 7
 dimwishlist:item=2249996761&perks=3038247973#notes:Most Popular Perk 2 (14.443%) - BB Tier A; PvE Rating 4.5; PvP Rating 4; Category Popular Rank 7
@@ -1842,7 +1842,7 @@ dimwishlist:item=1389546626&perks=1015611457#notes:Popular Perk 2 (8.381%) - BB 
 dimwishlist:item=1389546626&perks=1354429876,831391274#notes:Popular Combo (7.833%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.4
 dimwishlist:item=1389546626&perks=1354429876#notes:Popular Perk 1 (7.833%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.4
 dimwishlist:item=1389546626&perks=831391274#notes:Popular Perk 2 (7.833%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.4
-dimwishlist:item=3612142623#notes:PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=3612142623#notes:PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=3612142623&perks=1955165503,124408337#notes:Most Popular Combo (14.880%) - PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=3612142623&perks=1955165503#notes:Most Popular Perk 1 (14.880%) - PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=3612142623&perks=124408337#notes:Most Popular Perk 2 (14.880%) - PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
@@ -1850,7 +1850,7 @@ dimwishlist:item=3612142623&perks=247725512,124408337#notes:Popular Combo (5.353
 dimwishlist:item=3612142623&perks=247725512#notes:Popular Perk 1 (5.353%) - PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=3612142623&perks=1820235745,124408337#notes:Popular Combo (4.685%) - PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=3612142623&perks=1820235745#notes:Popular Perk 1 (4.685%) - PvE Rating 4.5; PvP Rating 4.4; Category Popular Rank 1
-dimwishlist:item=3776430252#notes:PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=3776430252#notes:PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2
 dimwishlist:item=3776430252&perks=776531651,1464081238#notes:Most Popular Combo (7.032%) - PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2
 dimwishlist:item=3776430252&perks=776531651#notes:Most Popular Perk 1 (7.032%) - PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2
 dimwishlist:item=3776430252&perks=1464081238#notes:Most Popular Perk 2 (7.032%) - PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2
@@ -1858,7 +1858,7 @@ dimwishlist:item=3776430252&perks=776531651,1134488199#notes:Popular Combo (6.75
 dimwishlist:item=3776430252&perks=1134488199#notes:Popular Perk 2 (6.757%) - PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2; Category Popular Rank 2
 dimwishlist:item=3776430252&perks=247725512,1464081238#notes:Popular Combo (4.114%) - PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2
 dimwishlist:item=3776430252&perks=247725512#notes:Popular Perk 1 (4.114%) - PvE Rating 4.4; PvP Rating 4.3; Category Popular Rank 2
-dimwishlist:item=4249949938#notes:PvE Rating 3; PvP Rating 2.7; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=4249949938#notes:PvE Rating 3; PvP Rating 2.7; Category Popular Rank 4
 dimwishlist:item=4249949938&perks=247725512,3218042543#notes:Most Popular Combo (5.021%) - PvE Rating 3; PvP Rating 2.7; Category Popular Rank 4
 dimwishlist:item=4249949938&perks=247725512#notes:Most Popular Perk 1 (5.021%) - PvE Rating 3; PvP Rating 2.7; Category Popular Rank 4
 dimwishlist:item=4249949938&perks=3218042543#notes:Most Popular Perk 2 (5.021%) - PvE Rating 3; PvP Rating 2.7; Category Popular Rank 4
@@ -1898,7 +1898,7 @@ dimwishlist:item=4239378215&perks=247725512,3038247973#notes:Popular Combo (4.49
 dimwishlist:item=4239378215&perks=3038247973#notes:Popular Perk 2 (4.497%) - PvE Rating 0; PvP Rating 0
 dimwishlist:item=4239378215&perks=247725512,2848615171#notes:Popular Combo (4.447%) - PvE Rating 0; PvP Rating 0
 dimwishlist:item=4239378215&perks=2848615171#notes:Popular Perk 2 (4.447%) - PvE Rating 0; PvP Rating 0
-dimwishlist:item=2639921391#notes:PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=2639921391#notes:PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8
 dimwishlist:item=2639921391&perks=3017780555,4293542123#notes:Most Popular Combo (12.632%) - PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8
 dimwishlist:item=2639921391&perks=3017780555#notes:Most Popular Perk 1 (12.632%) - PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8
 dimwishlist:item=2639921391&perks=4293542123#notes:Most Popular Perk 2 (12.632%) - PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8
@@ -1906,7 +1906,7 @@ dimwishlist:item=2639921391&perks=3017780555,1015611457#notes:Popular Combo (6.2
 dimwishlist:item=2639921391&perks=1015611457#notes:Popular Perk 2 (6.240%) - PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8; Category Popular Rank 8
 dimwishlist:item=2639921391&perks=3017780555,3038247973#notes:Popular Combo (5.141%) - PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8
 dimwishlist:item=2639921391&perks=3038247973#notes:Popular Perk 2 (5.141%) - PvE Rating 1.5; PvP Rating 2.9; Category Popular Rank 8; Category Popular Rank 8
-dimwishlist:item=1890332078#notes:PvE Rating 2.7; PvP Rating 3.2; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=1890332078#notes:PvE Rating 2.7; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=1890332078&perks=3643424744,4104185692#notes:Most Popular Combo (4.756%) - PvE Rating 2.7; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=1890332078&perks=3643424744#notes:Most Popular Perk 1 (4.756%) - PvE Rating 2.7; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=1890332078&perks=4104185692#notes:Most Popular Perk 2 (4.756%) - PvE Rating 2.7; PvP Rating 3.2; Category Popular Rank 10
@@ -1934,7 +1934,7 @@ dimwishlist:item=79075821&perks=4267945040,3425386926#notes:Popular Combo (8.555
 dimwishlist:item=79075821&perks=3425386926#notes:Popular Perk 2 (8.555%) - BB Tier S; PvE Rating 4.2; PvP Rating 3.7
 dimwishlist:item=79075821&perks=4267945040,957782887#notes:Popular Combo (7.367%) - BB Tier S; PvE Rating 4.2; PvP Rating 3.7
 dimwishlist:item=79075821&perks=957782887#notes:Popular Perk 2 (7.367%) - BB Tier S; PvE Rating 4.2; PvP Rating 3.7
-dimwishlist:item=3998080529#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=3998080529#notes:BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=3998080529&perks=3017780555,4293542123#notes:Most Popular Combo (33.305%) - BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=3998080529&perks=3017780555#notes:Most Popular Perk 1 (33.305%) - BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=3998080529&perks=4293542123#notes:Most Popular Perk 2 (33.305%) - BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8
@@ -1942,7 +1942,7 @@ dimwishlist:item=3998080529&perks=3017780555,1015611457#notes:Popular Combo (14.
 dimwishlist:item=3998080529&perks=1015611457#notes:Popular Perk 2 (14.068%) - BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8; Category Popular Rank 8
 dimwishlist:item=3998080529&perks=3523296417,4293542123#notes:Popular Combo (7.253%) - BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=3998080529&perks=3523296417#notes:Popular Perk 1 (7.253%) - BB Tier S; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 8
-dimwishlist:item=3947966653#notes:BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=3947966653#notes:BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1
 dimwishlist:item=3947966653&perks=1556840489,4049631843#notes:Most Popular Combo (10.311%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1
 dimwishlist:item=3947966653&perks=1556840489#notes:Most Popular Perk 1 (10.311%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1
 dimwishlist:item=3947966653&perks=4049631843#notes:Most Popular Perk 2 (10.311%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1
@@ -1951,7 +1951,7 @@ dimwishlist:item=3947966653&perks=1546637391#notes:Popular Perk 2 (5.636%) - BB 
 dimwishlist:item=3947966653&perks=2859149211,831391274#notes:Popular Combo (5.474%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1
 dimwishlist:item=3947966653&perks=2859149211#notes:Popular Perk 1 (5.474%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1
 dimwishlist:item=3947966653&perks=831391274#notes:Popular Perk 2 (5.474%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.6; Category Popular Rank 1; Category Popular Rank 1
-dimwishlist:item=480368036#notes:BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=480368036#notes:BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
 dimwishlist:item=480368036&perks=1421772400,2978966579#notes:Most Popular Combo (35.453%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
 dimwishlist:item=480368036&perks=1421772400#notes:Most Popular Perk 1 (35.453%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
 dimwishlist:item=480368036&perks=2978966579#notes:Most Popular Perk 2 (35.453%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
@@ -1959,7 +1959,7 @@ dimwishlist:item=480368036&perks=1119449540,2978966579#notes:Popular Combo (15.1
 dimwishlist:item=480368036&perks=1119449540#notes:Popular Perk 1 (15.119%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
 dimwishlist:item=480368036&perks=951095735,2978966579#notes:Popular Combo (13.072%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
 dimwishlist:item=480368036&perks=951095735#notes:Popular Perk 1 (13.072%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.1; Category Popular Rank 2
-dimwishlist:item=2697143634#notes:BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=2697143634#notes:BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4
 dimwishlist:item=2697143634&perks=776531651,2048641572#notes:Most Popular Combo (34.718%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4
 dimwishlist:item=2697143634&perks=776531651#notes:Most Popular Perk 1 (34.718%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4
 dimwishlist:item=2697143634&perks=2048641572#notes:Most Popular Perk 2 (34.718%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4
@@ -1967,7 +1967,7 @@ dimwishlist:item=2697143634&perks=1523832109,2048641572#notes:Popular Combo (12.
 dimwishlist:item=2697143634&perks=1523832109#notes:Popular Perk 1 (12.388%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4
 dimwishlist:item=2697143634&perks=776531651,1134488199#notes:Popular Combo (5.392%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4
 dimwishlist:item=2697143634&perks=1134488199#notes:Popular Perk 2 (5.392%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.2; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=3922217119#notes:BB Tier S; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=3922217119#notes:BB Tier S; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 6
 dimwishlist:item=3922217119&perks=776531651,2048641572#notes:Most Popular Combo (26.890%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 6
 dimwishlist:item=3922217119&perks=776531651#notes:Most Popular Perk 1 (26.890%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 6
 dimwishlist:item=3922217119&perks=2048641572#notes:Most Popular Perk 2 (26.890%) - BB Tier S; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 6
@@ -2095,7 +2095,7 @@ dimwishlist:item=1298815317&perks=4071163871,2173046394#notes:Popular Combo (19.
 dimwishlist:item=1298815317&perks=4071163871#notes:Popular Perk 1 (19.991%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.9
 dimwishlist:item=1298815317&perks=691659142,2173046394#notes:Popular Combo (10.227%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.9
 dimwishlist:item=1298815317&perks=691659142#notes:Popular Perk 1 (10.227%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.9
-dimwishlist:item=3381450498#notes:BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=3381450498#notes:BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3381450498&perks=2859149211,2173046394#notes:Most Popular Combo (21.845%) - BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3381450498&perks=2859149211#notes:Most Popular Perk 1 (21.845%) - BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3381450498&perks=2173046394#notes:Most Popular Perk 2 (21.845%) - BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5
@@ -2104,7 +2104,7 @@ dimwishlist:item=3381450498&perks=951095735#notes:Popular Perk 1 (16.187%) - BB 
 dimwishlist:item=3381450498&perks=1556840489,2173046394#notes:Popular Combo (15.797%) - BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3381450498&perks=1556840489#notes:Popular Perk 1 (15.797%) - BB Tier A; PvE Rating 4.5; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3886719505#notes:BB Tier A; PvE Rating 4.4; PvP Rating 3.2
-dimwishlist:item=2198166292#notes:BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=2198166292#notes:BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3
 dimwishlist:item=2198166292&perks=3017780555,4293542123#notes:Most Popular Combo (67.754%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3
 dimwishlist:item=2198166292&perks=3017780555#notes:Most Popular Perk 1 (67.754%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3
 dimwishlist:item=2198166292&perks=4293542123#notes:Most Popular Perk 2 (67.754%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3
@@ -2113,7 +2113,7 @@ dimwishlist:item=2198166292&perks=2859149211#notes:Popular Perk 1 (5.417%) - BB 
 dimwishlist:item=2198166292&perks=2010801679,4293542123#notes:Popular Combo (3.078%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3
 dimwishlist:item=2198166292&perks=2010801679#notes:Popular Perk 1 (3.078%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.4; Category Popular Rank 3
 dimwishlist:item=2362471601#notes:BB Tier A; PvE Rating 4.5; PvP Rating 4.5
-dimwishlist:item=2575844666#notes:BB Tier A; PvE Rating 3.4; PvP Rating 3.5; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=2575844666#notes:BB Tier A; PvE Rating 3.4; PvP Rating 3.5; Category Popular Rank 9
 dimwishlist:item=2575844666&perks=124408337,1955165503#notes:Most Popular Combo (11.170%) - BB Tier A; PvE Rating 3.4; PvP Rating 3.5; Category Popular Rank 9
 dimwishlist:item=2575844666&perks=124408337#notes:Most Popular Perk 1 (11.170%) - BB Tier A; PvE Rating 3.4; PvP Rating 3.5; Category Popular Rank 9
 dimwishlist:item=2575844666&perks=1955165503#notes:Most Popular Perk 2 (11.170%) - BB Tier A; PvE Rating 3.4; PvP Rating 3.5; Category Popular Rank 9
@@ -2161,7 +2161,7 @@ dimwishlist:item=5159537&perks=968510818,124408337#notes:Popular Combo (5.642%) 
 dimwishlist:item=5159537&perks=968510818#notes:Popular Perk 1 (5.642%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.5
 dimwishlist:item=5159537&perks=2779035018,460017080#notes:Popular Combo (4.735%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.5
 dimwishlist:item=5159537&perks=460017080#notes:Popular Perk 2 (4.735%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.5
-dimwishlist:item=2328923181#notes:PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=2328923181#notes:PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 7
 dimwishlist:item=2328923181&perks=923806249,831391274#notes:Most Popular Combo (14.670%) - PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 7
 dimwishlist:item=2328923181&perks=923806249#notes:Most Popular Perk 1 (14.670%) - PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 7
 dimwishlist:item=2328923181&perks=831391274#notes:Most Popular Perk 2 (14.670%) - PvE Rating 4.7; PvP Rating 4.1; Category Popular Rank 7
@@ -2177,7 +2177,7 @@ dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:Popular Combo (12.
 dimwishlist:item=1289997971&perks=1168162263#notes:Popular Perk 1 (12.768%) - PvE Rating 4.5; PvP Rating 4.1
 dimwishlist:item=1289997971&perks=2458213969#notes:Popular Perk 2 (12.768%) - PvE Rating 4.5; PvP Rating 4.1
 dimwishlist:item=1289997971&perks=1168162263,3425386926#notes:Popular Combo (8.512%) - PvE Rating 4.5; PvP Rating 4.1
-dimwishlist:item=423343404#notes:PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=423343404#notes:PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=423343404&perks=2451262963,1645158859#notes:Most Popular Combo (3.941%) - PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=423343404&perks=2451262963#notes:Most Popular Perk 1 (3.941%) - PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=423343404&perks=1645158859#notes:Most Popular Perk 2 (3.941%) - PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10
@@ -2187,7 +2187,7 @@ dimwishlist:item=423343404&perks=2039302152,4071163871#notes:Popular Combo (3.47
 dimwishlist:item=423343404&perks=2039302152#notes:Popular Perk 1 (3.477%) - PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=423343404&perks=4071163871#notes:Popular Perk 2 (3.477%) - PvE Rating 2.5; PvP Rating 3.2; Category Popular Rank 10; Category Popular Rank 10
 dimwishlist:item=48361212#notes:PvE Rating 5; PvP Rating 5
-dimwishlist:item=2022294213#notes:BB Tier S; PvE Rating 3; PvP Rating 4; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=2022294213#notes:BB Tier S; PvE Rating 3; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=2022294213&perks=776531651,2048641572#notes:Most Popular Combo (8.733%) - BB Tier S; PvE Rating 3; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=2022294213&perks=776531651#notes:Most Popular Perk 1 (8.733%) - BB Tier S; PvE Rating 3; PvP Rating 4; Category Popular Rank 8
 dimwishlist:item=2022294213&perks=2048641572#notes:Most Popular Perk 2 (8.733%) - BB Tier S; PvE Rating 3; PvP Rating 4; Category Popular Rank 8
@@ -2221,7 +2221,7 @@ dimwishlist:item=501345268&perks=776531651#notes:Popular Perk 1 (7.250%) - BB Ti
 dimwishlist:item=501345268&perks=2048641572#notes:Popular Perk 2 (7.250%) - BB Tier S; PvE Rating 3.8; PvP Rating 4.7
 dimwishlist:item=501345268&perks=3619207468,365154968#notes:Popular Combo (6.791%) - BB Tier S; PvE Rating 3.8; PvP Rating 4.7
 dimwishlist:item=501345268&perks=3619207468#notes:Popular Perk 1 (6.791%) - BB Tier S; PvE Rating 3.8; PvP Rating 4.7
-dimwishlist:item=2149683300#notes:BB Tier S; PvE Rating 5; PvP Rating 4.5; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=2149683300#notes:BB Tier S; PvE Rating 5; PvP Rating 4.5; Category Popular Rank 9
 dimwishlist:item=2149683300&perks=2779035018,2173046394#notes:Most Popular Combo (40.304%) - BB Tier S; PvE Rating 5; PvP Rating 4.5; Category Popular Rank 9
 dimwishlist:item=2149683300&perks=2779035018#notes:Most Popular Perk 1 (40.304%) - BB Tier S; PvE Rating 5; PvP Rating 4.5; Category Popular Rank 9
 dimwishlist:item=2149683300&perks=2173046394#notes:Most Popular Perk 2 (40.304%) - BB Tier S; PvE Rating 5; PvP Rating 4.5; Category Popular Rank 9
@@ -2264,7 +2264,7 @@ dimwishlist:item=3211624072&perks=1359896290#notes:Popular Perk 1 (6.976%) - BB 
 dimwishlist:item=3211624072&perks=591790007#notes:Popular Perk 2 (6.976%) - BB Tier S; PvE Rating 4.2; PvP Rating 4.6
 dimwishlist:item=3211624072&perks=1359896290,365154968#notes:Popular Combo (6.909%) - BB Tier S; PvE Rating 4.2; PvP Rating 4.6
 dimwishlist:item=3211624072&perks=365154968#notes:Popular Perk 2 (6.909%) - BB Tier S; PvE Rating 4.2; PvP Rating 4.6
-dimwishlist:item=2490988246#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=2490988246#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
 dimwishlist:item=2490988246&perks=3108830275,4293542123#notes:Most Popular Combo (41.458%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
 dimwishlist:item=2490988246&perks=3108830275#notes:Most Popular Perk 1 (41.458%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
 dimwishlist:item=2490988246&perks=4293542123#notes:Most Popular Perk 2 (41.458%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.8; Category Popular Rank 10
@@ -2280,7 +2280,7 @@ dimwishlist:item=174192097&perks=4071163871,3708227201#notes:Popular Combo (5.29
 dimwishlist:item=174192097&perks=3708227201#notes:Popular Perk 2 (5.294%) - BB Tier S; PvE Rating 3.8; PvP Rating 3.3
 dimwishlist:item=174192097&perks=588594999,2779035018#notes:Popular Combo (5.175%) - BB Tier S; PvE Rating 3.8; PvP Rating 3.3
 dimwishlist:item=174192097&perks=588594999#notes:Popular Perk 1 (5.175%) - BB Tier S; PvE Rating 3.8; PvP Rating 3.3
-dimwishlist:item=32287609#notes:BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=32287609#notes:BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7
 dimwishlist:item=32287609&perks=1866048759,2416023159#notes:Most Popular Combo (6.766%) - BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7
 dimwishlist:item=32287609&perks=1866048759#notes:Most Popular Perk 1 (6.766%) - BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7
 dimwishlist:item=32287609&perks=2416023159#notes:Most Popular Perk 2 (6.766%) - BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7
@@ -2289,7 +2289,7 @@ dimwishlist:item=32287609&perks=691659142#notes:Popular Perk 1 (4.948%) - BB Tie
 dimwishlist:item=32287609&perks=4082225868#notes:Popular Perk 2 (4.948%) - BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7; Category Popular Rank 7
 dimwishlist:item=32287609&perks=1820235745,4082225868#notes:Popular Combo (4.347%) - BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7
 dimwishlist:item=32287609&perks=1820235745#notes:Popular Perk 1 (4.347%) - BB Tier S; PvE Rating 3.7; PvP Rating 4.5; Category Popular Rank 7
-dimwishlist:item=1050806815#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=1050806815#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=1050806815&perks=776531651,2048641572#notes:Most Popular Combo (16.826%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=1050806815&perks=776531651#notes:Most Popular Perk 1 (16.826%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=1050806815&perks=2048641572#notes:Most Popular Perk 2 (16.826%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 6
@@ -2316,7 +2316,7 @@ dimwishlist:item=2349907931&perks=1820235745,124408337#notes:Popular Combo (6.04
 dimwishlist:item=2349907931&perks=124408337#notes:Popular Perk 2 (6.047%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.1
 dimwishlist:item=2349907931&perks=1820235745,365154968#notes:Popular Combo (5.185%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.1
 dimwishlist:item=2349907931&perks=365154968#notes:Popular Perk 2 (5.185%) - BB Tier A; PvE Rating 4.9; PvP Rating 4.1
-dimwishlist:item=4228149269#notes:BB Tier A; PvE Rating 3.8; PvP Rating 3.3; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=4228149269#notes:BB Tier A; PvE Rating 3.8; PvP Rating 3.3; Category Popular Rank 2
 dimwishlist:item=4228149269&perks=3017780555,4293542123#notes:Most Popular Combo (19.367%) - BB Tier A; PvE Rating 3.8; PvP Rating 3.3; Category Popular Rank 2
 dimwishlist:item=4228149269&perks=3017780555#notes:Most Popular Perk 1 (19.367%) - BB Tier A; PvE Rating 3.8; PvP Rating 3.3; Category Popular Rank 2
 dimwishlist:item=4228149269&perks=4293542123#notes:Most Popular Perk 2 (19.367%) - BB Tier A; PvE Rating 3.8; PvP Rating 3.3; Category Popular Rank 2
@@ -2373,7 +2373,7 @@ dimwishlist:item=2663204025&perks=1168162263,2458213969#notes:Popular Combo (8.6
 dimwishlist:item=2663204025&perks=2458213969#notes:Popular Perk 2 (8.636%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.7
 dimwishlist:item=2663204025&perks=1168162263,4082225868#notes:Popular Combo (7.667%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.7
 dimwishlist:item=2663204025&perks=4082225868#notes:Popular Perk 2 (7.667%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.7
-dimwishlist:item=1481594633#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1481594633#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 1
 dimwishlist:item=1258168956#notes:BB Tier A; PvE Rating 4.3; PvP Rating 4.2
 dimwishlist:item=1258168956&perks=3523296417,3640170453#notes:Most Popular Combo (21.754%) - BB Tier A; PvE Rating 4.3; PvP Rating 4.2
 dimwishlist:item=1258168956&perks=3523296417#notes:Most Popular Perk 1 (21.754%) - BB Tier A; PvE Rating 4.3; PvP Rating 4.2
@@ -2390,7 +2390,7 @@ dimwishlist:item=3951511045&perks=923806249,3640170453#notes:Popular Combo (10.8
 dimwishlist:item=3951511045&perks=923806249#notes:Popular Perk 1 (10.875%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=3951511045&perks=3828510309,3640170453#notes:Popular Combo (7.790%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=3951511045&perks=3828510309#notes:Popular Perk 1 (7.790%) - BB Tier A; PvE Rating 0; PvP Rating 0
-dimwishlist:item=3234363830#notes:BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=3234363830#notes:BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3234363830&perks=1820235745,831391274#notes:Most Popular Combo (7.941%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3234363830&perks=1820235745#notes:Most Popular Perk 1 (7.941%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3234363830&perks=831391274#notes:Most Popular Perk 2 (7.941%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
@@ -2422,7 +2422,7 @@ dimwishlist:item=302039451&perks=1820235745,831391274#notes:Popular Combo (6.159
 dimwishlist:item=302039451&perks=831391274#notes:Popular Perk 2 (6.159%) - BB Tier A; PvE Rating 5; PvP Rating 4.7
 dimwishlist:item=302039451&perks=3643424744,831391274#notes:Popular Combo (6.140%) - BB Tier A; PvE Rating 5; PvP Rating 4.7
 dimwishlist:item=302039451&perks=3643424744#notes:Popular Perk 1 (6.140%) - BB Tier A; PvE Rating 5; PvP Rating 4.7
-dimwishlist:item=3959549446#notes:PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=3959549446#notes:PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4
 dimwishlist:item=3959549446&perks=3418782618,124408337#notes:Most Popular Combo (12.758%) - PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4
 dimwishlist:item=3959549446&perks=3418782618#notes:Most Popular Perk 1 (12.758%) - PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4
 dimwishlist:item=3959549446&perks=124408337#notes:Most Popular Perk 2 (12.758%) - PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4
@@ -2430,7 +2430,7 @@ dimwishlist:item=3959549446&perks=880644845,124408337#notes:Popular Combo (5.553
 dimwishlist:item=3959549446&perks=880644845#notes:Popular Perk 1 (5.553%) - PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4
 dimwishlist:item=3959549446&perks=3418782618,3993379141#notes:Popular Combo (4.496%) - PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4
 dimwishlist:item=3959549446&perks=3993379141#notes:Popular Perk 2 (4.496%) - PvE Rating 4.2; PvP Rating 2.9; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=46524085#notes:PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=46524085#notes:PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 5
 dimwishlist:item=613334176#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3
 dimwishlist:item=613334176&perks=2010801679,2396489472#notes:Most Popular Combo (66.907%) - BB Tier S; PvE Rating 4.9; PvP Rating 3
 dimwishlist:item=613334176&perks=2010801679#notes:Most Popular Perk 1 (66.907%) - BB Tier S; PvE Rating 4.9; PvP Rating 3
@@ -2463,7 +2463,7 @@ dimwishlist:item=4038592169&perks=3108830275,2396489472#notes:Popular Combo (8.3
 dimwishlist:item=4038592169&perks=3108830275#notes:Popular Perk 1 (8.386%) - BB Tier S; PvE Rating 5; PvP Rating 2.7
 dimwishlist:item=4038592169&perks=1583705720,2396489472#notes:Popular Combo (3.956%) - BB Tier S; PvE Rating 5; PvP Rating 2.7
 dimwishlist:item=4038592169&perks=1583705720#notes:Popular Perk 1 (3.956%) - BB Tier S; PvE Rating 5; PvP Rating 2.7
-dimwishlist:item=568611922#notes:BB Tier S; PvE Rating 4.6; PvP Rating 3.5; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=568611922#notes:BB Tier S; PvE Rating 4.6; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=568611922&perks=3300816228,469285294#notes:Most Popular Combo (28.841%) - BB Tier S; PvE Rating 4.6; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=568611922&perks=3300816228#notes:Most Popular Perk 1 (28.841%) - BB Tier S; PvE Rating 4.6; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=568611922&perks=469285294#notes:Most Popular Perk 2 (28.841%) - BB Tier S; PvE Rating 4.6; PvP Rating 3.5; Category Popular Rank 5
@@ -2488,7 +2488,7 @@ dimwishlist:item=2599338624&perks=1955165503,2978966579#notes:Popular Combo (15.
 dimwishlist:item=2599338624&perks=1955165503#notes:Popular Perk 1 (15.585%) - BB Tier S; PvE Rating 4.3; PvP Rating 3
 dimwishlist:item=2599338624&perks=2039302152,2978966579#notes:Popular Combo (11.564%) - BB Tier S; PvE Rating 4.3; PvP Rating 3
 dimwishlist:item=2599338624&perks=2039302152#notes:Popular Perk 1 (11.564%) - BB Tier S; PvE Rating 4.3; PvP Rating 3
-dimwishlist:item=4028298892#notes:BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=4028298892#notes:BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=4028298892&perks=2010801679,3218042543#notes:Most Popular Combo (17.867%) - BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=4028298892&perks=2010801679#notes:Most Popular Perk 1 (17.867%) - BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=4028298892&perks=3218042543#notes:Most Popular Perk 2 (17.867%) - BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
@@ -2496,7 +2496,7 @@ dimwishlist:item=4028298892&perks=3987942396,3218042543#notes:Popular Combo (6.4
 dimwishlist:item=4028298892&perks=3987942396#notes:Popular Perk 1 (6.494%) - BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=4028298892&perks=684456054,3218042543#notes:Popular Combo (5.669%) - BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=4028298892&perks=684456054#notes:Popular Perk 1 (5.669%) - BB Tier S; PvE Rating 4.7; PvP Rating 3; Category Popular Rank 2
-dimwishlist:item=3840794631#notes:BB Tier S; PvE Rating 4; PvP Rating 1; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=3840794631#notes:BB Tier S; PvE Rating 4; PvP Rating 1; Category Popular Rank 9
 dimwishlist:item=3840794631&perks=2010801679,3218042543#notes:Most Popular Combo (21.691%) - BB Tier S; PvE Rating 4; PvP Rating 1; Category Popular Rank 9
 dimwishlist:item=3840794631&perks=2010801679#notes:Most Popular Perk 1 (21.691%) - BB Tier S; PvE Rating 4; PvP Rating 1; Category Popular Rank 9
 dimwishlist:item=3840794631&perks=3218042543#notes:Most Popular Perk 2 (21.691%) - BB Tier S; PvE Rating 4; PvP Rating 1; Category Popular Rank 9
@@ -2595,7 +2595,7 @@ dimwishlist:item=268260373&perks=1556840489,2173046394#notes:Popular Combo (10.0
 dimwishlist:item=268260373&perks=1556840489#notes:Popular Perk 1 (10.083%) - BB Tier A; PvE Rating 4.3; PvP Rating 3.3
 dimwishlist:item=268260373&perks=968510818,1683379515#notes:Popular Combo (5.982%) - BB Tier A; PvE Rating 4.3; PvP Rating 3.3
 dimwishlist:item=268260373&perks=1683379515#notes:Popular Perk 2 (5.982%) - BB Tier A; PvE Rating 4.3; PvP Rating 3.3
-dimwishlist:item=2059741649#notes:BB Tier A; PvE Rating 4; PvP Rating 3; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=2059741649#notes:BB Tier A; PvE Rating 4; PvP Rating 3; Category Popular Rank 7
 dimwishlist:item=2059741649&perks=3523296417,2396489472#notes:Most Popular Combo (8.023%) - BB Tier A; PvE Rating 4; PvP Rating 3; Category Popular Rank 7
 dimwishlist:item=2059741649&perks=3523296417#notes:Most Popular Perk 1 (8.023%) - BB Tier A; PvE Rating 4; PvP Rating 3; Category Popular Rank 7
 dimwishlist:item=2059741649&perks=2396489472#notes:Most Popular Perk 2 (8.023%) - BB Tier A; PvE Rating 4; PvP Rating 3; Category Popular Rank 7
@@ -2652,7 +2652,7 @@ dimwishlist:item=959037361&perks=968510818,4293542123#notes:Popular Combo (9.681
 dimwishlist:item=959037361&perks=968510818#notes:Popular Perk 1 (9.681%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.9
 dimwishlist:item=959037361&perks=1523832109,3078487919#notes:Popular Combo (9.521%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.9
 dimwishlist:item=959037361&perks=3078487919#notes:Popular Perk 2 (9.521%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.9
-dimwishlist:item=1218113510#notes:BB Tier A; PvE Rating 4.7; PvP Rating 2.2; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=1218113510#notes:BB Tier A; PvE Rating 4.7; PvP Rating 2.2; Category Popular Rank 10
 dimwishlist:item=1218113510&perks=968510818,2396489472#notes:Most Popular Combo (19.021%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.2; Category Popular Rank 10
 dimwishlist:item=1218113510&perks=968510818#notes:Most Popular Perk 1 (19.021%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.2; Category Popular Rank 10
 dimwishlist:item=1218113510&perks=2396489472#notes:Most Popular Perk 2 (19.021%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.2; Category Popular Rank 10
@@ -2676,7 +2676,7 @@ dimwishlist:item=3850168899&perks=2869569095,3523296417#notes:Popular Combo (8.2
 dimwishlist:item=3850168899&perks=2869569095#notes:Popular Perk 1 (8.222%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.7
 dimwishlist:item=3850168899&perks=3300816228,2846385770#notes:Popular Combo (6.442%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.7
 dimwishlist:item=3850168899&perks=2846385770#notes:Popular Perk 2 (6.442%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.7
-dimwishlist:item=1197771438#notes:BB Tier A; PvE Rating 4.7; PvP Rating 2.5; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1197771438#notes:BB Tier A; PvE Rating 4.7; PvP Rating 2.5; Category Popular Rank 1
 dimwishlist:item=1197771438&perks=3300816228,1546637391#notes:Most Popular Combo (29.299%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.5; Category Popular Rank 1
 dimwishlist:item=1197771438&perks=3300816228#notes:Most Popular Perk 1 (29.299%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.5; Category Popular Rank 1
 dimwishlist:item=1197771438&perks=1546637391#notes:Most Popular Perk 2 (29.299%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.5; Category Popular Rank 1
@@ -2693,7 +2693,7 @@ dimwishlist:item=2039776723&perks=968510818#notes:Popular Perk 1 (5.572%) - BB T
 dimwishlist:item=2039776723&perks=3300816228,3078487919#notes:Popular Combo (3.756%) - BB Tier S; PvE Rating 5; PvP Rating 4
 dimwishlist:item=2039776723&perks=3300816228#notes:Popular Perk 1 (3.756%) - BB Tier S; PvE Rating 5; PvP Rating 4
 dimwishlist:item=2168486467#notes:BB Tier S; PvE Rating 5; PvP Rating 5
-dimwishlist:item=568611923#notes:BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=568611923#notes:BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 3
 dimwishlist:item=568611923&perks=968510818,3078487919#notes:Most Popular Combo (42.471%) - BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 3
 dimwishlist:item=568611923&perks=968510818#notes:Most Popular Perk 1 (42.471%) - BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 3
 dimwishlist:item=568611923&perks=3078487919#notes:Most Popular Perk 2 (42.471%) - BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 3
@@ -2718,7 +2718,7 @@ dimwishlist:item=218335759&perks=2869569095#notes:Popular Perk 1 (5.869%) - BB T
 dimwishlist:item=218335759&perks=706527188#notes:Popular Perk 2 (5.869%) - BB Tier S; PvE Rating 5; PvP Rating 4.3
 dimwishlist:item=218335759&perks=957782887,3425386926#notes:Popular Combo (5.869%) - BB Tier S; PvE Rating 5; PvP Rating 4.3
 dimwishlist:item=218335759&perks=957782887#notes:Popular Perk 1 (5.869%) - BB Tier S; PvE Rating 5; PvP Rating 4.3
-dimwishlist:item=2599338625#notes:BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=2599338625#notes:BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2599338625&perks=3987942396,3078487919#notes:Most Popular Combo (34.681%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2599338625&perks=3987942396#notes:Most Popular Perk 1 (34.681%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2599338625&perks=3078487919#notes:Most Popular Perk 2 (34.681%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
@@ -2821,7 +2821,7 @@ dimwishlist:item=874623537&perks=951095735#notes:Popular Perk 1 (12.921%) - BB T
 dimwishlist:item=874623537&perks=2396489472#notes:Popular Perk 2 (12.921%) - BB Tier A; PvE Rating 4.8; PvP Rating 5
 dimwishlist:item=874623537&perks=951095735,2888557110#notes:Popular Combo (4.611%) - BB Tier A; PvE Rating 4.8; PvP Rating 5
 dimwishlist:item=874623537&perks=2888557110#notes:Popular Perk 2 (4.611%) - BB Tier A; PvE Rating 4.8; PvP Rating 5
-dimwishlist:item=1762785663#notes:PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=1762785663#notes:PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4
 dimwishlist:item=1762785663&perks=3523296417,243981275#notes:Most Popular Combo (25.273%) - PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4
 dimwishlist:item=1762785663&perks=3523296417#notes:Most Popular Perk 1 (25.273%) - PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4
 dimwishlist:item=1762785663&perks=243981275#notes:Most Popular Perk 2 (25.273%) - PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4
@@ -2829,7 +2829,7 @@ dimwishlist:item=1762785663&perks=776531651,243981275#notes:Popular Combo (10.46
 dimwishlist:item=1762785663&perks=776531651#notes:Popular Perk 1 (10.468%) - PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4
 dimwishlist:item=1762785663&perks=776531651,2048641572#notes:Popular Combo (8.903%) - PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4
 dimwishlist:item=1762785663&perks=2048641572#notes:Popular Perk 2 (8.903%) - PvE Rating 4.7; PvP Rating 2.4; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=1206729100#notes:PvE Rating 4; PvP Rating 2; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=1206729100#notes:PvE Rating 4; PvP Rating 2; Category Popular Rank 6
 dimwishlist:item=1206729100&perks=3987942396,3078487919#notes:Most Popular Combo (7.263%) - PvE Rating 4; PvP Rating 2; Category Popular Rank 6
 dimwishlist:item=1206729100&perks=3987942396#notes:Most Popular Perk 1 (7.263%) - PvE Rating 4; PvP Rating 2; Category Popular Rank 6
 dimwishlist:item=1206729100&perks=3078487919#notes:Most Popular Perk 2 (7.263%) - PvE Rating 4; PvP Rating 2; Category Popular Rank 6
@@ -2889,7 +2889,7 @@ dimwishlist:item=1141586039&perks=1966281507,2224838837#notes:Popular Combo (5.1
 dimwishlist:item=1141586039&perks=1966281507#notes:Popular Perk 1 (5.152%) - BB Tier S; PvE Rating 4.1; PvP Rating 2.5
 dimwishlist:item=1141586039&perks=2224838837#notes:Popular Perk 2 (5.152%) - BB Tier S; PvE Rating 4.1; PvP Rating 2.5
 dimwishlist:item=1141586039&perks=951095735,2224838837#notes:Popular Combo (4.272%) - BB Tier S; PvE Rating 4.1; PvP Rating 2.5
-dimwishlist:item=2934305134#notes:BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=2934305134#notes:BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=2934305134&perks=3017780555,4293542123#notes:Most Popular Combo (7.321%) - BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=2934305134&perks=3017780555#notes:Most Popular Perk 1 (7.321%) - BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=2934305134&perks=4293542123#notes:Most Popular Perk 2 (7.321%) - BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2
@@ -2897,7 +2897,7 @@ dimwishlist:item=2934305134&perks=1523832109,4293542123#notes:Popular Combo (4.9
 dimwishlist:item=2934305134&perks=1523832109#notes:Popular Perk 1 (4.996%) - BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=2934305134&perks=1523832109,2396489472#notes:Popular Combo (4.837%) - BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=2934305134&perks=2396489472#notes:Popular Perk 2 (4.837%) - BB Tier S; PvE Rating 4; PvP Rating 0; Category Popular Rank 2; Category Popular Rank 2
-dimwishlist:item=3210739171#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=3210739171#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3210739171&perks=3017780555,4293542123#notes:Most Popular Combo (10.444%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3210739171&perks=3017780555#notes:Most Popular Perk 1 (10.444%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3210739171&perks=4293542123#notes:Most Popular Perk 2 (10.444%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
@@ -2905,7 +2905,7 @@ dimwishlist:item=3210739171&perks=1523832109,4293542123#notes:Popular Combo (5.5
 dimwishlist:item=3210739171&perks=1523832109#notes:Popular Perk 1 (5.510%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3210739171&perks=3017780555,2396489472#notes:Popular Combo (5.323%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3210739171&perks=2396489472#notes:Popular Perk 2 (5.323%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9; Category Popular Rank 9
-dimwishlist:item=1685406703#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=1685406703#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=1685406703&perks=2859149211,31345821#notes:Most Popular Combo (41.000%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=1685406703&perks=2859149211#notes:Most Popular Perk 1 (41.000%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=1685406703&perks=31345821#notes:Most Popular Perk 2 (41.000%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
@@ -2946,7 +2946,7 @@ dimwishlist:item=2680976411&perks=1631667848,1782407750#notes:Popular Combo (10.
 dimwishlist:item=2680976411&perks=1631667848#notes:Popular Perk 1 (10.111%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.9
 dimwishlist:item=2680976411&perks=1782407750#notes:Popular Perk 2 (10.111%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.9
 dimwishlist:item=2680976411&perks=2859149211,1782407750#notes:Popular Combo (7.490%) - BB Tier S; PvE Rating 4.2; PvP Rating 2.9
-dimwishlist:item=2978226043#notes:BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=2978226043#notes:BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2978226043&perks=3643424744,1782407750#notes:Most Popular Combo (26.281%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2978226043&perks=3643424744#notes:Most Popular Perk 1 (26.281%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2978226043&perks=1782407750#notes:Most Popular Perk 2 (26.281%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
@@ -2954,7 +2954,7 @@ dimwishlist:item=2978226043&perks=3523296417,4293542123#notes:Popular Combo (11.
 dimwishlist:item=2978226043&perks=3523296417#notes:Popular Perk 1 (11.868%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
 dimwishlist:item=2978226043&perks=4293542123#notes:Popular Perk 2 (11.868%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8; Category Popular Rank 8
 dimwishlist:item=2978226043&perks=3643424744,4293542123#notes:Popular Combo (8.666%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.8; Category Popular Rank 8
-dimwishlist:item=3997086838#notes:BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=3997086838#notes:BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=3997086838&perks=3643424744,2978966579#notes:Most Popular Combo (18.939%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=3997086838&perks=3643424744#notes:Most Popular Perk 1 (18.939%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=3997086838&perks=2978966579#notes:Most Popular Perk 2 (18.939%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
@@ -2962,7 +2962,7 @@ dimwishlist:item=3997086838&perks=1966281507,2978966579#notes:Popular Combo (14.
 dimwishlist:item=3997086838&perks=1966281507#notes:Popular Perk 1 (14.579%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=3997086838&perks=1955165503,2978966579#notes:Popular Combo (14.220%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=3997086838&perks=1955165503#notes:Popular Perk 1 (14.220%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 4
-dimwishlist:item=2298039571#notes:BB Tier S; PvE Rating 4.2; PvP Rating 3.9; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=2298039571#notes:BB Tier S; PvE Rating 4.2; PvP Rating 3.9; Category Popular Rank 7
 dimwishlist:item=2298039571&perks=1955165503,2978966579#notes:Most Popular Combo (12.928%) - BB Tier S; PvE Rating 4.2; PvP Rating 3.9; Category Popular Rank 7
 dimwishlist:item=2298039571&perks=1955165503#notes:Most Popular Perk 1 (12.928%) - BB Tier S; PvE Rating 4.2; PvP Rating 3.9; Category Popular Rank 7
 dimwishlist:item=2298039571&perks=2978966579#notes:Most Popular Perk 2 (12.928%) - BB Tier S; PvE Rating 4.2; PvP Rating 3.9; Category Popular Rank 7
@@ -2988,7 +2988,7 @@ dimwishlist:item=3123651616&perks=1523832109,2048641572#notes:Popular Combo (6.0
 dimwishlist:item=3123651616&perks=2048641572#notes:Popular Perk 2 (6.070%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=3123651616&perks=1523832109,2396489472#notes:Popular Combo (4.581%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=3123651616&perks=2396489472#notes:Popular Perk 2 (4.581%) - BB Tier A; PvE Rating 0; PvP Rating 0
-dimwishlist:item=3269398063#notes:BB Tier A; PvE Rating 4.5; PvP Rating 1; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=3269398063#notes:BB Tier A; PvE Rating 4.5; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3269398063&perks=923806249,31345821#notes:Most Popular Combo (4.501%) - BB Tier A; PvE Rating 4.5; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3269398063&perks=923806249#notes:Most Popular Perk 1 (4.501%) - BB Tier A; PvE Rating 4.5; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3269398063&perks=31345821#notes:Most Popular Perk 2 (4.501%) - BB Tier A; PvE Rating 4.5; PvP Rating 1; Category Popular Rank 1
@@ -3020,7 +3020,7 @@ dimwishlist:item=25228802&perks=1966281507,1782407750#notes:Popular Combo (4.294
 dimwishlist:item=25228802&perks=1966281507#notes:Popular Perk 1 (4.294%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=25228802&perks=1782407750#notes:Popular Perk 2 (4.294%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=25228802&perks=1966281507,31345821#notes:Popular Combo (3.334%) - BB Tier A; PvE Rating 0; PvP Rating 0
-dimwishlist:item=2595497736#notes:PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=2595497736#notes:PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3
 dimwishlist:item=2595497736&perks=3526486541,3108830275#notes:Most Popular Combo (13.391%) - PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3
 dimwishlist:item=2595497736&perks=3526486541#notes:Most Popular Perk 1 (13.391%) - PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3
 dimwishlist:item=2595497736&perks=3108830275#notes:Most Popular Perk 2 (13.391%) - PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3
@@ -3029,7 +3029,7 @@ dimwishlist:item=2595497736&perks=951095735#notes:Popular Perk 1 (9.724%) - PvE 
 dimwishlist:item=2595497736&perks=4104185692#notes:Popular Perk 2 (9.724%) - PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3; Category Popular Rank 3
 dimwishlist:item=2595497736&perks=951095735,2224838837#notes:Popular Combo (7.948%) - PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3
 dimwishlist:item=2595497736&perks=2224838837#notes:Popular Perk 2 (7.948%) - PvE Rating 4.5; PvP Rating 3.2; Category Popular Rank 3; Category Popular Rank 3
-dimwishlist:item=254636484#notes:PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=254636484#notes:PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=254636484&perks=951095735,1546637391#notes:Most Popular Combo (9.792%) - PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=254636484&perks=951095735#notes:Most Popular Perk 1 (9.792%) - PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=254636484&perks=1546637391#notes:Most Popular Perk 2 (9.792%) - PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5
@@ -3038,7 +3038,7 @@ dimwishlist:item=254636484&perks=2224838837#notes:Popular Perk 2 (7.370%) - PvE 
 dimwishlist:item=254636484&perks=3523296417,4104185692#notes:Popular Combo (6.482%) - PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=254636484&perks=3523296417#notes:Popular Perk 1 (6.482%) - PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=254636484&perks=4104185692#notes:Popular Perk 2 (6.482%) - PvE Rating 4.3; PvP Rating 3.4; Category Popular Rank 5; Category Popular Rank 5
-dimwishlist:item=267672635#notes:PvE Rating 5; PvP Rating 3.7; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=267672635#notes:PvE Rating 5; PvP Rating 3.7; Category Popular Rank 6
 dimwishlist:item=267672635&perks=2859149211,3966416502#notes:Most Popular Combo (3.173%) - PvE Rating 5; PvP Rating 3.7; Category Popular Rank 6
 dimwishlist:item=267672635&perks=2859149211#notes:Most Popular Perk 1 (3.173%) - PvE Rating 5; PvP Rating 3.7; Category Popular Rank 6
 dimwishlist:item=267672635&perks=3966416502#notes:Most Popular Perk 2 (3.173%) - PvE Rating 5; PvP Rating 3.7; Category Popular Rank 6
@@ -3064,7 +3064,7 @@ dimwishlist:item=4094657108&perks=1645158859#notes:Popular Perk 1 (11.541%) - BB
 dimwishlist:item=4094657108&perks=2213355989#notes:Popular Perk 2 (11.541%) - BB Tier S; PvE Rating 3.6; PvP Rating 4.7
 dimwishlist:item=4094657108&perks=1015611457,2846385770#notes:Popular Combo (6.909%) - BB Tier S; PvE Rating 3.6; PvP Rating 4.7
 dimwishlist:item=4094657108&perks=2846385770#notes:Popular Perk 2 (6.909%) - BB Tier S; PvE Rating 3.6; PvP Rating 4.7
-dimwishlist:item=2558925366#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=2558925366#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
 dimwishlist:item=2558925366&perks=3643424744,2594592626#notes:Most Popular Combo (66.152%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
 dimwishlist:item=2558925366&perks=3643424744#notes:Most Popular Perk 1 (66.152%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
 dimwishlist:item=2558925366&perks=2594592626#notes:Most Popular Perk 2 (66.152%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
@@ -3072,7 +3072,7 @@ dimwishlist:item=2558925366&perks=923806249,2594592626#notes:Popular Combo (18.0
 dimwishlist:item=2558925366&perks=923806249#notes:Popular Perk 1 (18.043%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
 dimwishlist:item=2558925366&perks=3828510309,2594592626#notes:Popular Combo (2.547%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
 dimwishlist:item=2558925366&perks=3828510309#notes:Popular Perk 1 (2.547%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.3; Category Popular Rank 1
-dimwishlist:item=768621510#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.4; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=768621510#notes:BB Tier S; PvE Rating 4.7; PvP Rating 4.4; Category Popular Rank 8
 dimwishlist:item=768621510&perks=3523296417,2978966579#notes:Most Popular Combo (37.846%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.4; Category Popular Rank 8
 dimwishlist:item=768621510&perks=3523296417#notes:Most Popular Perk 1 (37.846%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.4; Category Popular Rank 8
 dimwishlist:item=768621510&perks=2978966579#notes:Most Popular Perk 2 (37.846%) - BB Tier S; PvE Rating 4.7; PvP Rating 4.4; Category Popular Rank 8
@@ -3088,7 +3088,7 @@ dimwishlist:item=2943293195&perks=1799762209,2978966579#notes:Popular Combo (9.1
 dimwishlist:item=2943293195&perks=1799762209#notes:Popular Perk 1 (9.157%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.7
 dimwishlist:item=2943293195&perks=671806388,2978966579#notes:Popular Combo (7.367%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.7
 dimwishlist:item=2943293195&perks=671806388#notes:Popular Perk 1 (7.367%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.7
-dimwishlist:item=2715240478#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=2715240478#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 2
 dimwishlist:item=2715240478&perks=3300816228,2978966579#notes:Most Popular Combo (39.632%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 2
 dimwishlist:item=2715240478&perks=3300816228#notes:Most Popular Perk 1 (39.632%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 2
 dimwishlist:item=2715240478&perks=2978966579#notes:Most Popular Perk 2 (39.632%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 2
@@ -3137,7 +3137,7 @@ dimwishlist:item=3867373351&perks=1523832109,4293542123#notes:Popular Combo (9.9
 dimwishlist:item=3867373351&perks=4293542123#notes:Popular Perk 2 (9.923%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.8
 dimwishlist:item=3867373351&perks=3523296417,4293542123#notes:Popular Combo (4.264%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.8
 dimwishlist:item=3867373351&perks=3523296417#notes:Popular Perk 1 (4.264%) - BB Tier A; PvE Rating 4.5; PvP Rating 3.8
-dimwishlist:item=93061497#notes:BB Tier A; PvE Rating 4.6; PvP Rating 4.8; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=93061497#notes:BB Tier A; PvE Rating 4.6; PvP Rating 4.8; Category Popular Rank 9
 dimwishlist:item=93061497&perks=1645158859,1194056669#notes:Most Popular Combo (11.827%) - BB Tier A; PvE Rating 4.6; PvP Rating 4.8; Category Popular Rank 9
 dimwishlist:item=93061497&perks=1645158859#notes:Most Popular Perk 1 (11.827%) - BB Tier A; PvE Rating 4.6; PvP Rating 4.8; Category Popular Rank 9
 dimwishlist:item=93061497&perks=1194056669#notes:Most Popular Perk 2 (11.827%) - BB Tier A; PvE Rating 4.6; PvP Rating 4.8; Category Popular Rank 9
@@ -3184,7 +3184,7 @@ dimwishlist:item=1030895163&perks=1645158859#notes:Popular Perk 1 (14.368%) - BB
 dimwishlist:item=1030895163&perks=2213355989#notes:Popular Perk 2 (14.368%) - BB Tier A; PvE Rating 4.1; PvP Rating 3.7
 dimwishlist:item=1030895163&perks=3161816588,1427256713#notes:Popular Combo (10.265%) - BB Tier A; PvE Rating 4.1; PvP Rating 3.7
 dimwishlist:item=1030895163&perks=3161816588#notes:Popular Perk 1 (10.265%) - BB Tier A; PvE Rating 4.1; PvP Rating 3.7
-dimwishlist:item=2481881293#notes:BB Tier A; PvE Rating 4.4; PvP Rating 3.4; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=2481881293#notes:BB Tier A; PvE Rating 4.4; PvP Rating 3.4; Category Popular Rank 4
 dimwishlist:item=2481881293&perks=1556840489,1546637391#notes:Most Popular Combo (42.280%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.4; Category Popular Rank 4
 dimwishlist:item=2481881293&perks=1556840489#notes:Most Popular Perk 1 (42.280%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.4; Category Popular Rank 4
 dimwishlist:item=2481881293&perks=1546637391#notes:Most Popular Perk 2 (42.280%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.4; Category Popular Rank 4
@@ -3209,7 +3209,7 @@ dimwishlist:item=1720503118&perks=968510818,4293542123#notes:Popular Combo (15.0
 dimwishlist:item=1720503118&perks=4293542123#notes:Popular Perk 2 (15.070%) - BB Tier A; PvE Rating 4.4; PvP Rating 4
 dimwishlist:item=1720503118&perks=1556840489,4293542123#notes:Popular Combo (6.079%) - BB Tier A; PvE Rating 4.4; PvP Rating 4
 dimwishlist:item=1720503118&perks=1556840489#notes:Popular Perk 1 (6.079%) - BB Tier A; PvE Rating 4.4; PvP Rating 4
-dimwishlist:item=2767393525#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=2767393525#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6
 dimwishlist:item=2767393525&perks=968510818,2594592626#notes:Most Popular Combo (22.566%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6
 dimwishlist:item=2767393525&perks=968510818#notes:Most Popular Perk 1 (22.566%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6
 dimwishlist:item=2767393525&perks=2594592626#notes:Most Popular Perk 2 (22.566%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6
@@ -3218,7 +3218,7 @@ dimwishlist:item=2767393525&perks=1556840489#notes:Popular Perk 1 (6.901%) - BB 
 dimwishlist:item=2767393525&perks=968510818,831391274#notes:Popular Combo (6.855%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6
 dimwishlist:item=2767393525&perks=831391274#notes:Popular Perk 2 (6.855%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 6; Category Popular Rank 6
 dimwishlist:item=1824586582#notes:BB Tier A; PvE Rating 3.6; PvP Rating 2.2
-dimwishlist:item=3228630258#notes:BB Tier A; PvE Rating 4.7; PvP Rating 1; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=3228630258#notes:BB Tier A; PvE Rating 4.7; PvP Rating 1; Category Popular Rank 7
 dimwishlist:item=3228630258&perks=2010801679,2048641572#notes:Most Popular Combo (6.903%) - BB Tier A; PvE Rating 4.7; PvP Rating 1; Category Popular Rank 7
 dimwishlist:item=3228630258&perks=2010801679#notes:Most Popular Perk 1 (6.903%) - BB Tier A; PvE Rating 4.7; PvP Rating 1; Category Popular Rank 7
 dimwishlist:item=3228630258&perks=2048641572#notes:Most Popular Perk 2 (6.903%) - BB Tier A; PvE Rating 4.7; PvP Rating 1; Category Popular Rank 7
@@ -3252,7 +3252,7 @@ dimwishlist:item=3953163559&perks=1556840489,2048641572#notes:Popular Combo (5.6
 dimwishlist:item=3953163559&perks=1556840489#notes:Popular Perk 1 (5.680%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=3953163559&perks=2010801679,1427256713#notes:Popular Combo (5.225%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=3953163559&perks=1427256713#notes:Popular Perk 2 (5.225%) - BB Tier A; PvE Rating 0; PvP Rating 0
-dimwishlist:item=891996636#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=891996636#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 3
 dimwishlist:item=891996636&perks=684456054,3218042543#notes:Most Popular Combo (7.815%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 3
 dimwishlist:item=891996636&perks=684456054#notes:Most Popular Perk 1 (7.815%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 3
 dimwishlist:item=891996636&perks=3218042543#notes:Most Popular Perk 2 (7.815%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 3
@@ -3325,7 +3325,7 @@ dimwishlist:item=2263839058&perks=706527188#notes:Popular Perk 1 (6.577%) - BB T
 dimwishlist:item=2263839058&perks=1600092898#notes:Popular Perk 2 (6.577%) - BB Tier A; PvE Rating 2.8; PvP Rating 4.9
 dimwishlist:item=2263839058&perks=3436462433,2846385770#notes:Popular Combo (6.396%) - BB Tier A; PvE Rating 2.8; PvP Rating 4.9
 dimwishlist:item=2263839058&perks=3436462433#notes:Popular Perk 1 (6.396%) - BB Tier A; PvE Rating 2.8; PvP Rating 4.9
-dimwishlist:item=3106557243#notes:PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=3106557243#notes:PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5
 dimwishlist:item=3106557243&perks=1523832109,1427256713#notes:Most Popular Combo (12.536%) - PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5
 dimwishlist:item=3106557243&perks=1523832109#notes:Most Popular Perk 1 (12.536%) - PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5
 dimwishlist:item=3106557243&perks=1427256713#notes:Most Popular Perk 2 (12.536%) - PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5
@@ -3334,7 +3334,7 @@ dimwishlist:item=3106557243&perks=1645158859#notes:Popular Perk 1 (11.658%) - Pv
 dimwishlist:item=3106557243&perks=1194056669#notes:Popular Perk 2 (11.658%) - PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5; Category Popular Rank 5
 dimwishlist:item=3106557243&perks=1523832109,2594592626#notes:Popular Combo (11.639%) - PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5
 dimwishlist:item=3106557243&perks=2594592626#notes:Popular Perk 2 (11.639%) - PvE Rating 4; PvP Rating 4.7; Category Popular Rank 5; Category Popular Rank 5
-dimwishlist:item=3293524502#notes:PvE Rating 5; PvP Rating 4.5; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=3293524502#notes:PvE Rating 5; PvP Rating 4.5; Category Popular Rank 10
 dimwishlist:item=3293524502&perks=1523832109,1427256713#notes:Most Popular Combo (9.400%) - PvE Rating 5; PvP Rating 4.5; Category Popular Rank 10
 dimwishlist:item=3293524502&perks=1523832109#notes:Most Popular Perk 1 (9.400%) - PvE Rating 5; PvP Rating 4.5; Category Popular Rank 10
 dimwishlist:item=3293524502&perks=1427256713#notes:Most Popular Perk 2 (9.400%) - PvE Rating 5; PvP Rating 4.5; Category Popular Rank 10
@@ -3369,7 +3369,7 @@ dimwishlist:item=3232203524&perks=3511092054#notes:Popular Perk 1 (9.849%) - BB 
 dimwishlist:item=3232203524&perks=1556840489,469285294#notes:Popular Combo (3.610%) - BB Tier S; PvE Rating 3; PvP Rating 5
 dimwishlist:item=3232203524&perks=1556840489#notes:Popular Perk 1 (3.610%) - BB Tier S; PvE Rating 3; PvP Rating 5
 dimwishlist:item=3232203524&perks=469285294#notes:Popular Perk 2 (3.610%) - BB Tier S; PvE Rating 3; PvP Rating 5
-dimwishlist:item=3360937899#notes:BB Tier S; PvE Rating 3.8; PvP Rating 3.2; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=3360937899#notes:BB Tier S; PvE Rating 3.8; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=3360937899&perks=3201496230,3078487919#notes:Most Popular Combo (8.164%) - BB Tier S; PvE Rating 3.8; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=3360937899&perks=3201496230#notes:Most Popular Perk 1 (8.164%) - BB Tier S; PvE Rating 3.8; PvP Rating 3.2; Category Popular Rank 10
 dimwishlist:item=3360937899&perks=3078487919#notes:Most Popular Perk 2 (8.164%) - BB Tier S; PvE Rating 3.8; PvP Rating 3.2; Category Popular Rank 10
@@ -3397,7 +3397,7 @@ dimwishlist:item=2883484461&perks=3643424744,3751912585#notes:Popular Combo (11.
 dimwishlist:item=2883484461&perks=3751912585#notes:Popular Perk 2 (11.295%) - BB Tier S; PvE Rating 4.6; PvP Rating 2.6
 dimwishlist:item=2883484461&perks=3300816228,3751912585#notes:Popular Combo (9.433%) - BB Tier S; PvE Rating 4.6; PvP Rating 2.6
 dimwishlist:item=2883484461&perks=3300816228#notes:Popular Perk 1 (9.433%) - BB Tier S; PvE Rating 4.6; PvP Rating 2.6
-dimwishlist:item=1298672084#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=1298672084#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=1298672084&perks=691659142,2679249093#notes:Most Popular Combo (21.224%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=1298672084&perks=691659142#notes:Most Popular Perk 1 (21.224%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
 dimwishlist:item=1298672084&perks=2679249093#notes:Most Popular Perk 2 (21.224%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 8
@@ -3457,7 +3457,7 @@ dimwishlist:item=2591111628&perks=706527188,4293542123#notes:Popular Combo (7.03
 dimwishlist:item=2591111628&perks=4293542123#notes:Popular Perk 2 (7.031%) - BB Tier S; PvE Rating 3; PvP Rating 4.3
 dimwishlist:item=2591111628&perks=706527188,1546637391#notes:Popular Combo (5.176%) - BB Tier S; PvE Rating 3; PvP Rating 4.3
 dimwishlist:item=2591111628&perks=1546637391#notes:Popular Perk 2 (5.176%) - BB Tier S; PvE Rating 3; PvP Rating 4.3
-dimwishlist:item=2563012876#notes:BB Tier S; PvE Rating 3.2; PvP Rating 4.6; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=2563012876#notes:BB Tier S; PvE Rating 3.2; PvP Rating 4.6; Category Popular Rank 9
 dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Most Popular Combo (22.712%) - BB Tier S; PvE Rating 3.2; PvP Rating 4.6; Category Popular Rank 9
 dimwishlist:item=2563012876&perks=4071163871#notes:Most Popular Perk 1 (22.712%) - BB Tier S; PvE Rating 3.2; PvP Rating 4.6; Category Popular Rank 9
 dimwishlist:item=2563012876&perks=47981717#notes:Most Popular Perk 2 (22.712%) - BB Tier S; PvE Rating 3.2; PvP Rating 4.6; Category Popular Rank 9
@@ -3490,7 +3490,7 @@ dimwishlist:item=4248569242&perks=1523832109,957782887#notes:Popular Combo (4.60
 dimwishlist:item=4248569242&perks=957782887#notes:Popular Perk 2 (4.608%) - BB Tier A; PvE Rating 4.8; PvP Rating 4
 dimwishlist:item=4248569242&perks=1523832109,2896038713#notes:Popular Combo (4.326%) - BB Tier A; PvE Rating 4.8; PvP Rating 4
 dimwishlist:item=4248569242&perks=2896038713#notes:Popular Perk 2 (4.326%) - BB Tier A; PvE Rating 4.8; PvP Rating 4
-dimwishlist:item=1679868061#notes:BB Tier A; PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=1679868061#notes:BB Tier A; PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 7
 dimwishlist:item=1679868061&perks=1556840489,2679249093#notes:Most Popular Combo (15.280%) - BB Tier A; PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 7
 dimwishlist:item=1679868061&perks=1556840489#notes:Most Popular Perk 1 (15.280%) - BB Tier A; PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 7
 dimwishlist:item=1679868061&perks=2679249093#notes:Most Popular Perk 2 (15.280%) - BB Tier A; PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 7
@@ -3611,7 +3611,7 @@ dimwishlist:item=3184681056&perks=3161816588,47981717#notes:Popular Combo (21.40
 dimwishlist:item=3184681056&perks=3161816588#notes:Popular Perk 1 (21.400%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.5
 dimwishlist:item=3184681056&perks=3161816588,2360754333#notes:Popular Combo (4.042%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.5
 dimwishlist:item=3184681056&perks=2360754333#notes:Popular Perk 2 (4.042%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.5
-dimwishlist:item=51129316#notes:PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=51129316#notes:PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1
 dimwishlist:item=51129316&perks=2579169598,47981717#notes:Most Popular Combo (6.850%) - PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1
 dimwishlist:item=51129316&perks=2579169598#notes:Most Popular Perk 1 (6.850%) - PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1
 dimwishlist:item=51129316&perks=47981717#notes:Most Popular Perk 2 (6.850%) - PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1
@@ -3619,7 +3619,7 @@ dimwishlist:item=51129316&perks=3161816588,47981717#notes:Popular Combo (6.015%)
 dimwishlist:item=51129316&perks=3161816588#notes:Popular Perk 1 (6.015%) - PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1
 dimwishlist:item=51129316&perks=2579169598,1194056669#notes:Popular Combo (5.268%) - PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1
 dimwishlist:item=51129316&perks=1194056669#notes:Popular Perk 2 (5.268%) - PvE Rating 5; PvP Rating 4.7; Category Popular Rank 1; Category Popular Rank 1
-dimwishlist:item=2330860573#notes:PvE Rating 0; PvP Rating 4.5; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=2330860573#notes:PvE Rating 0; PvP Rating 4.5; Category Popular Rank 3
 dimwishlist:item=2330860573&perks=2579169598,47981717#notes:Most Popular Combo (15.212%) - PvE Rating 0; PvP Rating 4.5; Category Popular Rank 3
 dimwishlist:item=2330860573&perks=2579169598#notes:Most Popular Perk 1 (15.212%) - PvE Rating 0; PvP Rating 4.5; Category Popular Rank 3
 dimwishlist:item=2330860573&perks=47981717#notes:Most Popular Perk 2 (15.212%) - PvE Rating 0; PvP Rating 4.5; Category Popular Rank 3
@@ -3660,7 +3660,7 @@ dimwishlist:item=2307365&perks=509074078,47981717#notes:Popular Combo (8.868%) -
 dimwishlist:item=2307365&perks=509074078#notes:Popular Perk 1 (8.868%) - PvE Rating 3; PvP Rating 4.4
 dimwishlist:item=2307365&perks=972757866,47981717#notes:Popular Combo (7.634%) - PvE Rating 3; PvP Rating 4.4
 dimwishlist:item=2307365&perks=972757866#notes:Popular Perk 1 (7.634%) - PvE Rating 3; PvP Rating 4.4
-dimwishlist:item=1976481399#notes:PvE Rating 4; PvP Rating 3; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=1976481399#notes:PvE Rating 4; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=1976481399&perks=2679249093,2360754333#notes:Most Popular Combo (16.452%) - PvE Rating 4; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=1976481399&perks=2679249093#notes:Most Popular Perk 1 (16.452%) - PvE Rating 4; PvP Rating 3; Category Popular Rank 2
 dimwishlist:item=1976481399&perks=2360754333#notes:Most Popular Perk 2 (16.452%) - PvE Rating 4; PvP Rating 3; Category Popular Rank 2
@@ -3718,7 +3718,7 @@ dimwishlist:item=1626437786&perks=1194056669#notes:Popular Perk 2 (6.596%) - PvE
 dimwishlist:item=1626437786&perks=3161816588,47981717#notes:Popular Combo (6.341%) - PvE Rating 5; PvP Rating 0
 dimwishlist:item=1626437786&perks=3161816588#notes:Popular Perk 1 (6.341%) - PvE Rating 5; PvP Rating 0
 dimwishlist:item=1626437786&perks=47981717#notes:Popular Perk 2 (6.341%) - PvE Rating 5; PvP Rating 0
-dimwishlist:item=3753063346#notes:PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=3753063346#notes:PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4
 dimwishlist:item=3753063346&perks=2579169598,1194056669#notes:Most Popular Combo (9.143%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4
 dimwishlist:item=3753063346&perks=2579169598#notes:Most Popular Perk 1 (9.143%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4
 dimwishlist:item=3753063346&perks=1194056669#notes:Most Popular Perk 2 (9.143%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4
@@ -3728,7 +3728,7 @@ dimwishlist:item=3753063346&perks=4293542123#notes:Popular Perk 2 (8.385%) - PvE
 dimwishlist:item=3753063346&perks=3300816228,1546637391#notes:Popular Combo (4.893%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4
 dimwishlist:item=3753063346&perks=3300816228#notes:Popular Perk 1 (4.893%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4
 dimwishlist:item=3753063346&perks=1546637391#notes:Popular Perk 2 (4.893%) - PvE Rating 4.5; PvP Rating 4; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=499245245#notes:PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=499245245#notes:PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=499245245&perks=3978468247,2396489472#notes:Most Popular Combo (6.841%) - PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=499245245&perks=3978468247#notes:Most Popular Perk 1 (6.841%) - PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=499245245&perks=2396489472#notes:Most Popular Perk 2 (6.841%) - PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5
@@ -3737,8 +3737,8 @@ dimwishlist:item=499245245&perks=684456054#notes:Popular Perk 1 (5.970%) - PvE R
 dimwishlist:item=499245245&perks=2173046394#notes:Popular Perk 2 (5.970%) - PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5; Category Popular Rank 5
 dimwishlist:item=499245245&perks=4071163871,2173046394#notes:Popular Combo (5.473%) - PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5
 dimwishlist:item=499245245&perks=4071163871#notes:Popular Perk 1 (5.473%) - PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 5
-dimwishlist:item=1047932517#notes:PvE Rating 3.9; PvP Rating 3.3; Category Popular Rank 6; Category Popular Rank 6
-dimwishlist:item=2884596447#notes:BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1047932517#notes:PvE Rating 3.9; PvP Rating 3.3; Category Popular Rank 6
+dimwishlist:item=2884596447#notes:BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=2884596447&perks=3418782618,3891536761#notes:Most Popular Combo (49.613%) - BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=2884596447&perks=3418782618#notes:Most Popular Perk 1 (49.613%) - BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 1
 dimwishlist:item=2884596447&perks=3891536761#notes:Most Popular Perk 2 (49.613%) - BB Tier S; PvE Rating 5; PvP Rating 4.4; Category Popular Rank 1
@@ -3754,7 +3754,7 @@ dimwishlist:item=686951703&perks=957782887,3400784728#notes:Popular Combo (15.73
 dimwishlist:item=686951703&perks=3400784728#notes:Popular Perk 2 (15.731%) - BB Tier S; PvE Rating 3.9; PvP Rating 4.5
 dimwishlist:item=686951703&perks=957782887,247725512#notes:Popular Combo (10.928%) - BB Tier S; PvE Rating 3.9; PvP Rating 4.5
 dimwishlist:item=686951703&perks=247725512#notes:Popular Perk 2 (10.928%) - BB Tier S; PvE Rating 3.9; PvP Rating 4.5
-dimwishlist:item=2990047042#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=2990047042#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Most Popular Combo (40.851%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2990047042&perks=1523832109#notes:Most Popular Perk 1 (40.851%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2990047042&perks=1546637391#notes:Most Popular Perk 2 (40.851%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5
@@ -3762,7 +3762,7 @@ dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Popular Combo (16.3
 dimwishlist:item=2990047042&perks=469285294#notes:Popular Perk 2 (16.374%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
 dimwishlist:item=2990047042&perks=1523832109,1771339417#notes:Popular Combo (5.936%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=2990047042&perks=1771339417#notes:Popular Perk 2 (5.936%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
-dimwishlist:item=3612338554#notes:BB Tier S; PvE Rating 4.6; PvP Rating 4.3; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=3612338554#notes:BB Tier S; PvE Rating 4.6; PvP Rating 4.3; Category Popular Rank 6
 dimwishlist:item=3612338554&perks=1523832109,1546637391#notes:Most Popular Combo (16.734%) - BB Tier S; PvE Rating 4.6; PvP Rating 4.3; Category Popular Rank 6
 dimwishlist:item=3612338554&perks=1523832109#notes:Most Popular Perk 1 (16.734%) - BB Tier S; PvE Rating 4.6; PvP Rating 4.3; Category Popular Rank 6
 dimwishlist:item=3612338554&perks=1546637391#notes:Most Popular Perk 2 (16.734%) - BB Tier S; PvE Rating 4.6; PvP Rating 4.3; Category Popular Rank 6
@@ -3795,7 +3795,7 @@ dimwishlist:item=172461430&perks=2978966579,3038247973#notes:Popular Combo (6.69
 dimwishlist:item=172461430&perks=3038247973#notes:Popular Perk 2 (6.695%) - BB Tier S; PvE Rating 5; PvP Rating 0
 dimwishlist:item=172461430&perks=1523832109,3640170453#notes:Popular Combo (6.251%) - BB Tier S; PvE Rating 5; PvP Rating 0
 dimwishlist:item=172461430&perks=1523832109#notes:Popular Perk 1 (6.251%) - BB Tier S; PvE Rating 5; PvP Rating 0
-dimwishlist:item=1893967086#notes:BB Tier S; PvE Rating 5; PvP Rating 5; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=1893967086#notes:BB Tier S; PvE Rating 5; PvP Rating 5; Category Popular Rank 4
 dimwishlist:item=1893967086&perks=957782887,47981717#notes:Most Popular Combo (7.687%) - BB Tier S; PvE Rating 5; PvP Rating 5; Category Popular Rank 4
 dimwishlist:item=1893967086&perks=957782887#notes:Most Popular Perk 1 (7.687%) - BB Tier S; PvE Rating 5; PvP Rating 5; Category Popular Rank 4
 dimwishlist:item=1893967086&perks=47981717#notes:Most Popular Perk 2 (7.687%) - BB Tier S; PvE Rating 5; PvP Rating 5; Category Popular Rank 4
@@ -3812,11 +3812,11 @@ dimwishlist:item=3503560035&perks=2579169598,1194056669#notes:Popular Combo (11.
 dimwishlist:item=3503560035&perks=2579169598#notes:Popular Perk 1 (11.286%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.7
 dimwishlist:item=3503560035&perks=1194056669#notes:Popular Perk 2 (11.286%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.7
 dimwishlist:item=3503560035&perks=957782887,1194056669#notes:Popular Combo (9.338%) - BB Tier S; PvE Rating 4.5; PvP Rating 4.7
-dimwishlist:item=1983149589#notes:BB Tier S; PvE Rating 4; PvP Rating 1.6; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=1983149589#notes:BB Tier S; PvE Rating 4; PvP Rating 1.6; Category Popular Rank 7
 dimwishlist:item=1891561814#notes:BB Tier S; PvE Rating 4.8; PvP Rating 2.6
 dimwishlist:item=3211806999#notes:BB Tier S; PvE Rating 4.7; PvP Rating 3
 dimwishlist:item=2905188646#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.6
-dimwishlist:item=3844610113#notes:BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=3844610113#notes:BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 8
 dimwishlist:item=3844610113&perks=3891536761,3078487919#notes:Most Popular Combo (12.762%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 8
 dimwishlist:item=3844610113&perks=3891536761#notes:Most Popular Perk 1 (12.762%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 8
 dimwishlist:item=3844610113&perks=3078487919#notes:Most Popular Perk 2 (12.762%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 8
@@ -3896,7 +3896,7 @@ dimwishlist:item=1321626661&perks=588594999,47981717#notes:Popular Combo (13.062
 dimwishlist:item=1321626661&perks=47981717#notes:Popular Perk 2 (13.062%) - BB Tier S; PvE Rating 1; PvP Rating 5
 dimwishlist:item=1321626661&perks=2866798147,957782887#notes:Popular Combo (9.461%) - BB Tier S; PvE Rating 1; PvP Rating 5
 dimwishlist:item=1321626661&perks=2866798147#notes:Popular Perk 1 (9.461%) - BB Tier S; PvE Rating 1; PvP Rating 5
-dimwishlist:item=3107853529#notes:BB Tier S; PvE Rating 3.9; PvP Rating 4.8; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=3107853529#notes:BB Tier S; PvE Rating 3.9; PvP Rating 4.8; Category Popular Rank 9
 dimwishlist:item=3107853529&perks=957782887,588594999#notes:Most Popular Combo (35.155%) - BB Tier S; PvE Rating 3.9; PvP Rating 4.8; Category Popular Rank 9
 dimwishlist:item=3107853529&perks=957782887#notes:Most Popular Perk 1 (35.155%) - BB Tier S; PvE Rating 3.9; PvP Rating 4.8; Category Popular Rank 9
 dimwishlist:item=3107853529&perks=588594999#notes:Most Popular Perk 2 (35.155%) - BB Tier S; PvE Rating 3.9; PvP Rating 4.8; Category Popular Rank 9
@@ -4085,7 +4085,7 @@ dimwishlist:item=2806569825&perks=1523832109,923806249#notes:Popular Combo (11.2
 dimwishlist:item=2806569825&perks=923806249#notes:Popular Perk 2 (11.229%) - BB Tier A; PvE Rating 2.9; PvP Rating 1.4
 dimwishlist:item=2806569825&perks=1523832109,3523296417#notes:Popular Combo (8.932%) - BB Tier A; PvE Rating 2.9; PvP Rating 1.4
 dimwishlist:item=2806569825&perks=3523296417#notes:Popular Perk 2 (8.932%) - BB Tier A; PvE Rating 2.9; PvP Rating 1.4
-dimwishlist:item=4164201232#notes:BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=4164201232#notes:BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
 dimwishlist:item=4164201232&perks=706527188,957782887#notes:Most Popular Combo (21.392%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
 dimwishlist:item=4164201232&perks=706527188#notes:Most Popular Perk 1 (21.392%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
 dimwishlist:item=4164201232&perks=957782887#notes:Most Popular Perk 2 (21.392%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
@@ -4093,7 +4093,7 @@ dimwishlist:item=4164201232&perks=2866798147,957782887#notes:Popular Combo (10.6
 dimwishlist:item=4164201232&perks=2866798147#notes:Popular Perk 1 (10.650%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
 dimwishlist:item=4164201232&perks=1428297954,957782887#notes:Popular Combo (6.108%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
 dimwishlist:item=4164201232&perks=1428297954#notes:Popular Perk 1 (6.108%) - BB Tier A; PvE Rating 3.6; PvP Rating 4.8; Category Popular Rank 10
-dimwishlist:item=4200122994#notes:PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=4200122994#notes:PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=4200122994&perks=2579169598,1194056669#notes:Most Popular Combo (5.472%) - PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=4200122994&perks=2579169598#notes:Most Popular Perk 1 (5.472%) - PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=4200122994&perks=1194056669#notes:Most Popular Perk 2 (5.472%) - PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
@@ -4101,7 +4101,7 @@ dimwishlist:item=4200122994&perks=957782887,47981717#notes:Popular Combo (5.146%
 dimwishlist:item=4200122994&perks=957782887#notes:Popular Perk 1 (5.146%) - PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
 dimwishlist:item=4200122994&perks=47981717#notes:Popular Perk 2 (5.146%) - PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2; Category Popular Rank 2
 dimwishlist:item=4200122994&perks=957782887,1194056669#notes:Popular Combo (4.901%) - PvE Rating 4.2; PvP Rating 4; Category Popular Rank 2
-dimwishlist:item=2800870005#notes:PvE Rating 2.2; PvP Rating 2.8; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=2800870005#notes:PvE Rating 2.2; PvP Rating 2.8; Category Popular Rank 3
 dimwishlist:item=2800870005&perks=1820235745,4293542123#notes:Most Popular Combo (7.126%) - PvE Rating 2.2; PvP Rating 2.8; Category Popular Rank 3
 dimwishlist:item=2800870005&perks=1820235745#notes:Most Popular Perk 1 (7.126%) - PvE Rating 2.2; PvP Rating 2.8; Category Popular Rank 3
 dimwishlist:item=2800870005&perks=4293542123#notes:Most Popular Perk 2 (7.126%) - PvE Rating 2.2; PvP Rating 2.8; Category Popular Rank 3
@@ -4111,7 +4111,7 @@ dimwishlist:item=2800870005&perks=3643424744,4293542123#notes:Popular Combo (4.1
 dimwishlist:item=2800870005&perks=3643424744#notes:Popular Perk 1 (4.153%) - PvE Rating 2.2; PvP Rating 2.8; Category Popular Rank 3
 dimwishlist:item=4272442416#notes:PvE Rating 5; PvP Rating 5
 dimwishlist:item=4103414242#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.8
-dimwishlist:item=2827764482#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=2827764482#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
 dimwishlist:item=2827764482&perks=3700496672,2173046394#notes:Most Popular Combo (21.301%) - BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
 dimwishlist:item=2827764482&perks=3700496672#notes:Most Popular Perk 1 (21.301%) - BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
 dimwishlist:item=2827764482&perks=2173046394#notes:Most Popular Perk 2 (21.301%) - BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
@@ -4119,7 +4119,7 @@ dimwishlist:item=2827764482&perks=1820235745,2173046394#notes:Popular Combo (11.
 dimwishlist:item=2827764482&perks=1820235745#notes:Popular Perk 1 (11.618%) - BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
 dimwishlist:item=2827764482&perks=1583705720,2173046394#notes:Popular Combo (8.960%) - BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
 dimwishlist:item=2827764482&perks=1583705720#notes:Popular Perk 1 (8.960%) - BB Tier S; PvE Rating 4.9; PvP Rating 3; Category Popular Rank 8
-dimwishlist:item=1471212226#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=1471212226#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 7
 dimwishlist:item=1471212226&perks=1523832109,4293542123#notes:Most Popular Combo (27.249%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 7
 dimwishlist:item=1471212226&perks=1523832109#notes:Most Popular Perk 1 (27.249%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 7
 dimwishlist:item=1471212226&perks=4293542123#notes:Most Popular Perk 2 (27.249%) - BB Tier S; PvE Rating 4.8; PvP Rating 3.3; Category Popular Rank 7
@@ -4137,7 +4137,7 @@ dimwishlist:item=3493494807&perks=1523832109,365154968#notes:Popular Combo (5.06
 dimwishlist:item=3493494807&perks=365154968#notes:Popular Perk 2 (5.063%) - BB Tier S; PvE Rating 5; PvP Rating 4
 dimwishlist:item=1441805468#notes:BB Tier S; PvE Rating 4.8; PvP Rating 4.3
 dimwishlist:item=4207066264#notes:BB Tier S; PvE Rating 4; PvP Rating 4.6
-dimwishlist:item=1886840007#notes:BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=1886840007#notes:BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1886840007&perks=776531651,2048641572#notes:Most Popular Combo (33.074%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1886840007&perks=776531651#notes:Most Popular Perk 1 (33.074%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1886840007&perks=2048641572#notes:Most Popular Perk 2 (33.074%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6
@@ -4146,7 +4146,7 @@ dimwishlist:item=1886840007&perks=3700496672#notes:Popular Perk 1 (10.799%) - BB
 dimwishlist:item=1886840007&perks=3300816228,365154968#notes:Popular Combo (5.841%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1886840007&perks=3300816228#notes:Popular Perk 1 (5.841%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1886840007&perks=365154968#notes:Popular Perk 2 (5.841%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 6; Category Popular Rank 6
-dimwishlist:item=1303313141#notes:BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1303313141#notes:BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1
 dimwishlist:item=1303313141&perks=3418782618,4198902903#notes:Most Popular Combo (11.875%) - BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1
 dimwishlist:item=1303313141&perks=3418782618#notes:Most Popular Perk 1 (11.875%) - BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1
 dimwishlist:item=1303313141&perks=4198902903#notes:Most Popular Perk 2 (11.875%) - BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1
@@ -4155,7 +4155,7 @@ dimwishlist:item=1303313141&perks=3700496672#notes:Popular Perk 1 (9.581%) - BB 
 dimwishlist:item=1303313141&perks=960997401,4198902903#notes:Popular Combo (7.204%) - BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1
 dimwishlist:item=1303313141&perks=960997401#notes:Popular Perk 1 (7.204%) - BB Tier S; PvE Rating 4; PvP Rating 4; Category Popular Rank 1
 dimwishlist:item=1833195496#notes:BB Tier A; PvE Rating 4.9; PvP Rating 3.2
-dimwishlist:item=548958835#notes:BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=548958835#notes:BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=548958835&perks=1820235745,4293542123#notes:Most Popular Combo (16.383%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=548958835&perks=1820235745#notes:Most Popular Perk 1 (16.383%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=548958835&perks=4293542123#notes:Most Popular Perk 2 (16.383%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4
@@ -4163,7 +4163,7 @@ dimwishlist:item=548958835&perks=3700496672,4293542123#notes:Popular Combo (7.80
 dimwishlist:item=548958835&perks=3700496672#notes:Popular Perk 1 (7.807%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=548958835&perks=1820235745,2610012052#notes:Popular Combo (4.817%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4
 dimwishlist:item=548958835&perks=2610012052#notes:Popular Perk 2 (4.817%) - BB Tier A; PvE Rating 4.4; PvP Rating 3.5; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=4153087276#notes:BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=4153087276#notes:BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=4153087276&perks=3643424744,557221067#notes:Most Popular Combo (23.908%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=4153087276&perks=3643424744#notes:Most Popular Perk 1 (23.908%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=4153087276&perks=557221067#notes:Most Popular Perk 2 (23.908%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9
@@ -4171,7 +4171,7 @@ dimwishlist:item=4153087276&perks=3523296417,557221067#notes:Popular Combo (12.6
 dimwishlist:item=4153087276&perks=3523296417#notes:Popular Perk 1 (12.652%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=4153087276&perks=3523296417,124408337#notes:Popular Combo (7.666%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=4153087276&perks=124408337#notes:Popular Perk 2 (7.666%) - BB Tier A; PvE Rating 4.9; PvP Rating 2.9; Category Popular Rank 9; Category Popular Rank 9
-dimwishlist:item=4248997900#notes:BB Tier A; PvE Rating 3.9; PvP Rating 2; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=4248997900#notes:BB Tier A; PvE Rating 3.9; PvP Rating 2; Category Popular Rank 10
 dimwishlist:item=4248997900&perks=1820235745,557221067#notes:Most Popular Combo (16.879%) - BB Tier A; PvE Rating 3.9; PvP Rating 2; Category Popular Rank 10
 dimwishlist:item=4248997900&perks=1820235745#notes:Most Popular Perk 1 (16.879%) - BB Tier A; PvE Rating 3.9; PvP Rating 2; Category Popular Rank 10
 dimwishlist:item=4248997900&perks=557221067#notes:Most Popular Perk 2 (16.879%) - BB Tier A; PvE Rating 3.9; PvP Rating 2; Category Popular Rank 10
@@ -4203,7 +4203,7 @@ dimwishlist:item=2839600459&perks=1820235745,557221067#notes:Popular Combo (6.58
 dimwishlist:item=2839600459&perks=1820235745#notes:Popular Perk 1 (6.580%) - BB Tier A; PvE Rating 5; PvP Rating 3
 dimwishlist:item=2839600459&perks=557221067#notes:Popular Perk 2 (6.580%) - BB Tier A; PvE Rating 5; PvP Rating 3
 dimwishlist:item=2839600459&perks=923806249,557221067#notes:Popular Combo (5.866%) - BB Tier A; PvE Rating 5; PvP Rating 3
-dimwishlist:item=2029899814#notes:BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=2029899814#notes:BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=2029899814&perks=3643424744,3966416502#notes:Most Popular Combo (14.570%) - BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=2029899814&perks=3643424744#notes:Most Popular Perk 1 (14.570%) - BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=2029899814&perks=3966416502#notes:Most Popular Perk 2 (14.570%) - BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2
@@ -4211,7 +4211,7 @@ dimwishlist:item=2029899814&perks=3643424744,4198902903#notes:Popular Combo (12.
 dimwishlist:item=2029899814&perks=4198902903#notes:Popular Perk 2 (12.823%) - BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2; Category Popular Rank 2
 dimwishlist:item=2029899814&perks=684456054,3966416502#notes:Popular Combo (7.725%) - BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=2029899814&perks=684456054#notes:Popular Perk 1 (7.725%) - BB Tier A; PvE Rating 4.5; PvP Rating 2; Category Popular Rank 2
-dimwishlist:item=1968711238#notes:BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=1968711238#notes:BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=1968711238&perks=3418782618,3966416502#notes:Most Popular Combo (13.513%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=1968711238&perks=3418782618#notes:Most Popular Perk 1 (13.513%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=1968711238&perks=3966416502#notes:Most Popular Perk 2 (13.513%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
@@ -4220,7 +4220,7 @@ dimwishlist:item=1968711238&perks=968510818#notes:Popular Perk 1 (11.833%) - BB 
 dimwishlist:item=1968711238&perks=4198902903#notes:Popular Perk 2 (11.833%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3; Category Popular Rank 3
 dimwishlist:item=1968711238&perks=3418782618,4198902903#notes:Popular Combo (9.928%) - BB Tier A; PvE Rating 4.2; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3725585710#notes:BB Tier A; PvE Rating 4; PvP Rating 3.8
-dimwishlist:item=2323544076#notes:PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=2323544076#notes:PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=2323544076&perks=1556840489,776531651#notes:Most Popular Combo (17.563%) - PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=2323544076&perks=1556840489#notes:Most Popular Perk 1 (17.563%) - PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=2323544076&perks=776531651#notes:Most Popular Perk 2 (17.563%) - PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5
@@ -4230,7 +4230,7 @@ dimwishlist:item=2323544076&perks=744594675,2848615171#notes:Popular Combo (10.3
 dimwishlist:item=2323544076&perks=744594675#notes:Popular Perk 1 (10.342%) - PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5
 dimwishlist:item=2323544076&perks=2848615171#notes:Popular Perk 2 (10.342%) - PvE Rating 4.8; PvP Rating 3.4; Category Popular Rank 5; Category Popular Rank 5
 dimwishlist:item=2044500762#notes:BB Tier S; PvE Rating 3.1; PvP Rating 3.7
-dimwishlist:item=999767358#notes:BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=999767358#notes:BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 7
 dimwishlist:item=999767358&perks=1354429876,3078487919#notes:Most Popular Combo (61.299%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 7
 dimwishlist:item=999767358&perks=1354429876#notes:Most Popular Perk 1 (61.299%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 7
 dimwishlist:item=999767358&perks=3078487919#notes:Most Popular Perk 2 (61.299%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 7
@@ -4246,7 +4246,7 @@ dimwishlist:item=2886339027&perks=1354429876,2896038713#notes:Popular Combo (7.8
 dimwishlist:item=2886339027&perks=2896038713#notes:Popular Perk 2 (7.829%) - BB Tier S; PvE Rating 4.6; PvP Rating 2.7
 dimwishlist:item=2886339027&perks=1354429876,2213355989#notes:Popular Combo (4.850%) - BB Tier S; PvE Rating 4.6; PvP Rating 2.7
 dimwishlist:item=2886339027&perks=2213355989#notes:Popular Perk 2 (4.850%) - BB Tier S; PvE Rating 4.6; PvP Rating 2.7
-dimwishlist:item=1491665733#notes:BB Tier S; PvE Rating 4.5; PvP Rating 2.9; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=1491665733#notes:BB Tier S; PvE Rating 4.5; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=1491665733&perks=1523832109,2896038713#notes:Most Popular Combo (17.001%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=1491665733&perks=1523832109#notes:Most Popular Perk 1 (17.001%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.9; Category Popular Rank 9
 dimwishlist:item=1491665733&perks=2896038713#notes:Most Popular Perk 2 (17.001%) - BB Tier S; PvE Rating 4.5; PvP Rating 2.9; Category Popular Rank 9
@@ -4262,7 +4262,7 @@ dimwishlist:item=2890082420&perks=3418782618,3708227201#notes:Popular Combo (6.8
 dimwishlist:item=2890082420&perks=3418782618#notes:Popular Perk 1 (6.844%) - BB Tier S; PvE Rating 4.7; PvP Rating 4
 dimwishlist:item=2890082420&perks=3708227201#notes:Popular Perk 2 (6.844%) - BB Tier S; PvE Rating 4.7; PvP Rating 4
 dimwishlist:item=2890082420&perks=1523832109,3708227201#notes:Popular Combo (6.354%) - BB Tier S; PvE Rating 4.7; PvP Rating 4
-dimwishlist:item=1501688142#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=1501688142#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5
 dimwishlist:item=1501688142&perks=1523832109,555281244#notes:Most Popular Combo (64.371%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5
 dimwishlist:item=1501688142&perks=1523832109#notes:Most Popular Perk 1 (64.371%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5
 dimwishlist:item=1501688142&perks=555281244#notes:Most Popular Perk 2 (64.371%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5
@@ -4271,7 +4271,7 @@ dimwishlist:item=1501688142&perks=968510818#notes:Popular Perk 1 (8.020%) - BB T
 dimwishlist:item=1501688142&perks=3619207468,588594999#notes:Popular Combo (4.890%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5
 dimwishlist:item=1501688142&perks=3619207468#notes:Popular Perk 1 (4.890%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5
 dimwishlist:item=1501688142&perks=588594999#notes:Popular Perk 2 (4.890%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1; Category Popular Rank 5; Category Popular Rank 5
-dimwishlist:item=1492522228#notes:BB Tier S; PvE Rating 5; PvP Rating 2.5; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=1492522228#notes:BB Tier S; PvE Rating 5; PvP Rating 2.5; Category Popular Rank 3
 dimwishlist:item=1492522228&perks=3418782618,3078487919#notes:Most Popular Combo (31.740%) - BB Tier S; PvE Rating 5; PvP Rating 2.5; Category Popular Rank 3
 dimwishlist:item=1492522228&perks=3418782618#notes:Most Popular Perk 1 (31.740%) - BB Tier S; PvE Rating 5; PvP Rating 2.5; Category Popular Rank 3
 dimwishlist:item=1492522228&perks=3078487919#notes:Most Popular Perk 2 (31.740%) - BB Tier S; PvE Rating 5; PvP Rating 2.5; Category Popular Rank 3
@@ -4289,7 +4289,7 @@ dimwishlist:item=2591257541&perks=968510818,3078487919#notes:Popular Combo (6.05
 dimwishlist:item=2591257541&perks=968510818#notes:Popular Perk 1 (6.050%) - BB Tier S; PvE Rating 4.8; PvP Rating 2.5
 dimwishlist:item=3284383335#notes:BB Tier S; PvE Rating 4.3; PvP Rating 1.5
 dimwishlist:item=4036115577#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.7
-dimwishlist:item=3615421669#notes:PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=3615421669#notes:PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3615421669&perks=124408337,2978966579#notes:Most Popular Combo (6.994%) - PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3615421669&perks=124408337#notes:Most Popular Perk 1 (6.994%) - PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3615421669&perks=2978966579#notes:Most Popular Perk 2 (6.994%) - PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1
@@ -4298,7 +4298,7 @@ dimwishlist:item=3615421669&perks=968510818#notes:Popular Perk 1 (5.267%) - PvE 
 dimwishlist:item=3615421669&perks=555281244#notes:Popular Perk 2 (5.267%) - PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1; Category Popular Rank 1
 dimwishlist:item=3615421669&perks=968510818,1771339417#notes:Popular Combo (4.907%) - PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1
 dimwishlist:item=3615421669&perks=1771339417#notes:Popular Perk 2 (4.907%) - PvE Rating 3.7; PvP Rating 1; Category Popular Rank 1; Category Popular Rank 1
-dimwishlist:item=727781522#notes:PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=727781522#notes:PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=727781522&perks=3400784728,1134488199#notes:Most Popular Combo (6.524%) - PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=727781522&perks=3400784728#notes:Most Popular Perk 1 (6.524%) - PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=727781522&perks=1134488199#notes:Most Popular Perk 2 (6.524%) - PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2
@@ -4306,7 +4306,7 @@ dimwishlist:item=727781522&perks=3643424744,1427256713#notes:Popular Combo (6.29
 dimwishlist:item=727781522&perks=3643424744#notes:Popular Perk 1 (6.293%) - PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2
 dimwishlist:item=727781522&perks=1427256713#notes:Popular Perk 2 (6.293%) - PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2; Category Popular Rank 2
 dimwishlist:item=727781522&perks=3643424744,1134488199#notes:Popular Combo (6.127%) - PvE Rating 3.5; PvP Rating 2; Category Popular Rank 2
-dimwishlist:item=615373993#notes:PvE Rating 3; PvP Rating 0; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=615373993#notes:PvE Rating 3; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=615373993&perks=3643424744,1427256713#notes:Most Popular Combo (11.956%) - PvE Rating 3; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=615373993&perks=3643424744#notes:Most Popular Perk 1 (11.956%) - PvE Rating 3; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=615373993&perks=1427256713#notes:Most Popular Perk 2 (11.956%) - PvE Rating 3; PvP Rating 0; Category Popular Rank 10
@@ -4331,7 +4331,7 @@ dimwishlist:item=282549639&perks=3643424744,1427256713#notes:Popular Combo (6.41
 dimwishlist:item=282549639&perks=3643424744#notes:Popular Perk 1 (6.411%) - PvE Rating 0; PvP Rating 0
 dimwishlist:item=282549639&perks=1427256713#notes:Popular Perk 2 (6.411%) - PvE Rating 0; PvP Rating 0
 dimwishlist:item=282549639&perks=3643424744,1134488199#notes:Popular Combo (6.114%) - PvE Rating 0; PvP Rating 0
-dimwishlist:item=1911060537#notes:PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=1911060537#notes:PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=1911060537&perks=3400784728,1771339417#notes:Most Popular Combo (45.117%) - PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=1911060537&perks=3400784728#notes:Most Popular Perk 1 (45.117%) - PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=1911060537&perks=1771339417#notes:Most Popular Perk 2 (45.117%) - PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4
@@ -4339,7 +4339,7 @@ dimwishlist:item=1911060537&perks=3400784728,2896038713#notes:Popular Combo (7.8
 dimwishlist:item=1911060537&perks=2896038713#notes:Popular Perk 2 (7.880%) - PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4; Category Popular Rank 4
 dimwishlist:item=1911060537&perks=3400784728,4104185692#notes:Popular Combo (6.452%) - PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4
 dimwishlist:item=1911060537&perks=4104185692#notes:Popular Perk 2 (6.452%) - PvE Rating 4.8; PvP Rating 3; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=2450049485#notes:PvE Rating 5; PvP Rating 4; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=2450049485#notes:PvE Rating 5; PvP Rating 4; Category Popular Rank 6
 dimwishlist:item=2450049485&perks=2284787283,3078487919#notes:Most Popular Combo (23.137%) - PvE Rating 5; PvP Rating 4; Category Popular Rank 6
 dimwishlist:item=2450049485&perks=2284787283#notes:Most Popular Perk 1 (23.137%) - PvE Rating 5; PvP Rating 4; Category Popular Rank 6
 dimwishlist:item=2450049485&perks=3078487919#notes:Most Popular Perk 2 (23.137%) - PvE Rating 5; PvP Rating 4; Category Popular Rank 6
@@ -4355,7 +4355,7 @@ dimwishlist:item=946443267&perks=2846385770,1771339417#notes:Popular Combo (3.90
 dimwishlist:item=946443267&perks=2846385770#notes:Popular Perk 1 (3.905%) - PvE Rating 4.3; PvP Rating 3.9
 dimwishlist:item=946443267&perks=1645158859,1771339417#notes:Popular Combo (3.232%) - PvE Rating 4.3; PvP Rating 3.9
 dimwishlist:item=946443267&perks=1645158859#notes:Popular Perk 1 (3.232%) - PvE Rating 4.3; PvP Rating 3.9
-dimwishlist:item=3652506829#notes:PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=3652506829#notes:PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8
 dimwishlist:item=3652506829&perks=2284787283,1771339417#notes:Most Popular Combo (15.639%) - PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8
 dimwishlist:item=3652506829&perks=2284787283#notes:Most Popular Perk 1 (15.639%) - PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8
 dimwishlist:item=3652506829&perks=1771339417#notes:Most Popular Perk 2 (15.639%) - PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8
@@ -4363,7 +4363,7 @@ dimwishlist:item=3652506829&perks=247725512,1546637391#notes:Popular Combo (12.1
 dimwishlist:item=3652506829&perks=247725512#notes:Popular Perk 1 (12.110%) - PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8
 dimwishlist:item=3652506829&perks=1546637391#notes:Popular Perk 2 (12.110%) - PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8; Category Popular Rank 8
 dimwishlist:item=3652506829&perks=247725512,1771339417#notes:Popular Combo (8.263%) - PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 8
-dimwishlist:item=4230965989#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=4230965989#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5
 dimwishlist:item=4230965989&perks=1523832109,557221067#notes:Most Popular Combo (50.909%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5
 dimwishlist:item=4230965989&perks=1523832109#notes:Most Popular Perk 1 (50.909%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5
 dimwishlist:item=4230965989&perks=557221067#notes:Most Popular Perk 2 (50.909%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5
@@ -4371,7 +4371,7 @@ dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Popular Combo (6.6
 dimwishlist:item=4230965989&perks=3425386926#notes:Popular Perk 2 (6.612%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5; Category Popular Rank 5
 dimwishlist:item=4230965989&perks=1820235745,557221067#notes:Popular Combo (2.536%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5
 dimwishlist:item=4230965989&perks=1820235745#notes:Popular Perk 1 (2.536%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.2; Category Popular Rank 5
-dimwishlist:item=1896309757#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.3; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=1896309757#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.3; Category Popular Rank 4
 dimwishlist:item=1896309757&perks=3425386926,557221067#notes:Most Popular Combo (9.756%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.3; Category Popular Rank 4
 dimwishlist:item=1896309757&perks=3425386926#notes:Most Popular Perk 1 (9.756%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.3; Category Popular Rank 4
 dimwishlist:item=1896309757&perks=557221067#notes:Most Popular Perk 2 (9.756%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.3; Category Popular Rank 4
@@ -4395,7 +4395,7 @@ dimwishlist:item=211732170&perks=3425386926,557221067#notes:Popular Combo (9.261
 dimwishlist:item=211732170&perks=3425386926#notes:Popular Perk 1 (9.261%) - BB Tier S; PvE Rating 5; PvP Rating 3.6
 dimwishlist:item=211732170&perks=2048641572,557221067#notes:Popular Combo (7.955%) - BB Tier S; PvE Rating 5; PvP Rating 3.6
 dimwishlist:item=211732170&perks=2048641572#notes:Popular Perk 1 (7.955%) - BB Tier S; PvE Rating 5; PvP Rating 3.6
-dimwishlist:item=1757177186#notes:BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1757177186#notes:BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1
 dimwishlist:item=1757177186&perks=3643424744,3966416502#notes:Most Popular Combo (17.058%) - BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1
 dimwishlist:item=1757177186&perks=3643424744#notes:Most Popular Perk 1 (17.058%) - BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1
 dimwishlist:item=1757177186&perks=3966416502#notes:Most Popular Perk 2 (17.058%) - BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1
@@ -4403,7 +4403,7 @@ dimwishlist:item=1757177186&perks=684456054,3966416502#notes:Popular Combo (7.42
 dimwishlist:item=1757177186&perks=684456054#notes:Popular Perk 1 (7.425%) - BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1
 dimwishlist:item=1757177186&perks=3643424744,3218042543#notes:Popular Combo (6.929%) - BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1
 dimwishlist:item=1757177186&perks=3218042543#notes:Popular Perk 2 (6.929%) - BB Tier S; PvE Rating 4.6; PvP Rating 3; Category Popular Rank 1; Category Popular Rank 1
-dimwishlist:item=768610585#notes:BB Tier S; PvE Rating 5; PvP Rating 4; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=768610585#notes:BB Tier S; PvE Rating 5; PvP Rating 4; Category Popular Rank 9
 dimwishlist:item=768610585&perks=3643424744,3966416502#notes:Most Popular Combo (20.832%) - BB Tier S; PvE Rating 5; PvP Rating 4; Category Popular Rank 9
 dimwishlist:item=768610585&perks=3643424744#notes:Most Popular Perk 1 (20.832%) - BB Tier S; PvE Rating 5; PvP Rating 4; Category Popular Rank 9
 dimwishlist:item=768610585&perks=3966416502#notes:Most Popular Perk 2 (20.832%) - BB Tier S; PvE Rating 5; PvP Rating 4; Category Popular Rank 9
@@ -4509,7 +4509,7 @@ dimwishlist:item=2194955522&perks=2779035018,4293542123#notes:Popular Combo (23.
 dimwishlist:item=2194955522&perks=2779035018#notes:Popular Perk 1 (23.923%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.6
 dimwishlist:item=2194955522&perks=706527188,4293542123#notes:Popular Combo (5.210%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.6
 dimwishlist:item=2194955522&perks=706527188#notes:Popular Perk 1 (5.210%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.6
-dimwishlist:item=3103325054#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=3103325054#notes:BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 8
 dimwishlist:item=3103325054&perks=1354429876,365154968#notes:Most Popular Combo (61.730%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 8
 dimwishlist:item=3103325054&perks=1354429876#notes:Most Popular Perk 1 (61.730%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 8
 dimwishlist:item=3103325054&perks=365154968#notes:Most Popular Perk 2 (61.730%) - BB Tier A; PvE Rating 4.8; PvP Rating 3.5; Category Popular Rank 8
@@ -4541,7 +4541,7 @@ dimwishlist:item=407511664&perks=1523832109,31345821#notes:Popular Combo (11.772
 dimwishlist:item=407511664&perks=31345821#notes:Popular Perk 2 (11.772%) - BB Tier A; PvE Rating 4.7; PvP Rating 4
 dimwishlist:item=407511664&perks=1523832109,3078487919#notes:Popular Combo (8.339%) - BB Tier A; PvE Rating 4.7; PvP Rating 4
 dimwishlist:item=407511664&perks=3078487919#notes:Popular Perk 2 (8.339%) - BB Tier A; PvE Rating 4.7; PvP Rating 4
-dimwishlist:item=4233375372#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=4233375372#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7
 dimwishlist:item=4233375372&perks=3523296417,831391274#notes:Most Popular Combo (10.370%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7
 dimwishlist:item=4233375372&perks=3523296417#notes:Most Popular Perk 1 (10.370%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7
 dimwishlist:item=4233375372&perks=831391274#notes:Most Popular Perk 2 (10.370%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7
@@ -4550,7 +4550,7 @@ dimwishlist:item=4233375372&perks=923806249#notes:Popular Perk 1 (8.930%) - BB T
 dimwishlist:item=4233375372&perks=3400784728,95528736#notes:Popular Combo (5.634%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7
 dimwishlist:item=4233375372&perks=3400784728#notes:Popular Perk 1 (5.634%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7
 dimwishlist:item=4233375372&perks=95528736#notes:Popular Perk 2 (5.634%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.6; Category Popular Rank 7; Category Popular Rank 7
-dimwishlist:item=3605603507#notes:BB Tier A; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=3605603507#notes:BB Tier A; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3605603507&perks=1523832109,3078487919#notes:Most Popular Combo (21.650%) - BB Tier A; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3605603507&perks=1523832109#notes:Most Popular Perk 1 (21.650%) - BB Tier A; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 3
 dimwishlist:item=3605603507&perks=3078487919#notes:Most Popular Perk 2 (21.650%) - BB Tier A; PvE Rating 4.4; PvP Rating 4; Category Popular Rank 3
@@ -4566,7 +4566,7 @@ dimwishlist:item=412251536&perks=3017780555,4293542123#notes:Popular Combo (10.3
 dimwishlist:item=412251536&perks=3017780555#notes:Popular Perk 1 (10.307%) - BB Tier A; PvE Rating 3.6; PvP Rating 1.8
 dimwishlist:item=412251536&perks=968510818,365154968#notes:Popular Combo (6.230%) - BB Tier A; PvE Rating 3.6; PvP Rating 1.8
 dimwishlist:item=412251536&perks=365154968#notes:Popular Perk 2 (6.230%) - BB Tier A; PvE Rating 3.6; PvP Rating 1.8
-dimwishlist:item=751880654#notes:PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=751880654#notes:PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=751880654&perks=1955165503,2848615171#notes:Most Popular Combo (5.207%) - PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=751880654&perks=1955165503#notes:Most Popular Perk 1 (5.207%) - PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=751880654&perks=2848615171#notes:Most Popular Perk 2 (5.207%) - PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
@@ -4574,7 +4574,7 @@ dimwishlist:item=751880654&perks=2779035018,2848615171#notes:Popular Combo (4.12
 dimwishlist:item=751880654&perks=2779035018#notes:Popular Perk 1 (4.129%) - PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=751880654&perks=3400784728,2848615171#notes:Popular Combo (3.929%) - PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
 dimwishlist:item=751880654&perks=3400784728#notes:Popular Perk 1 (3.929%) - PvE Rating 3.3; PvP Rating 0; Category Popular Rank 2
-dimwishlist:item=3984556130#notes:PvE Rating 3; PvP Rating 3.3; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=3984556130#notes:PvE Rating 3; PvP Rating 3.3; Category Popular Rank 6
 dimwishlist:item=3984556130&perks=1523832109,3966416502#notes:Most Popular Combo (9.119%) - PvE Rating 3; PvP Rating 3.3; Category Popular Rank 6
 dimwishlist:item=3984556130&perks=1523832109#notes:Most Popular Perk 1 (9.119%) - PvE Rating 3; PvP Rating 3.3; Category Popular Rank 6
 dimwishlist:item=3984556130&perks=3966416502#notes:Most Popular Perk 2 (9.119%) - PvE Rating 3; PvP Rating 3.3; Category Popular Rank 6
@@ -4615,7 +4615,7 @@ dimwishlist:item=2210806903&perks=1523832109,557221067#notes:Popular Combo (6.64
 dimwishlist:item=2210806903&perks=557221067#notes:Popular Perk 2 (6.646%) - PvE Rating 3.3; PvP Rating 3
 dimwishlist:item=2210806903&perks=1523832109,3218042543#notes:Popular Combo (5.767%) - PvE Rating 3.3; PvP Rating 3
 dimwishlist:item=2210806903&perks=3218042543#notes:Popular Perk 2 (5.767%) - PvE Rating 3.3; PvP Rating 3
-dimwishlist:item=2896109856#notes:PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=2896109856#notes:PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 10
 dimwishlist:item=2896109856&perks=1955165503,124408337#notes:Most Popular Combo (5.667%) - PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 10
 dimwishlist:item=2896109856&perks=1955165503#notes:Most Popular Perk 1 (5.667%) - PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 10
 dimwishlist:item=2896109856&perks=124408337#notes:Most Popular Perk 2 (5.667%) - PvE Rating 4.7; PvP Rating 4.7; Category Popular Rank 10
@@ -4633,7 +4633,7 @@ dimwishlist:item=1967303408&perks=706527188#notes:Popular Perk 1 (6.585%) - PvE 
 dimwishlist:item=1967303408&perks=3425386926#notes:Popular Perk 2 (6.585%) - PvE Rating 3.7; PvP Rating 3.5
 dimwishlist:item=1967303408&perks=2846385770,3425386926#notes:Popular Combo (6.008%) - PvE Rating 3.7; PvP Rating 3.5
 dimwishlist:item=1363886209#notes:BB Tier S; PvE Rating 4.6; PvP Rating 4.3
-dimwishlist:item=2265407516#notes:BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=2265407516#notes:BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 7
 dimwishlist:item=2265407516&perks=3987942396,3078487919#notes:Most Popular Combo (45.231%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 7
 dimwishlist:item=2265407516&perks=3987942396#notes:Most Popular Perk 1 (45.231%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 7
 dimwishlist:item=2265407516&perks=3078487919#notes:Most Popular Perk 2 (45.231%) - BB Tier S; PvE Rating 5; PvP Rating 3; Category Popular Rank 7
@@ -4665,7 +4665,7 @@ dimwishlist:item=1921159786&perks=3643424744,1546637391#notes:Popular Combo (13.
 dimwishlist:item=1921159786&perks=1546637391#notes:Popular Perk 2 (13.482%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1
 dimwishlist:item=1921159786&perks=3643424744,3927722942#notes:Popular Combo (9.261%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1
 dimwishlist:item=1921159786&perks=3927722942#notes:Popular Perk 2 (9.261%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.1
-dimwishlist:item=1851777734#notes:BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=1851777734#notes:BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 2
 dimwishlist:item=1851777734&perks=1523832109,3078487919#notes:Most Popular Combo (57.681%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 2
 dimwishlist:item=1851777734&perks=1523832109#notes:Most Popular Perk 1 (57.681%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 2
 dimwishlist:item=1851777734&perks=3078487919#notes:Most Popular Perk 2 (57.681%) - BB Tier S; PvE Rating 5; PvP Rating 3.5; Category Popular Rank 2
@@ -4681,7 +4681,7 @@ dimwishlist:item=2545083870&perks=3977735242,957782887#notes:Popular Combo (16.4
 dimwishlist:item=2545083870&perks=957782887#notes:Popular Perk 2 (16.438%) - BB Tier S; PvE Rating 3.9; PvP Rating 2.7
 dimwishlist:item=2545083870&perks=3977735242,1015611457#notes:Popular Combo (16.218%) - BB Tier S; PvE Rating 3.9; PvP Rating 2.7
 dimwishlist:item=2545083870&perks=1015611457#notes:Popular Perk 2 (16.218%) - BB Tier S; PvE Rating 3.9; PvP Rating 2.7
-dimwishlist:item=291447487#notes:BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=291447487#notes:BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3
 dimwishlist:item=291447487&perks=3987942396,3078487919#notes:Most Popular Combo (14.615%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3
 dimwishlist:item=291447487&perks=3987942396#notes:Most Popular Perk 1 (14.615%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3
 dimwishlist:item=291447487&perks=3078487919#notes:Most Popular Perk 2 (14.615%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3
@@ -4689,7 +4689,7 @@ dimwishlist:item=291447487&perks=1523832109,3078487919#notes:Popular Combo (7.83
 dimwishlist:item=291447487&perks=1523832109#notes:Popular Perk 1 (7.838%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3
 dimwishlist:item=291447487&perks=1523832109,1439600632#notes:Popular Combo (5.398%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3
 dimwishlist:item=291447487&perks=1439600632#notes:Popular Perk 2 (5.398%) - BB Tier S; PvE Rating 4.1; PvP Rating 3.5; Category Popular Rank 3; Category Popular Rank 3
-dimwishlist:item=2760833884#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=2760833884#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=2760833884&perks=951095735,3078487919#notes:Most Popular Combo (49.026%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=2760833884&perks=951095735#notes:Most Popular Perk 1 (49.026%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=2760833884&perks=3078487919#notes:Most Popular Perk 2 (49.026%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
@@ -4697,7 +4697,7 @@ dimwishlist:item=2760833884&perks=3987942396,3078487919#notes:Popular Combo (8.2
 dimwishlist:item=2760833884&perks=3987942396#notes:Popular Perk 1 (8.284%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=2760833884&perks=1523832109,3078487919#notes:Popular Combo (4.847%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=2760833884&perks=1523832109#notes:Popular Perk 1 (4.847%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 9
-dimwishlist:item=1817605554#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=1817605554#notes:BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=1817605554&perks=3987942396,3078487919#notes:Most Popular Combo (20.584%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=1817605554&perks=3987942396#notes:Most Popular Perk 1 (20.584%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
 dimwishlist:item=1817605554&perks=3078487919#notes:Most Popular Perk 2 (20.584%) - BB Tier S; PvE Rating 0; PvP Rating 0; Category Popular Rank 10
@@ -4738,7 +4738,7 @@ dimwishlist:item=4106757302&perks=1439600632#notes:Popular Perk 2 (13.644%) - BB
 dimwishlist:item=4106757302&perks=1523832109,968510818#notes:Popular Combo (5.359%) - BB Tier A; PvE Rating 4.7; PvP Rating 3
 dimwishlist:item=4106757302&perks=968510818#notes:Popular Perk 2 (5.359%) - BB Tier A; PvE Rating 4.7; PvP Rating 3
 dimwishlist:item=17096506#notes:BB Tier A; PvE Rating 4.5; PvP Rating 2.2
-dimwishlist:item=1719687748#notes:BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1719687748#notes:BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1
 dimwishlist:item=1719687748&perks=1523832109,1439600632#notes:Most Popular Combo (10.736%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1
 dimwishlist:item=1719687748&perks=1523832109#notes:Most Popular Perk 1 (10.736%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1
 dimwishlist:item=1719687748&perks=1439600632#notes:Most Popular Perk 2 (10.736%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1
@@ -4746,7 +4746,7 @@ dimwishlist:item=1719687748&perks=1523832109,3194351027#notes:Popular Combo (10.
 dimwishlist:item=1719687748&perks=3194351027#notes:Popular Perk 2 (10.684%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1; Category Popular Rank 1
 dimwishlist:item=1719687748&perks=2284787283,3194351027#notes:Popular Combo (8.079%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1
 dimwishlist:item=1719687748&perks=2284787283#notes:Popular Perk 1 (8.079%) - BB Tier A; PvE Rating 4.7; PvP Rating 2.7; Category Popular Rank 1
-dimwishlist:item=3009199534#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2.7; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=3009199534#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3009199534&perks=3987942396,3078487919#notes:Most Popular Combo (11.747%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3009199534&perks=3987942396#notes:Most Popular Perk 1 (11.747%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.7; Category Popular Rank 5
 dimwishlist:item=3009199534&perks=3078487919#notes:Most Popular Perk 2 (11.747%) - BB Tier A; PvE Rating 4.2; PvP Rating 2.7; Category Popular Rank 5
@@ -4782,7 +4782,7 @@ dimwishlist:item=303107619&perks=968510818#notes:Popular Perk 1 (6.535%) - BB Ti
 dimwishlist:item=303107619&perks=951095735,2396489472#notes:Popular Combo (5.399%) - BB Tier A; PvE Rating 5; PvP Rating 3
 dimwishlist:item=303107619&perks=951095735#notes:Popular Perk 1 (5.399%) - BB Tier A; PvE Rating 5; PvP Rating 3
 dimwishlist:item=303107619&perks=2396489472#notes:Popular Perk 2 (5.399%) - BB Tier A; PvE Rating 5; PvP Rating 3
-dimwishlist:item=694275488#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=694275488#notes:BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4
 dimwishlist:item=694275488&perks=1523832109,3194351027#notes:Most Popular Combo (4.769%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4
 dimwishlist:item=694275488&perks=1523832109#notes:Most Popular Perk 1 (4.769%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4
 dimwishlist:item=694275488&perks=3194351027#notes:Most Popular Perk 2 (4.769%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4
@@ -4791,7 +4791,7 @@ dimwishlist:item=694275488&perks=1439600632#notes:Popular Perk 2 (3.380%) - BB T
 dimwishlist:item=694275488&perks=3987942396,1089671869#notes:Popular Combo (3.137%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4
 dimwishlist:item=694275488&perks=3987942396#notes:Popular Perk 1 (3.137%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4
 dimwishlist:item=694275488&perks=1089671869#notes:Popular Perk 2 (3.137%) - BB Tier A; PvE Rating 4.2; PvP Rating 2; Category Popular Rank 4; Category Popular Rank 4
-dimwishlist:item=3489657138#notes:PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=3489657138#notes:PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=3489657138&perks=3300816228,3194351027#notes:Most Popular Combo (24.818%) - PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=3489657138&perks=3300816228#notes:Most Popular Perk 1 (24.818%) - PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=3489657138&perks=3194351027#notes:Most Popular Perk 2 (24.818%) - PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6
@@ -4799,7 +4799,7 @@ dimwishlist:item=3489657138&perks=3300816228,3927722942#notes:Popular Combo (8.1
 dimwishlist:item=3489657138&perks=3927722942#notes:Popular Perk 2 (8.133%) - PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6; Category Popular Rank 6
 dimwishlist:item=3489657138&perks=951095735,3927722942#notes:Popular Combo (6.136%) - PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6
 dimwishlist:item=3489657138&perks=951095735#notes:Popular Perk 1 (6.136%) - PvE Rating 4.7; PvP Rating 3.8; Category Popular Rank 6
-dimwishlist:item=4195186942#notes:PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=4195186942#notes:PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=4195186942&perks=3300816228,3194351027#notes:Most Popular Combo (17.204%) - PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=4195186942&perks=3300816228#notes:Most Popular Perk 1 (17.204%) - PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=4195186942&perks=3194351027#notes:Most Popular Perk 2 (17.204%) - PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8
@@ -4807,7 +4807,7 @@ dimwishlist:item=4195186942&perks=3300816228,1439600632#notes:Popular Combo (9.1
 dimwishlist:item=4195186942&perks=1439600632#notes:Popular Perk 2 (9.152%) - PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8; Category Popular Rank 8
 dimwishlist:item=4195186942&perks=2284787283,3194351027#notes:Popular Combo (7.330%) - PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=4195186942&perks=2284787283#notes:Popular Perk 1 (7.330%) - PvE Rating 3.6; PvP Rating 2.3; Category Popular Rank 8
-dimwishlist:item=1681583613#notes:BB Tier S+; PvE Rating 4.6; PvP Rating 3.7; Category Popular Rank 1; Category Popular Rank 1
+dimwishlist:item=1681583613#notes:BB Tier S+; PvE Rating 4.6; PvP Rating 3.7; Category Popular Rank 1
 dimwishlist:item=3366545721#notes:BB Tier S; PvE Rating 4.3; PvP Rating 2.5
 dimwishlist:item=3366545721&perks=1749209109,3708227201#notes:Most Popular Combo (46.320%) - BB Tier S; PvE Rating 4.3; PvP Rating 2.5
 dimwishlist:item=3366545721&perks=1749209109#notes:Most Popular Perk 1 (46.320%) - BB Tier S; PvE Rating 4.3; PvP Rating 2.5
@@ -4816,7 +4816,7 @@ dimwishlist:item=3366545721&perks=1749209109,1546637391#notes:Popular Combo (6.1
 dimwishlist:item=3366545721&perks=1546637391#notes:Popular Perk 2 (6.110%) - BB Tier S; PvE Rating 4.3; PvP Rating 2.5
 dimwishlist:item=3366545721&perks=2590710093,3708227201#notes:Popular Combo (3.110%) - BB Tier S; PvE Rating 4.3; PvP Rating 2.5
 dimwishlist:item=3366545721&perks=2590710093#notes:Popular Perk 1 (3.110%) - BB Tier S; PvE Rating 4.3; PvP Rating 2.5
-dimwishlist:item=3257091167#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2; Category Popular Rank 2
+dimwishlist:item=3257091167#notes:BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2
 dimwishlist:item=3257091167&perks=2077819806,1546637391#notes:Most Popular Combo (34.541%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2
 dimwishlist:item=3257091167&perks=2077819806#notes:Most Popular Perk 1 (34.541%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2
 dimwishlist:item=3257091167&perks=1546637391#notes:Most Popular Perk 2 (34.541%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2
@@ -4824,7 +4824,7 @@ dimwishlist:item=3257091167&perks=2077819806,3913600130#notes:Popular Combo (27.
 dimwishlist:item=3257091167&perks=3913600130#notes:Popular Perk 2 (27.022%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2; Category Popular Rank 2
 dimwishlist:item=3257091167&perks=2077819806,4104185692#notes:Popular Combo (18.873%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2
 dimwishlist:item=3257091167&perks=4104185692#notes:Popular Perk 2 (18.873%) - BB Tier S; PvE Rating 4.9; PvP Rating 4.1; Category Popular Rank 2; Category Popular Rank 2
-dimwishlist:item=1354727549#notes:BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
+dimwishlist:item=1354727549#notes:BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=1354727549&perks=2077819806,3650930298#notes:Most Popular Combo (40.106%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=1354727549&perks=2077819806#notes:Most Popular Perk 1 (40.106%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=1354727549&perks=3650930298#notes:Most Popular Perk 2 (40.106%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5
@@ -4832,7 +4832,7 @@ dimwishlist:item=1354727549&perks=2077819806,3078487919#notes:Popular Combo (16.
 dimwishlist:item=1354727549&perks=3078487919#notes:Popular Perk 2 (16.392%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
 dimwishlist:item=1354727549&perks=2077819806,3523296417#notes:Popular Combo (8.416%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5
 dimwishlist:item=1354727549&perks=3523296417#notes:Popular Perk 2 (8.416%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.8; Category Popular Rank 5; Category Popular Rank 5
-dimwishlist:item=2889501828#notes:BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10; Category Popular Rank 10
+dimwishlist:item=2889501828#notes:BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10
 dimwishlist:item=2889501828&perks=2077819806,3650930298#notes:Most Popular Combo (28.486%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10
 dimwishlist:item=2889501828&perks=2077819806#notes:Most Popular Perk 1 (28.486%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10
 dimwishlist:item=2889501828&perks=3650930298#notes:Most Popular Perk 2 (28.486%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10
@@ -4840,7 +4840,7 @@ dimwishlist:item=2889501828&perks=2077819806,3078487919#notes:Popular Combo (12.
 dimwishlist:item=2889501828&perks=3078487919#notes:Popular Perk 2 (12.851%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10; Category Popular Rank 10
 dimwishlist:item=2889501828&perks=2077819806,3523296417#notes:Popular Combo (8.080%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10
 dimwishlist:item=2889501828&perks=3523296417#notes:Popular Perk 2 (8.080%) - BB Tier S; PvE Rating 4.5; PvP Rating 3.4; Category Popular Rank 10; Category Popular Rank 10
-dimwishlist:item=1815105249#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6; Category Popular Rank 6
+dimwishlist:item=1815105249#notes:BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1815105249&perks=4104185692,2077819806#notes:Most Popular Combo (11.951%) - BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1815105249&perks=4104185692#notes:Most Popular Perk 1 (11.951%) - BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1815105249&perks=2077819806#notes:Most Popular Perk 2 (11.951%) - BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
@@ -4848,7 +4848,7 @@ dimwishlist:item=1815105249&perks=1546637391,2077819806#notes:Popular Combo (10.
 dimwishlist:item=1815105249&perks=1546637391#notes:Popular Perk 1 (10.837%) - BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1815105249&perks=2396489472,2077819806#notes:Popular Combo (8.028%) - BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
 dimwishlist:item=1815105249&perks=2396489472#notes:Popular Perk 1 (8.028%) - BB Tier S; PvE Rating 4.8; PvP Rating 3; Category Popular Rank 6
-dimwishlist:item=614426548#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7; Category Popular Rank 7
+dimwishlist:item=614426548#notes:BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Most Popular Combo (49.512%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=614426548&perks=1749209109#notes:Most Popular Perk 1 (49.512%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=614426548&perks=3913600130#notes:Most Popular Perk 2 (49.512%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7
@@ -4856,7 +4856,7 @@ dimwishlist:item=614426548&perks=2590710093,3913600130#notes:Popular Combo (14.1
 dimwishlist:item=614426548&perks=2590710093#notes:Popular Perk 1 (14.148%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=614426548&perks=1749209109,3708227201#notes:Popular Combo (8.138%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7
 dimwishlist:item=614426548&perks=3708227201#notes:Popular Perk 2 (8.138%) - BB Tier S; PvE Rating 4.9; PvP Rating 3.7; Category Popular Rank 7; Category Popular Rank 7
-dimwishlist:item=243425374#notes:BB Tier S; PvE Rating 5; PvP Rating 2.3; Category Popular Rank 8; Category Popular Rank 8
+dimwishlist:item=243425374#notes:BB Tier S; PvE Rating 5; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=243425374&perks=4104185692,2077819806#notes:Most Popular Combo (14.267%) - BB Tier S; PvE Rating 5; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=243425374&perks=4104185692#notes:Most Popular Perk 1 (14.267%) - BB Tier S; PvE Rating 5; PvP Rating 2.3; Category Popular Rank 8
 dimwishlist:item=243425374&perks=2077819806#notes:Most Popular Perk 2 (14.267%) - BB Tier S; PvE Rating 5; PvP Rating 2.3; Category Popular Rank 8
@@ -4944,7 +4944,7 @@ dimwishlist:item=105164264&perks=2244851822,2048641572#notes:Popular Combo (2.58
 dimwishlist:item=105164264&perks=2244851822#notes:Popular Perk 1 (2.588%) - BB Tier A; PvE Rating 3.8; PvP Rating 1.4
 dimwishlist:item=105164264&perks=2590710093,2048641572#notes:Popular Combo (2.076%) - BB Tier A; PvE Rating 3.8; PvP Rating 1.4
 dimwishlist:item=105164264&perks=2590710093#notes:Popular Perk 1 (2.076%) - BB Tier A; PvE Rating 3.8; PvP Rating 1.4
-dimwishlist:item=3794274730#notes:BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9; Category Popular Rank 9
+dimwishlist:item=3794274730#notes:BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3794274730&perks=1749209109,3650930298#notes:Most Popular Combo (8.741%) - BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3794274730&perks=1749209109#notes:Most Popular Perk 1 (8.741%) - BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3794274730&perks=3650930298#notes:Most Popular Perk 2 (8.741%) - BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
@@ -4952,7 +4952,7 @@ dimwishlist:item=3794274730&perks=243981275,3650930298#notes:Popular Combo (8.02
 dimwishlist:item=3794274730&perks=243981275#notes:Popular Perk 1 (8.029%) - BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3794274730&perks=2590710093,3650930298#notes:Popular Combo (5.606%) - BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
 dimwishlist:item=3794274730&perks=2590710093#notes:Popular Perk 1 (5.606%) - BB Tier A; PvE Rating 4.5; PvP Rating 0; Category Popular Rank 9
-dimwishlist:item=547165496#notes:BB Tier A; PvE Rating 4.5; PvP Rating 3; Category Popular Rank 3; Category Popular Rank 3
+dimwishlist:item=547165496#notes:BB Tier A; PvE Rating 4.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=547165496&perks=2244851822,3201496230#notes:Most Popular Combo (9.537%) - BB Tier A; PvE Rating 4.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=547165496&perks=2244851822#notes:Most Popular Perk 1 (9.537%) - BB Tier A; PvE Rating 4.5; PvP Rating 3; Category Popular Rank 3
 dimwishlist:item=547165496&perks=3201496230#notes:Most Popular Perk 2 (9.537%) - BB Tier A; PvE Rating 4.5; PvP Rating 3; Category Popular Rank 3
@@ -4986,7 +4986,7 @@ dimwishlist:item=2712683313&perks=2244851822,3708227201#notes:Popular Combo (5.3
 dimwishlist:item=2712683313&perks=3708227201#notes:Popular Perk 2 (5.340%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=2712683313&perks=2244851822,31345821#notes:Popular Combo (4.773%) - BB Tier A; PvE Rating 0; PvP Rating 0
 dimwishlist:item=2712683313&perks=31345821#notes:Popular Perk 2 (4.773%) - BB Tier A; PvE Rating 0; PvP Rating 0
-dimwishlist:item=3257091166#notes:PvE Rating 4.4; PvP Rating 3.8; Category Popular Rank 4; Category Popular Rank 4
+dimwishlist:item=3257091166#notes:PvE Rating 4.4; PvP Rating 3.8; Category Popular Rank 4
 dimwishlist:item=3257091166&perks=1749209109,2077819806#notes:Most Popular Combo (27.538%) - PvE Rating 4.4; PvP Rating 3.8; Category Popular Rank 4
 dimwishlist:item=3257091166&perks=1749209109#notes:Most Popular Perk 1 (27.538%) - PvE Rating 4.4; PvP Rating 3.8; Category Popular Rank 4
 dimwishlist:item=3257091166&perks=2077819806#notes:Most Popular Perk 2 (27.538%) - PvE Rating 4.4; PvP Rating 3.8; Category Popular Rank 4
