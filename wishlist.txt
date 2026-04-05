@@ -1,3 +1,795 @@
+dimwishlist:item=-1685137410#notes:PvE 4.0 - PvP 2.0
+dimwishlist:item=-2973900274#notes:PvE 4.3 - PvP 5.0
+dimwishlist:item=-1047932517#notes:Tier C - PvE 3.9 - PvP 3.3
+dimwishlist:item=-3561203890#notes:Tier C - PvE 4.9 - PvP 4.6
+dimwishlist:item=-1912669214#notes:Tier C - PvE 4.4 - PvP 4.1
+dimwishlist:item=-219145368#notes:Tier C - PvE 3.0 - PvP 3.6
+dimwishlist:item=-1234150730#notes:Tier C - PvE 3.2 - PvP 3.4
+dimwishlist:item=-542203595#notes:Tier C - PvE 2.5 - PvP 2.0
+dimwishlist:item=-3761898871#notes:Tier C - PvE 4.3 - PvP 4.7
+dimwishlist:item=-3260753130#notes:Tier C - PvE 4.6 - PvP 3.5
+dimwishlist:item=-1363238943#notes:Tier C - PvE 4.5 - PvP 3.0
+dimwishlist:item=-4017959782#notes:Tier C - PvE 4.1 - PvP 4.2
+dimwishlist:item=-3824106094#notes:Tier C - PvE 4.3 - PvP 4.3
+dimwishlist:item=-417164956#notes:Tier C - PvE 4.1 - PvP 4.6
+dimwishlist:item=-1852863732#notes:Tier C - PvE 4.2 - PvP 4.6
+dimwishlist:item=-3413074534#notes:Tier C - PvE 4.5 - PvP 3.6
+dimwishlist:item=-19024058#notes:Tier C - PvE 4.8 - PvP 3.2
+dimwishlist:item=-3549153978#notes:Tier C - PvE 4.2 - PvP 4.1
+dimwishlist:item=-4255268456#notes:Tier C - PvE 3.7 - PvP 2.7
+dimwishlist:item=-3141979347#notes:Tier D - PvE 3.9 - PvP 3.2
+dimwishlist:item=-1736135946#notes:PvE 5.0 - PvP 3.5
+dimwishlist:item=-2581676735#notes:PvE 4.8 - PvP 5.0
+dimwishlist:item=-2910326942#notes:Tier C - PvE 4.5 - PvP 3.1
+dimwishlist:item=-940371471#notes:Tier C - PvE 3.6 - PvP 2.3
+dimwishlist:item=-3659414143#notes:Tier C - PvE 4.7 - PvP 2.9
+dimwishlist:item=-4293613902#notes:Tier C - PvE 4.7 - PvP 4.1
+dimwishlist:item=-1802135586#notes:Tier C - PvE 4.4 - PvP 3.9
+dimwishlist:item=-1853180924#notes:Tier C - PvE 4.6 - PvP 4.6
+dimwishlist:item=-53159281#notes:Tier C - PvE 4.6 - PvP 4.6
+dimwishlist:item=-53159280#notes:Tier C - PvE 4.6 - PvP 4.6
+dimwishlist:item=-2130065553#notes:Tier C - PvE 4.7 - PvP 3.9
+dimwishlist:item=-1541131350#notes:Tier D - PvE 3.4 - PvP 4.3
+dimwishlist:item=-1345867570#notes:Tier D - PvE 4.6 - PvP 4.4
+dimwishlist:item=-2907129556#notes:Tier Ongoing... - PvE 4.0 - PvP 4.4
+dimwishlist:item=-3628991659#notes:Tier D - PvE 2.8 - PvP 4.9 - Excels PvP
+dimwishlist:item=-1076810832#notes:Tier C - PvE 3.2 - PvP 3.9
+dimwishlist:item=-4156253727#notes:Tier C - PvE 4.3 - PvP 4.5
+dimwishlist:item=-2870169846#notes:Tier C - PvE 4.2 - PvP 3.9
+dimwishlist:item=-625672050#notes:Tier D - PvE 3.1 - PvP 4.3
+dimwishlist:item=-1162247618#notes:Tier D - PvE 3.1 - PvP 4.3
+dimwishlist:item=-3233390913#notes:PvE 2.0 - PvP 3.8
+dimwishlist:item=-161537637#notes:PvE 2.0 - PvP 3.8
+dimwishlist:item=-208088207#notes:Tier C - PvE 4.0 - PvP 4.4
+dimwishlist:item=-962412079#notes:Tier C - PvE 3.1 - PvP 4.5
+dimwishlist:item=-188882152#notes:Tier C - PvE 3.1 - PvP 4.5
+dimwishlist:item=-1386601612#notes:PvE 3.5 - PvP 4.7
+dimwishlist:item=-1291586825#notes:PvE 2.4 - PvP 2.8
+dimwishlist:item=-3199662972#notes:PvE 2.4 - PvP 2.8
+dimwishlist:item=-4138174248#notes:PvE 4.8 - PvP 3.9
+dimwishlist:item=-1161276682#notes:PvE 4.4 - PvP 4.3
+dimwishlist:item=-3376406418#notes:PvE 4.2 - PvP 3.9
+dimwishlist:item=-1678957656
+dimwishlist:item=-1669771783
+dimwishlist:item=-1678957657
+dimwishlist:item=-1669771782
+dimwishlist:item=-1669771781
+dimwishlist:item=-1678957658
+dimwishlist:item=-1669771780
+dimwishlist:item=-1678957659
+dimwishlist:item=-210065223
+dimwishlist:item=-191996029#notes:PvE 5.0 - PvP 4.5
+dimwishlist:item=-3529780349#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-1178397318#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-159056377#notes:PvE 3.0 - PvP 4.5
+dimwishlist:item=-1523647826
+dimwishlist:item=-161537636#notes:PvE 4.5 - PvP 4.2
+dimwishlist:item=-228424224
+dimwishlist:item=-1513927137#notes:PvE 2.0 - PvP 4.0
+dimwishlist:item=-1513927138#notes:PvE 3.5 - PvP 3.8
+dimwishlist:item=-1587439031#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-1513927139
+dimwishlist:item=-339343291
+dimwishlist:item=-4145119417#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-3325744914#notes:PvE 4.0 - PvP 3.5
+dimwishlist:item=-339343290
+dimwishlist:item=-1513927136#notes:PvE 4.2 - PvP 4.8
+dimwishlist:item=-1386601612#notes:PvE 4.2 - PvP 4.8
+dimwishlist:item=-3627718345
+dimwishlist:item=-2213848863
+dimwishlist:item=-2213848860
+dimwishlist:item=-2213848862
+dimwishlist:item=-3627718344
+dimwishlist:item=-2213848861
+dimwishlist:item=-3569842567
+dimwishlist:item=-2370525224
+dimwishlist:item=-3428407746#notes:Tier C - PvE 3.7 - PvP 4.8
+dimwishlist:item=-2189073092#notes:Tier C - PvE 3.7 - PvP 4.8
+dimwishlist:item=-4024037919#notes:PvE 3.6 - PvP 4.0
+dimwishlist:item=-2826850739#notes:PvE 3.6 - PvP 4.0
+dimwishlist:item=-1644162710#notes:PvE 3.6 - PvP 4.0
+dimwishlist:item=-3685470415#notes:Tier C - PvE 2.7 - PvP 2.1
+dimwishlist:item=-2465372924#notes:Tier C - PvE 4.3 - PvP 4.2
+dimwishlist:item=-640114618#notes:Tier C - PvE 4.3 - PvP 4.2
+dimwishlist:item=-3319810953#notes:Tier C - PvE 3.4 - PvP 4.2
+dimwishlist:item=-3319810952
+dimwishlist:item=-3678653083#notes:Tier C - PvE 4.5 - PvP 3.2 - Excels PvE
+dimwishlist:item=-392008588#notes:Tier D - PvE 4.6 - PvP 3.7 - Excels PvE
+dimwishlist:item=-2328531378#notes:Tier C - PvE 4.5 - PvP 3.9
+dimwishlist:item=-4070357005#notes:Tier D - PvE 4.2 - PvP 3.1
+dimwishlist:item=-1561006927#notes:Tier D - PvE 4.2 - PvP 3.1
+dimwishlist:item=-2778013407#notes:Tier D - PvE 2.8 - PvP 3.3
+dimwishlist:item=-1788603939#notes:Tier C - PvE 4.3 - PvP 3.8
+dimwishlist:item=-927567426#notes:Tier C - PvE 3.5 - PvP 2.5
+dimwishlist:item=-1248372789#notes:Tier C - PvE 4.4 - PvP 3.9
+dimwishlist:item=-602618796#notes:Tier C - PvE 4.5 - PvP 4.4
+dimwishlist:item=-3762467078#notes:Tier C - PvE 4.5 - PvP 4.4
+dimwishlist:item=-507038823#notes:Tier C - PvE 3.9 - PvP 4.2
+dimwishlist:item=-1503609584#notes:Tier C - PvE 3.9 - PvP 4.2
+dimwishlist:item=-1337707096#notes:Tier D - PvE 4.0 - PvP 3.1
+dimwishlist:item=-2496875173#notes:Tier C - PvE 4.0 - PvP 4.2
+dimwishlist:item=-2492081469#notes:Tier D - PvE 3.6 - PvP 3.9
+dimwishlist:item=-3854359821#notes:Tier D - PvE 3.6 - PvP 3.9
+dimwishlist:item=-20935540#notes:Tier C - PvE 4.4 - PvP 3.3
+dimwishlist:item=-2014642399#notes:Tier D - PvE 4.0 - PvP 4.8
+dimwishlist:item=-1690783811#notes:Tier D - PvE 4.0 - PvP 4.8
+dimwishlist:item=-1251729046#notes:PvE 4.6 - PvP 3.1
+dimwishlist:item=-3762467076#notes:PvE 3.2 - PvP 4.2
+dimwishlist:item=-3863882743#notes:PvE 3.2 - PvP 4.2
+dimwishlist:item=-1952163498#notes:PvE 3.6 - PvP 4.2
+dimwishlist:item=-2723909519#notes:Tier D - PvE 4.1 - PvP 3.3
+dimwishlist:item=-1286686760#notes:PvE 4.0 - PvP 3.5
+dimwishlist:item=-821154603#notes:Tier C - PvE 4.5 - PvP 4.3
+dimwishlist:item=-1775804198#notes:PvE 3.8 - PvP 4.8
+dimwishlist:item=-93253474#notes:PvE 4.6 - PvP 3.5
+dimwishlist:item=-1839565992#notes:PvE 3.7 - PvP 4.4
+dimwishlist:item=-3778520450#notes:PvE 3.6 - PvP 4.3
+dimwishlist:item=-1518042134#notes:PvE 3.6 - PvP 4.3
+dimwishlist:item=-1789347249#notes:PvE 5.0 - PvP 3.7
+dimwishlist:item=-819441402#notes:PvE 4.5 - PvP 4.3
+dimwishlist:item=-1518042135#notes:PvE 3.6 - PvP 4.5
+dimwishlist:item=-3762467079#notes:PvE 3.6 - PvP 4.5
+dimwishlist:item=-2351747816
+dimwishlist:item=-2860172149
+dimwishlist:item=-2860172150
+dimwishlist:item=-2351747819
+dimwishlist:item=-2860172148
+dimwishlist:item=-2351747817
+dimwishlist:item=-2351747818
+dimwishlist:item=-2860172151
+dimwishlist:item=-1752585070#notes:PvE 2.8 - PvP 2.2
+dimwishlist:item=-1137768695#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-4014434381#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-1650442173#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-1369487074#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-1099433612
+dimwishlist:item=-1842303080
+dimwishlist:item=-3920811074#notes:PvE 3.0 - PvP 4.5
+dimwishlist:item=-3188460622#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-2505533224#notes:PvE 3.7 - PvP 3.0
+dimwishlist:item=-472847207#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-3778520451#notes:PvE 4.4 - PvP 4.9
+dimwishlist:item=-1775804198#notes:PvE 4.4 - PvP 4.9
+dimwishlist:item=-3778520449#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-3336215727#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-1327432221
+dimwishlist:item=-705774642
+dimwishlist:item=-3762467077
+dimwishlist:item=-2903592984
+dimwishlist:item=-2903592987
+dimwishlist:item=-2694044461
+dimwishlist:item=-2694044460
+dimwishlist:item=-2694044462
+dimwishlist:item=-2694044463
+dimwishlist:item=-2209451511
+dimwishlist:item=-4152016199#notes:Tier C - PvE 3.0 - PvP 4.4
+dimwishlist:item=-1048266744#notes:Tier C - PvE 3.0 - PvP 4.4
+dimwishlist:item=-153979397#notes:Tier C - PvE 3.0 - PvP 4.4
+dimwishlist:item=-586671776#notes:Tier C - PvE 3.9 - PvP 3.5
+dimwishlist:item=-3240434620#notes:Tier C - PvE 3.9 - PvP 3.5
+dimwishlist:item=-1856262127#notes:Tier C - PvE 3.9 - PvP 3.5
+dimwishlist:item=-2817683783#notes:Tier C - PvE 3.7 - PvP 4.5
+dimwishlist:item=-2138599001#notes:Tier C - PvE 3.7 - PvP 4.5
+dimwishlist:item=-1875512595#notes:Tier C - PvE 2.5 - PvP 3.7
+dimwishlist:item=-3337727085#notes:Tier D - PvE 3.3 - PvP 3.0
+dimwishlist:item=-3116356268#notes:Tier C - PvE 3.8 - PvP 4.2
+dimwishlist:item=-3236112986#notes:Tier C - PvE 3.8 - PvP 4.2
+dimwishlist:item=-1331824604#notes:Tier D - PvE 3.6 - PvP 4.7
+dimwishlist:item=-3890055324#notes:Tier D - PvE 4.0 - PvP 4.2
+dimwishlist:item=-2034215657#notes:Tier C - PvE 4.2 - PvP 4.5
+dimwishlist:item=-1555959830#notes:Tier D - PvE 3.6 - PvP 2.7 - Excels PvE
+dimwishlist:item=-3037520408#notes:Tier D - PvE 3.6 - PvP 2.7 - Excels PvE
+dimwishlist:item=-1731355324#notes:Tier D - PvE 4.3 - PvP 3.6
+dimwishlist:item=-2671639706#notes:Tier D - PvE 3.5 - PvP 3.2
+dimwishlist:item=-4238497225#notes:Tier D - PvE 4.0 - PvP 3.3
+dimwishlist:item=-2006308129#notes:Tier D - PvE 4.0 - PvP 3.3
+dimwishlist:item=-575830664#notes:Tier D - PvE 4.0 - PvP 3.3
+dimwishlist:item=-2888266564#notes:Tier D - PvE 3.8 - PvP 4.4
+dimwishlist:item=-1141547457#notes:Tier D - PvE 3.6 - PvP 4.3
+dimwishlist:item=-235827225#notes:Tier C - PvE 4.4 - PvP 4.7
+dimwishlist:item=-1622998472#notes:Tier D - PvE 4.5 - PvP 3.4
+dimwishlist:item=-6857689#notes:Tier D - PvE 3.9 - PvP 4.5
+dimwishlist:item=-2145476623#notes:Tier D - PvE 3.9 - PvP 4.5
+dimwishlist:item=-1046651176#notes:Tier D - PvE 3.7 - PvP 4.7
+dimwishlist:item=-1189790632#notes:Tier D - PvE 2.9 - PvP 4.4
+dimwishlist:item=-2220884262#notes:Tier D - PvE 2.9 - PvP 4.4
+dimwishlist:item=-1200824700#notes:PvE 3.4 - PvP 3.2
+dimwishlist:item=-468276817#notes:Tier D - PvE 3.3 - PvP 4.3
+dimwishlist:item=-1835747805#notes:Tier D - PvE 3.3 - PvP 4.3
+dimwishlist:item=-2742838701#notes:Tier C - PvE 3.2 - PvP 4.3
+dimwishlist:item=-582335600#notes:Tier C - PvE 3.2 - PvP 4.3
+dimwishlist:item=-2742838700#notes:Tier C - PvE 4.1 - PvP 4.3 - Excels PvP
+dimwishlist:item=-408440598#notes:Tier C - PvE 4.1 - PvP 4.3 - Excels PvP
+dimwishlist:item=-1706536806#notes:PvE 3.6 - PvP 4.6
+dimwishlist:item=-3569802112#notes:PvE 3.6 - PvP 4.6
+dimwishlist:item=-410996590#notes:PvE 4.8 - PvP 3.8
+dimwishlist:item=-3285365666#notes:PvE 4.8 - PvP 3.8
+dimwishlist:item=-3924212056#notes:Tier D - PvE 3.9 - PvP 3.9
+dimwishlist:item=-2171006181#notes:PvE 3.4 - PvP 3.9
+dimwishlist:item=-834081972#notes:PvE 3.4 - PvP 3.9
+dimwishlist:item=-2824241403#notes:PvE 3.6 - PvP 4.4
+dimwishlist:item=-2575506895#notes:PvE 4.7 - PvP 4.6
+dimwishlist:item=-2112909414#notes:PvE 4.4 - PvP 4.5
+dimwishlist:item=-3860697509#notes:PvE 1.5 - PvP 2.0
+dimwishlist:item=-4211534763#notes:PvE 1.5 - PvP 2.0
+dimwishlist:item=-2112909415#notes:PvE 3.3 - PvP 4.2
+dimwishlist:item=-153979399#notes:PvE 2.8 - PvP 5.0
+dimwishlist:item=-1178886909#notes:PvE 3.2 - PvP 3.8
+dimwishlist:item=-2591586261
+dimwishlist:item=-653875714
+dimwishlist:item=-653875712
+dimwishlist:item=-2591586263
+dimwishlist:item=-653875715
+dimwishlist:item=-2591586260
+dimwishlist:item=-653875713
+dimwishlist:item=-2591586262
+dimwishlist:item=-1406475890#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-3866356643#notes:PvE 3.0 - PvP 2.4
+dimwishlist:item=-3216383791#notes:PvE 2.0 - PvP 5.0
+dimwishlist:item=-2957542878#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-3285365667#notes:PvE 4.7 - PvP 4.7
+dimwishlist:item=-2071412133#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-2817949113#notes:PvE 2.0 - PvP 3.0
+dimwishlist:item=-2824241403#notes:PvE 3.3 - PvP 3.7
+dimwishlist:item=-2145476620#notes:PvE 3.3 - PvP 3.7
+dimwishlist:item=-1351035691#notes:PvE 4.5 - PvP 3.5
+dimwishlist:item=-3860697510
+dimwishlist:item=-3860697508#notes:PvP 4.0
+dimwishlist:item=-2693941407#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-2145476622
+dimwishlist:item=-1595336070
+dimwishlist:item=-3185293912
+dimwishlist:item=-3185293913
+dimwishlist:item=-3185293915
+dimwishlist:item=-3185293914
+dimwishlist:item=-2553946496
+dimwishlist:item=-2553946497
+dimwishlist:item=-4284533075#notes:PvE 5.0 - PvP 4.0
+dimwishlist:item=-1202007252#notes:PvE 5.0 - PvP 1.0
+dimwishlist:item=-1753923263
+dimwishlist:item=-449318888#notes:Tier D - PvE 3.5 - PvP 1.9
+dimwishlist:item=-3664831848#notes:Tier D - PvE 4.2 - PvP 2.3
+dimwishlist:item=-370712896#notes:Tier C - PvE 3.8 - PvP 1.9
+dimwishlist:item=-2399110176#notes:Tier C - PvE 4.5 - PvP 4.3
+dimwishlist:item=-3487253372#notes:Tier C - PvE 4.9 - PvP 3.6
+dimwishlist:item=-2084878005#notes:Tier D - PvE 4.4 - PvP 4.2
+dimwishlist:item=-2232171099#notes:Tier C - PvE 4.2 - PvP 4.5
+dimwishlist:item=-1201830623#notes:Tier D - PvE 2.1 - PvP 3.7
+dimwishlist:item=-2069224589#notes:Tier C - PvE 4.8 - PvP 4.5
+dimwishlist:item=-2694576561#notes:Tier C - PvE 4.2 - PvP 3.6
+dimwishlist:item=-3766045777#notes:Tier D - PvE 3.7 - PvP 4.0
+dimwishlist:item=-1864563948#notes:Tier D - PvE 2.1 - PvP 2.2
+dimwishlist:item=-3899270607#notes:Tier D - PvE 3.7 - PvP 4.4
+dimwishlist:item=-3549153979#notes:Tier D - PvE 3.9 - PvP 2.2
+dimwishlist:item=-1508896098#notes:Tier D - PvE 4.1 - PvP 4.5
+dimwishlist:item=-690341468#notes:Tier C - PvE 3.0 - PvP 2.8
+dimwishlist:item=-211938782#notes:Tier C - PvE 3.0 - PvP 2.8
+dimwishlist:item=-2848549302#notes:Tier D - PvE 1.7 - PvP 1.6
+dimwishlist:item=-2513965917#notes:Tier C - PvE 4.6 - PvP 3.6
+dimwishlist:item=-3651075426
+dimwishlist:item=-421573768#notes:PvE 4.1 - PvP 3.9
+dimwishlist:item=-2009106091#notes:PvE 3.4 - PvP 3.2
+dimwishlist:item=-720351794#notes:PvE 4.1 - PvP 3.7
+dimwishlist:item=-720351795#notes:Tier C - PvE 4.7 - PvP 4.0
+dimwishlist:item=-3410721600#notes:PvE 4.5 - PvP 4.5
+dimwishlist:item=-3612142623#notes:Tier C - PvE 4.1 - PvP 4.4
+dimwishlist:item=-417100299#notes:Tier D - PvE 3.8 - PvP 4.0
+dimwishlist:item=-3890960908#notes:Tier D - PvE 3.8 - PvP 4.0
+dimwishlist:item=-1641430382#notes:Tier D - PvE 3.8 - PvP 4.0
+dimwishlist:item=-1161561386#notes:Tier D - PvE 3.8 - PvP 4.0
+dimwishlist:item=-1890332078#notes:Tier D - PvE 3.9 - PvP 1.6
+dimwishlist:item=-1531295694#notes:Tier D - PvE 3.9 - PvP 1.6
+dimwishlist:item=-2314999489#notes:Tier C - PvE 4.0 - PvP 3.5
+dimwishlist:item=-2045811635#notes:Tier C - PvE 4.0 - PvP 3.5
+dimwishlist:item=-222606050#notes:Tier C - PvE 4.7 - PvP 4.5 - Excels PvE
+dimwishlist:item=-1019000888#notes:Tier C - PvE 4.5 - PvP 3.6
+dimwishlist:item=-297296830#notes:Tier D - PvE 4.1 - PvP 2.4
+dimwishlist:item=-3556999246#notes:Tier D - PvE 4.1 - PvP 3.0
+dimwishlist:item=-1342668638#notes:Tier D - PvE 4.1 - PvP 3.0
+dimwishlist:item=-3514096004#notes:Tier D - PvE 2.1 - PvP 3.8
+dimwishlist:item=-1927800278#notes:Tier D - PvE 2.1 - PvP 3.8
+dimwishlist:item=-2776503072#notes:Tier D - PvE 3.8 - PvP 2.6
+dimwishlist:item=-2478792241#notes:Tier C - PvE 2.9 - PvP 4.2
+dimwishlist:item=-2386979999#notes:Tier C - PvE 2.9 - PvP 4.2
+dimwishlist:item=-2338088853#notes:PvE 3.5 - PvP 2.7
+dimwishlist:item=-3504336176#notes:Tier C - PvE 4.6 - PvP 4.1
+dimwishlist:item=-4193877020#notes:PvE 3.0 - PvP 2.0
+dimwishlist:item=-2278995296#notes:PvE 3.0 - PvP 2.0
+dimwishlist:item=-1931556011#notes:PvE 4.0 - PvP 4.4
+dimwishlist:item=-20025671#notes:PvE 4.0 - PvP 3.0
+dimwishlist:item=-1982711279#notes:Tier C - PvE 4.0 - PvP 3.6 - Excels PvP
+dimwishlist:item=-3957603605#notes:PvE 4.0 - PvP 3.0
+dimwishlist:item=-925326394#notes:PvE 3.0 - PvP 4.7
+dimwishlist:item=-525750263#notes:PvE 3.0 - PvP 4.7
+dimwishlist:item=-2034817450#notes:PvE 4.8 - PvP 4.0
+dimwishlist:item=-3501969491#notes:PvE 4.5 - PvP 4.5
+dimwishlist:item=-1650626964
+dimwishlist:item=-3906357379
+dimwishlist:item=-3906357377
+dimwishlist:item=-1650626966
+dimwishlist:item=-1650626965
+dimwishlist:item=-3906357378
+dimwishlist:item=-1650626967
+dimwishlist:item=-3906357376
+dimwishlist:item=-1350102270#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-541053086#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-717150101#notes:PvE 4.8 - PvP 4.2
+dimwishlist:item=-3425561386#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-1159252500#notes:PvE 4.0
+dimwishlist:item=-472169727#notes:PvE 3.5 - PvP 3.2
+dimwishlist:item=-2516360525#notes:PvE 4.5 - PvP 5.0
+dimwishlist:item=-3826803617
+dimwishlist:item=-3005104939#notes:PvE 2.0 - PvP 5.0
+dimwishlist:item=-3434629515
+dimwishlist:item=-1885753222#notes:PvE 5.0 - PvP 3.5
+dimwishlist:item=-273396910#notes:PvE 3.7 - PvP 4.3
+dimwishlist:item=-3435238843#notes:PvE 4.5 - PvP 4.5
+dimwishlist:item=-2625782212
+dimwishlist:item=-3435238842#notes:PvE 4.8 - PvP 4.5
+dimwishlist:item=-3906942101#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-925326393#notes:PvE 4.5 - PvP 3.0
+dimwishlist:item=-1885753220#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-20025671#notes:PvE 4.5 - PvP 4.0
+dimwishlist:item=-925326392#notes:PvE 4.5 - PvP 4.0
+dimwishlist:item=-1825472717#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-1885753223#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-2842493171
+dimwishlist:item=-2842493170
+dimwishlist:item=-3361694401
+dimwishlist:item=-3361694403
+dimwishlist:item=-3361694400
+dimwishlist:item=-3361694402
+dimwishlist:item=-3550697748
+dimwishlist:item=-48361212#notes:Tier C - PvE 3.8 - PvP 4.1
+dimwishlist:item=-423343404#notes:Tier C - PvE 3.8 - PvP 4.1
+dimwishlist:item=-805677041#notes:Tier C - PvE 4.3 - PvP 4.0
+dimwishlist:item=-927835311#notes:Tier C - PvE 4.3 - PvP 4.0
+dimwishlist:item=-213264394#notes:Tier C - PvE 4.3 - PvP 4.0
+dimwishlist:item=-1687353095#notes:Tier C - PvE 4.0 - PvP 3.3
+dimwishlist:item=-2588048270#notes:Tier C - PvE 4.4 - PvP 3.4
+dimwishlist:item=-819358961#notes:Tier C - PvE 4.4 - PvP 3.4
+dimwishlist:item=-541188001#notes:Tier C - PvE 4.0 - PvP 3.9
+dimwishlist:item=-293505772#notes:Tier C - PvE 4.8 - PvP 4.0
+dimwishlist:item=-2414141462#notes:Tier C - PvE 4.8 - PvP 4.0
+dimwishlist:item=-2121785039#notes:Tier C - PvE 4.7 - PvP 3.8
+dimwishlist:item=-1197486957#notes:Tier C - PvE 4.6 - PvP 3.9
+dimwishlist:item=-1723380073#notes:Tier D - PvE 3.2 - PvP 4.7
+dimwishlist:item=-2581162758#notes:Tier D - PvE 3.2 - PvP 4.7
+dimwishlist:item=-3622137132#notes:PvE 3.9 - PvP 4.5
+dimwishlist:item=-1911843791#notes:PvE 3.9 - PvP 4.5
+dimwishlist:item=-4149758318#notes:PvE 4.5 - PvP 4.8
+dimwishlist:item=-2091737595#notes:PvE 4.5 - PvP 4.8
+dimwishlist:item=-2199171672#notes:Tier C - PvE 3.5 - PvP 3.8
+dimwishlist:item=-3751622019#notes:PvE 3.3 - PvP 5.0
+dimwishlist:item=-1843044399#notes:PvE 5.0 - PvP 4.4
+dimwishlist:item=-3334276333#notes:PvE 4.4 - PvP 4.8
+dimwishlist:item=-2009277538#notes:Tier C - PvE 4.9 - PvP 4.8
+dimwishlist:item=-3967155859#notes:Tier C - PvE 4.9 - PvP 4.8
+dimwishlist:item=-1699493316#notes:Tier C - PvE 4.9 - PvP 4.8
+dimwishlist:item=-1843044398#notes:PvE 4.4 - PvP 4.6
+dimwishlist:item=-3334276332#notes:PvE 4.3 - PvP 3.3
+dimwishlist:item=-711899773
+dimwishlist:item=-3809805230
+dimwishlist:item=-711899775
+dimwishlist:item=-3809805228
+dimwishlist:item=-711899774
+dimwishlist:item=-3809805229
+dimwishlist:item=-3809805231
+dimwishlist:item=-711899772
+dimwishlist:item=-2084611899#notes:PvE 3.5 - PvP 4.2
+dimwishlist:item=-1798874854#notes:PvE 4.5
+dimwishlist:item=-806021398#notes:PvE 3.0 - PvP 2.5
+dimwishlist:item=-2812672356
+dimwishlist:item=-2812672357
+dimwishlist:item=-1084788061
+dimwishlist:item=-1533499360#notes:PvE 4.0 - PvP 3.5
+dimwishlist:item=-1911843789#notes:PvE 4.0 - PvP 3.0
+dimwishlist:item=-3751622019#notes:PvE 3.1 - PvP 4.5
+dimwishlist:item=-1911843790#notes:PvE 3.1 - PvP 4.5
+dimwishlist:item=-48361213
+dimwishlist:item=-1533499361
+dimwishlist:item=-227548887#notes:PvE 5.0 - PvP 4.0
+dimwishlist:item=-1911843788#notes:PvP 5.0
+dimwishlist:item=-1533499362
+dimwishlist:item=-1310413524
+dimwishlist:item=-1310413525
+dimwishlist:item=-3792720684
+dimwishlist:item=-254636484#notes:Tier C - PvE 4.3 - PvP 3.4
+dimwishlist:item=-1466006054#notes:Tier D - PvE 4.0 - PvP 2.7
+dimwishlist:item=-2534546147#notes:Tier D - PvE 4.0 - PvP 2.7
+dimwishlist:item=-1983332560#notes:PvE 1.0 - PvP 2.0
+dimwishlist:item=-3246523829
+dimwishlist:item=-2734369894
+dimwishlist:item=-825495813#notes:Tier C - PvE 3.9 - PvP 2.2 - Excels PvE
+dimwishlist:item=-3959549446#notes:Tier C - PvE 4.2 - PvP 2.9
+dimwishlist:item=-3206190066#notes:Tier D - PvE 3.9 - PvP 3.4
+dimwishlist:item=-2814093983#notes:Tier D - PvE 3.9 - PvP 3.4
+dimwishlist:item=-1506719573#notes:Tier D - PvE 3.9 - PvP 3.4
+dimwishlist:item=-3926811686#notes:Tier C - PvE 4.8 - PvP 3.1
+dimwishlist:item=-1200414607#notes:Tier D - PvE 4.4 - PvP 3.8
+dimwishlist:item=-1999754402#notes:Tier D - PvE 4.4 - PvP 3.8
+dimwishlist:item=-2510526114#notes:Tier C - PvE 4.3 - PvP 4.4 - Excels PvE + PvP
+dimwishlist:item=-1081724548#notes:Tier C - PvE 4.2 - PvP 4.1
+dimwishlist:item=-2832639510#notes:Tier D - PvE 4.6 - PvP 3.1
+dimwishlist:item=-2744715540#notes:Tier D - PvE 4.6 - PvP 3.1
+dimwishlist:item=-811403305#notes:Tier D - PvE 3.5 - PvP 2.3
+dimwishlist:item=-1509167284#notes:Tier D - PvE 4.1 - PvP 2.5
+dimwishlist:item=-4100775158#notes:Tier C - PvE 4.2 - PvP 4.2
+dimwishlist:item=-2988121501#notes:Tier C - PvE 4.4 - PvP 4.4
+dimwishlist:item=-1601177201#notes:Tier D - PvE 4.0 - PvP 3.6
+dimwishlist:item=-3000847393#notes:Tier D - PvE 4.8 - PvP 3.2
+dimwishlist:item=-1526296434#notes:Tier D - PvE 3.6 - PvP 2.0
+dimwishlist:item=-3341893443#notes:Tier C - PvE 4.8 - PvP 3.7
+dimwishlist:item=-875848769#notes:Tier C - PvE 4.2 - PvP 4.2
+dimwishlist:item=-2272470786#notes:Tier C - PvE 3.9 - PvP 3.5
+dimwishlist:item=-1339362514#notes:Tier C - PvE 3.9 - PvP 3.5
+dimwishlist:item=-1097616550#notes:Tier D - PvE 4.8 - PvP 3.5
+dimwishlist:item=-1513993763#notes:Tier D - PvE 4.3 - PvP 2.8
+dimwishlist:item=-2517599010#notes:Tier D - PvE 3.6 - PvP 3.3
+dimwishlist:item=-2742490609#notes:Tier D - PvE 3.6 - PvP 3.3
+dimwishlist:item=-2222560548#notes:PvE 4.7 - PvP 3.7
+dimwishlist:item=-1459443448#notes:Tier D - PvE 4.3 - PvP 3.5
+dimwishlist:item=-1786797708#notes:Tier D - PvE 4.3 - PvP 3.5
+dimwishlist:item=-766323545#notes:Tier D - PvE 4.1 - PvP 2.8
+dimwishlist:item=-4227181568#notes:PvE 4.7 - PvP 3.8
+dimwishlist:item=-4277547616#notes:Tier D - PvE 4.2 - PvP 3.2
+dimwishlist:item=-2422664927#notes:PvE 3.8 - PvP 4.2
+dimwishlist:item=-566976653#notes:PvE 1.4 - PvP 4.8
+dimwishlist:item=-2561659919#notes:PvE 1.4 - PvP 4.8
+dimwishlist:item=-105567493#notes:PvE 2.6 - PvP 3.4
+dimwishlist:item=-2653316158#notes:PvE 4.3 - PvP 3.4
+dimwishlist:item=-2681395357#notes:PvE 4.4 - PvP 4.7
+dimwishlist:item=-2105827099#notes:PvE 3.8 - PvP 4.5
+dimwishlist:item=-1357080535#notes:PvE 3.7 - PvP 4.7
+dimwishlist:item=-3383958218
+dimwishlist:item=-1281822857
+dimwishlist:item=-1281822856
+dimwishlist:item=-3383958219
+dimwishlist:item=-3383958217
+dimwishlist:item=-1281822858
+dimwishlist:item=-3383958216
+dimwishlist:item=-1281822859
+dimwishlist:item=-516243773#notes:PvE 3.0 - PvP 5.0
+dimwishlist:item=-2611861926#notes:PvE 5.0 - PvP 1.0
+dimwishlist:item=-3950088638
+dimwishlist:item=-1723472487#notes:PvE 3.5 - PvP 3.7
+dimwishlist:item=-2433826056#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-2414612777#notes:PvE 4.4 - PvP 4.6
+dimwishlist:item=-2422664927#notes:PvE 4.4 - PvP 4.6
+dimwishlist:item=-2414612776#notes:PvE 2.6 - PvP 5.0
+dimwishlist:item=-3991544423#notes:PvE 4.7 - PvP 4.5
+dimwishlist:item=-1587779165#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-3991544422#notes:PvE 4.0 - PvP 3.0
+dimwishlist:item=-2700862856#notes:PvE 3.0 - PvP 4.0
+dimwishlist:item=-3954531357#notes:PvE 5.0 - PvP 4.0
+dimwishlist:item=-2700862858#notes:PvE 3.0 - PvP 3.0
+dimwishlist:item=-566976654
+dimwishlist:item=-2700862859#notes:PvE 4.7 - PvP 4.3
+dimwishlist:item=-566976652#notes:PvE 3.0 - PvP 4.0
+dimwishlist:item=-3889907763
+dimwishlist:item=-1195725817
+dimwishlist:item=-1195725818
+dimwishlist:item=-531591353
+dimwishlist:item=-531591352
+dimwishlist:item=-772531208
+dimwishlist:item=-1195725819
+dimwishlist:item=-499245245#notes:Tier C - PvE 4.8 - PvP 3.5
+dimwishlist:item=-3582424018#notes:Tier C - PvE 4.8 - PvP 4.7
+dimwishlist:item=-1296429091#notes:Tier C - PvE 4.8 - PvP 4.7
+dimwishlist:item=-4287947559#notes:Tier D - PvE 4.1 - PvP 3.8
+dimwishlist:item=-755130877#notes:Tier D - PvE 4.1 - PvP 3.8
+dimwishlist:item=-4138415948
+dimwishlist:item=-664109750
+dimwishlist:item=-2531963421#notes:Tier D - PvE 4.4 - PvP 3.4
+dimwishlist:item=-1478986057#notes:Tier C - PvE 4.0 - PvP 3.9
+dimwishlist:item=-4225322581#notes:Tier C - PvE 4.4 - PvP 4.5
+dimwishlist:item=-3216652511#notes:Tier D - PvE 2.6 - PvP 3.2
+dimwishlist:item=-2443900757#notes:Tier C - PvE 3.0 - PvP 2.2
+dimwishlist:item=-1028582252#notes:Tier C - PvE 3.0 - PvP 2.2
+dimwishlist:item=-4037745684#notes:Tier D - PvE 4.0 - PvP 4.2
+dimwishlist:item=-3616586446#notes:Tier C - PvE 2.6 - PvP 2.6 - Excels PvE
+dimwishlist:item=-515224227#notes:Tier C - PvE 2.6 - PvP 2.6 - Excels PvE
+dimwishlist:item=-1096206669#notes:PvE 4.7 - PvP 3.3
+dimwishlist:item=-1821724780#notes:Tier C - PvE 4.2 - PvP 4.4
+dimwishlist:item=-838556752#notes:PvE 4.8 - PvP 3.0
+dimwishlist:item=-2782847179#notes:Tier D - PvE 3.8 - PvP 4.6
+dimwishlist:item=-3861448240#notes:PvE 4.6 - PvP 4.0
+dimwishlist:item=-3461377698#notes:PvE 2.5 - PvP 4.7
+dimwishlist:item=-1664372054#notes:PvE 4.5 - PvP 3.6
+dimwishlist:item=-3190698551#notes:Tier C - PvE 4.3 - PvP 4.7
+dimwishlist:item=-3356526253#notes:Tier C - PvE 4.3 - PvP 4.7
+dimwishlist:item=-636912560#notes:PvE 3.3 - PvP 4.9
+dimwishlist:item=-2217366863#notes:PvE 3.4 - PvP 4.6
+dimwishlist:item=-2957367743#notes:Tier C - PvE 2.7 - PvP 4.1
+dimwishlist:item=-1327264046#notes:PvE 4.8 - PvP 5.0
+dimwishlist:item=-64236626#notes:PvE 2.0 - PvP 4.4
+dimwishlist:item=-731147178#notes:PvE 2.0 - PvP 4.4
+dimwishlist:item=-1457394911
+dimwishlist:item=-1995011456
+dimwishlist:item=-1995011457
+dimwishlist:item=-1457394910
+dimwishlist:item=-1995011459
+dimwishlist:item=-1457394908
+dimwishlist:item=-2928437919#notes:PvE 4.0 - PvP 4.5
+dimwishlist:item=-1887808042#notes:PvE 5.0 - PvP 3.7
+dimwishlist:item=-1018777295#notes:PvE 2.0 - PvP 3.0
+dimwishlist:item=-2478247171#notes:PvE 3.0 - PvP 3.0
+dimwishlist:item=-2707464805#notes:PvE 3.0 - PvP 2.0
+dimwishlist:item=-3461377698#notes:PvE 2.9 - PvP 4.8
+dimwishlist:item=-731147179#notes:PvE 2.9 - PvP 4.8
+dimwishlist:item=-1277015089
+dimwishlist:item=-2703340117
+dimwishlist:item=-1988218406#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-3556971406
+dimwishlist:item=-4138415949
+dimwishlist:item=-4138415950
+dimwishlist:item=-1977926913
+dimwishlist:item=-2875763009#notes:Tier C - PvE 5.0
+dimwishlist:item=-74733286#notes:Tier C - PvE 5.0
+dimwishlist:item=-342027677#notes:Tier C - PvE 2.8 - PvP 2.4
+dimwishlist:item=-607191995#notes:Tier C - PvE 2.8 - PvP 2.4
+dimwishlist:item=-3044460004#notes:Tier C - PvE 3.8 - PvP 3.2
+dimwishlist:item=-3055192515#notes:Tier C - PvE 3.9 - PvP 4.3
+dimwishlist:item=-1006783454#notes:Tier C - PvE 3.9 - PvP 4.3
+dimwishlist:item=-4106983932#notes:PvE 4.3 - PvP 4.5
+dimwishlist:item=-4105447487#notes:PvE 4.3 - PvP 4.5
+dimwishlist:item=-1706206669#notes:PvE 4.6 - PvP 4.0
+dimwishlist:item=-2931957300#notes:Tier C - PvE 3.7 - PvP 3.9
+dimwishlist:item=-2753269585#notes:PvE 4.8 - PvP 4.2
+dimwishlist:item=-3027844941#notes:PvE 3.6 - PvP 4.8
+dimwishlist:item=-2398848320#notes:PvE 3.6 - PvP 4.8
+dimwishlist:item=-3027844940#notes:PvE 4.2 - PvP 4.0
+dimwishlist:item=-618554398#notes:PvE 4.2 - PvP 4.0
+dimwishlist:item=-3662200189
+dimwishlist:item=-3441197112
+dimwishlist:item=-3662200188
+dimwishlist:item=-3441197113
+dimwishlist:item=-3441197115
+dimwishlist:item=-3662200190
+dimwishlist:item=-4288031461#notes:PvE 5.0
+dimwishlist:item=-3005879472
+dimwishlist:item=-4105447486
+dimwishlist:item=-1773600468#notes:PvE 3.0 - PvP 3.0
+dimwishlist:item=-2502422774
+dimwishlist:item=-2502422773#notes:PvE 1.0 - PvP 3.0
+dimwishlist:item=-1393021133
+dimwishlist:item=-1393021135
+dimwishlist:item=-1393021134
+dimwishlist:item=-3421075982#notes:PvE 5.0
+dimwishlist:item=-690412397#notes:PvE 5.0
+dimwishlist:item=-4272442416#notes:Tier D - PvE 3.6 - PvP 3.9
+dimwishlist:item=-2800870005#notes:Tier D - PvE 3.6 - PvP 3.9
+dimwishlist:item=-781498181#notes:Tier C - PvE 3.8 - PvP 4.3
+dimwishlist:item=-4083045006#notes:Tier C - PvE 3.8 - PvP 4.3
+dimwishlist:item=-2290863050#notes:Tier C - PvE 3.8 - PvP 4.3
+dimwishlist:item=-1106635211#notes:Tier C - PvE 2.3 - PvP 3.0
+dimwishlist:item=-3169616514#notes:Tier C - PvE 2.5 - PvP 4.9
+dimwishlist:item=-1403800851#notes:Tier C - PvE 2.5 - PvP 4.9
+dimwishlist:item=-2673925403#notes:Tier C - PvE 4.4 - PvP 3.0
+dimwishlist:item=-617501162#notes:Tier C - PvE 3.2 - PvP 4.0
+dimwishlist:item=-2233545123#notes:Tier D - PvE 4.2 - PvP 4.1
+dimwishlist:item=-3312073053#notes:Tier C - PvE 4.2 - PvP 4.8
+dimwishlist:item=-3743729616#notes:Tier C - PvE 4.2 - PvP 4.8
+dimwishlist:item=-3326850591#notes:Tier C - PvE 4.0 - PvP 4.6
+dimwishlist:item=-174804902#notes:Tier C - PvE 4.0 - PvP 4.6
+dimwishlist:item=-852551895#notes:Tier C - PvE 3.4 - PvP 4.2 - Excels PvP
+dimwishlist:item=-3434507093#notes:Tier C - PvE 3.4 - PvP 4.2 - Excels PvP
+dimwishlist:item=-893527433#notes:Tier D - PvE 3.4 - PvP 4.5
+dimwishlist:item=-1253087083#notes:PvE 4.0 - PvP 3.8
+dimwishlist:item=-3312073055#notes:Tier D - PvE 3.6 - PvP 4.2
+dimwishlist:item=-1271343896#notes:Tier D - PvE 3.6 - PvP 4.2
+dimwishlist:item=-2807687156#notes:Tier C - PvE 2.5 - PvP 3.0
+dimwishlist:item=-2738174948#notes:Tier C - PvE 2.5 - PvP 3.0
+dimwishlist:item=-4166221755#notes:PvE 4.3 - PvP 3.0
+dimwishlist:item=-1645386487#notes:Tier D - PvE 2.7 - PvP 2.5
+dimwishlist:item=-2164448701#notes:Tier C - PvE 2.6 - PvP 3.9
+dimwishlist:item=-654608616#notes:PvE 2.3 - PvP 4.8
+dimwishlist:item=-4148143418#notes:PvE 4.3 - PvP 3.2
+dimwishlist:item=-1449922174#notes:PvE 3.8 - PvP 4.9
+dimwishlist:item=-3100452337#notes:PvE 4.5 - PvP 4.0
+dimwishlist:item=-3745990145#notes:Tier C - PvE 4.4 - PvP 4.0
+dimwishlist:item=-3666954563#notes:PvE 2.0 - PvP 5.0
+dimwishlist:item=-1873270090#notes:PvE 2.0 - PvP 5.0
+dimwishlist:item=-1684914716#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-2154059444#notes:PvE 4.2 - PvP 4.3
+dimwishlist:item=-1177293327
+dimwishlist:item=-4157959958
+dimwishlist:item=-4157959959
+dimwishlist:item=-1177293326
+dimwishlist:item=-1177293325
+dimwishlist:item=-4157959956
+dimwishlist:item=-689453941#notes:PvE 1.0 - PvP 5.0
+dimwishlist:item=-905092001#notes:PvE 3.5 - PvP 4.3
+dimwishlist:item=-1940885628#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-847450546#notes:PvE 4.3 - PvP 2.0
+dimwishlist:item=-2295941920
+dimwishlist:item=-2295941921#notes:PvE 3.5 - PvP 4.5
+dimwishlist:item=-3380742308#notes:PvE 3.0 - PvP 4.7
+dimwishlist:item=-3312073052#notes:PvE 1.0 - PvP 3.0
+dimwishlist:item=-3666954561
+dimwishlist:item=-3272713429
+dimwishlist:item=-2660862359#notes:PvE 3.0 - PvP 5.0
+dimwishlist:item=-3239754990#notes:PvP 5.0
+dimwishlist:item=-4148143418#notes:PvE 4.3 - PvP 3.2
+dimwishlist:item=-3312073054#notes:PvE 4.3 - PvP 3.2
+dimwishlist:item=-2535939781
+dimwishlist:item=-3666954562#notes:PvE 2.0 - PvP 4.0
+dimwishlist:item=-2605790033
+dimwishlist:item=-2605790034
+dimwishlist:item=-2605790032
+dimwishlist:item=-254156943
+dimwishlist:item=-437854389
+dimwishlist:item=-437854388
+dimwishlist:item=-527989828
+dimwishlist:item=-437854391
+dimwishlist:item=-437854390
+dimwishlist:item=-407150811#notes:Tier C - PvE 4.0 - PvP 2.0
+dimwishlist:item=-407150809#notes:Tier C - PvE 4.0 - PvP 2.0
+dimwishlist:item=-407150808#notes:Tier C - PvE 4.0 - PvP 2.0
+dimwishlist:item=-3576134513#notes:Tier C - PvE 4.0 - PvP 2.0
+dimwishlist:item=-407150810#notes:Tier C - PvE 4.0 - PvP 2.0
+dimwishlist:item=-2323544076#notes:Tier C - PvE 4.8 - PvP 3.4
+dimwishlist:item=-3221722018#notes:Tier C - PvE 3.0 - PvP 2.1
+dimwishlist:item=-2272041093#notes:Tier C - PvE 4.4 - PvP 3.0
+dimwishlist:item=-1184309824#notes:Tier C - PvE 3.7 - PvP 2.4
+dimwishlist:item=-1911060537#notes:Tier C - PvE 4.8 - PvP 3.0
+dimwishlist:item=-2475355656#notes:Tier C - PvE 4.9 - PvP 3.5
+dimwishlist:item=-1399243961#notes:Tier C - PvE 4.9 - PvP 3.5
+dimwishlist:item=-2502422775#notes:Tier D - PvE 3.6 - PvP 3.6
+dimwishlist:item=-3335343363#notes:Tier D - PvE 3.6 - PvP 3.6
+dimwishlist:item=-3075224551#notes:Tier C - PvE 4.5 - PvP 2.8
+dimwishlist:item=-2714022207#notes:Tier D - PvE 3.5 - PvP 3.0
+dimwishlist:item=-2697058914#notes:PvE 2.7 - PvP 4.0
+dimwishlist:item=-3005879473#notes:PvE 4.3 - PvP 4.0
+dimwishlist:item=-3419149443#notes:PvE 4.3 - PvP 4.0
+dimwishlist:item=-1813667283#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-3909683950#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-1502662697
+dimwishlist:item=-35794111#notes:Tier D - PvE 3.9 - PvP 3.0
+dimwishlist:item=-1587953057#notes:Tier D - PvE 3.9 - PvP 3.0
+dimwishlist:item=-3438139008#notes:Tier D - PvE 3.8 - PvP 3.3
+dimwishlist:item=-3668817296#notes:Tier D - PvE 3.2 - PvP 1.8
+dimwishlist:item=-243425374#notes:PvE 4.9 - PvP 3.0
+dimwishlist:item=-1815105249#notes:PvE 4.9 - PvP 3.0
+dimwishlist:item=-614426548#notes:PvE 4.9 - PvP 3.0
+dimwishlist:item=-715338174#notes:Tier C - PvE 4.1 - PvP 2.4
+dimwishlist:item=-1139727256#notes:Tier C - PvE 4.1 - PvP 2.4
+dimwishlist:item=-4066778670#notes:Tier D - PvE 4.7 - PvP 2.0
+dimwishlist:item=-2508948099#notes:Tier C - PvE 3.8 - PvP 2.3 - Excels PvE
+dimwishlist:item=-3371413056#notes:Tier C - PvE 4.7 - PvP 3.1
+dimwishlist:item=-569799274#notes:Tier C - PvE 4.7 - PvP 3.1
+dimwishlist:item=-569799275#notes:Tier C - PvE 4.8 - PvP 3.1 - Excels PvE
+dimwishlist:item=-3371413057#notes:Tier C - PvE 4.8 - PvP 3.1 - Excels PvE
+dimwishlist:item=-1796949035#notes:Tier D - PvE 4.4 - PvP 2.0
+dimwishlist:item=-3257091166#notes:Tier C - PvE 4.4 - PvP 3.8
+dimwishlist:item=-2139640995#notes:Tier D - PvE 4.7 - PvP 2.4 - Excels PvE
+dimwishlist:item=-1180270694#notes:Tier C - PvE 4.4 - PvP 2.5
+dimwishlist:item=-2782325302#notes:Tier C - PvE 4.4 - PvP 2.5
+dimwishlist:item=-2782325301#notes:Tier C - PvE 4.4 - PvP 4.1
+dimwishlist:item=-1180270693#notes:Tier C - PvE 4.4 - PvP 4.1
+dimwishlist:item=-2782325300#notes:Tier D - PvE 3.1 - PvP 4.0
+dimwishlist:item=-1180270692#notes:Tier D - PvE 3.1 - PvP 4.0
+dimwishlist:item=-1313528549#notes:Tier D - PvE 4.4 - PvP 3.8
+dimwishlist:item=-3847137620#notes:Tier D - PvE 4.4 - PvP 3.8
+dimwishlist:item=-3704653637#notes:PvE 5.0 - PvP 3.4
+dimwishlist:item=-4230993599#notes:Tier C - PvE 4.0 - PvP 1.4
+dimwishlist:item=-4174481098#notes:Tier C - PvE 4.0 - PvP 1.4
+dimwishlist:item=-2891976012
+dimwishlist:item=-1447973651
+dimwishlist:item=-2891976013
+dimwishlist:item=-1447973650
+dimwishlist:item=-276918162
+dimwishlist:item=-1490571337
+dimwishlist:item=-287042893
+dimwishlist:item=-1018072983#notes:PvE 4.0 - PvP 3.0
+dimwishlist:item=-2683682446
+dimwishlist:item=-2683682447
+dimwishlist:item=-287042894
+dimwishlist:item=-425681240#notes:Tier C - PvE 4.4 - PvP 2.6
+dimwishlist:item=-413901114#notes:Tier C - PvE 4.4 - PvP 2.6
+dimwishlist:item=-616582330#notes:Tier C - PvE 3.6 - PvP 2.1
+dimwishlist:item=-2721157927#notes:Tier C - PvE 2.6 - PvP 1.7
+dimwishlist:item=-2453357042#notes:Tier C - PvE 3.5 - PvP 2.8
+dimwishlist:item=-3565520715#notes:Tier C - PvE 4.5 - PvP 3.6
+dimwishlist:item=-407621213#notes:Tier C - PvE 4.4 - PvP 2.7
+dimwishlist:item=-1983332562#notes:Tier C - PvE 4.4 - PvP 2.7
+dimwishlist:item=-3690523502#notes:Tier C - PvE 4.1 - PvP 2.7
+dimwishlist:item=-736901634#notes:PvE 4.6 - PvP 3.5
+dimwishlist:item=-1757129747#notes:PvE 5.0 - PvP 3.0
+dimwishlist:item=-195440257#notes:PvE 1.5 - PvP 4.5
+dimwishlist:item=-2621637518#notes:PvE 1.5 - PvP 4.5
+dimwishlist:item=-301362380#notes:PvE 4.0 - PvP 4.0
+dimwishlist:item=-301362381#notes:PvE 2.0 - PvP 1.3
+dimwishlist:item=-3493948735
+dimwishlist:item=-1120843238
+dimwishlist:item=-3493948734
+dimwishlist:item=-1120843239
+dimwishlist:item=-1489452902#notes:PvE 4.0 - PvP 3.5
+dimwishlist:item=-1720373217
+dimwishlist:item=-3886263130#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-4213221671#notes:PvE 5.0 - PvP 5.0
+dimwishlist:item=-896923850#notes:PvE 5.0 - PvP 3.0
+dimwishlist:item=-1757129747#notes:PvE 5.0 - PvP 3.0
+dimwishlist:item=-1983332561#notes:PvE 3.0 - PvP 4.0
+dimwishlist:item=-807192446
+dimwishlist:item=-2936850734
+dimwishlist:item=-3246523828
+dimwishlist:item=-3246523831
+dimwishlist:item=-2936850735
+dimwishlist:item=-4233375372#notes:Tier C - PvE 4.2 - PvP 2.6
+dimwishlist:item=-105306149#notes:Tier C - PvE 3.3 - PvP 1.9
+dimwishlist:item=-2187717691#notes:Tier C - PvE 4.7 - PvP 3.2
+dimwishlist:item=-566740455#notes:Tier C - PvE 3.7 - PvP 3.1
+dimwishlist:item=-3836861464#notes:Tier C - PvE 3.7 - PvP 3.1
+dimwishlist:item=-47772649#notes:Tier C - PvE 3.7 - PvP 3.1
+dimwishlist:item=-2759590322#notes:Tier C - PvE 3.7 - PvP 3.1
+dimwishlist:item=-820890091#notes:Tier D - PvE 3.9 - PvP 2.8
+dimwishlist:item=-3248429089#notes:Tier C - PvE 4.0 - PvP 4.2
+dimwishlist:item=-1321506184#notes:Tier C - PvE 4.0 - PvP 4.2
+dimwishlist:item=-3105930175#notes:Tier C - PvE 3.5 - PvP 2.1
+dimwishlist:item=-2434225986#notes:Tier D - PvE 4.2 - PvP 3.4
+dimwishlist:item=-3117873459
+dimwishlist:item=-1766088024#notes:Tier C - PvE 4.5 - PvP 3.4
+dimwishlist:item=-2582755344#notes:Tier D - PvE 4.1 - PvP 3.3
+dimwishlist:item=-3325778512#notes:Tier C - PvE 4.1 - PvP 2.9
+dimwishlist:item=-847329160#notes:PvE 3.8 - PvP 2.2
+dimwishlist:item=-3369545945#notes:PvE 2.9 - PvP 2.3
+dimwishlist:item=-1496419775#notes:PvE 4.8 - PvP 4.3
+dimwishlist:item=-1600633250#notes:PvE 4.8 - PvP 3.6
+dimwishlist:item=-602331467
+dimwishlist:item=-602331464
+dimwishlist:item=-602331466
+dimwishlist:item=-474671201
+dimwishlist:item=-602331465
+dimwishlist:item=-4224667951#notes:Tier C - PvE 3.8 - PvP 3.0
+dimwishlist:item=-4195186942#notes:Tier C - PvE 3.6 - PvP 2.3
+dimwishlist:item=-2140635451#notes:Tier C - PvE 3.6 - PvP 3.4
+dimwishlist:item=-3740842661#notes:Tier C - PvE 3.6 - PvP 3.4
+dimwishlist:item=-308332265#notes:Tier C - PvE 3.2 - PvP 3.9
+dimwishlist:item=-4009352833#notes:Tier C - PvE 3.2 - PvP 3.9
+dimwishlist:item=-2231910050#notes:Tier C - PvE 3.2 - PvP 3.9
+dimwishlist:item=-1959650777#notes:Tier C - PvE 4.2 - PvP 2.9
+dimwishlist:item=-3489657138#notes:Tier D - PvE 4.7 - PvP 3.8
+dimwishlist:item=-3175851496#notes:Tier D - PvE 4.1 - PvP 2.5
+dimwishlist:item=-725408022#notes:Tier C - PvE 3.9 - PvP 3.0
+dimwishlist:item=-4255171531#notes:Tier C - PvE 4.7 - PvP 3.0
+dimwishlist:item=-1866778462#notes:Tier C - PvE 4.7 - PvP 3.0
+dimwishlist:item=-2496242052#notes:Tier D - PvE 4.8 - PvP 3.0
+dimwishlist:item=-2448907086#notes:Tier C - PvE 4.9 - PvP 3.6
+dimwishlist:item=-42351395#notes:Tier D - PvE 4.5 - PvP 3.5
+dimwishlist:item=-2817798849#notes:Tier D - PvE 3.9 - PvP 3.6
+dimwishlist:item=-417474224#notes:Tier D - PvE 3.9 - PvP 3.6
+dimwishlist:item=-3669616453#notes:Tier D - PvE 3.9 - PvP 3.6
+dimwishlist:item=-1529450902#notes:PvE 3.7 - PvP 3.5
+dimwishlist:item=-417474225#notes:PvE 3.7 - PvP 3.5
+dimwishlist:item=-1289324202#notes:PvE 3.9 - PvP 2.5
+dimwishlist:item=-4224667951#notes:Tier D - PvE 4.2 - PvP 2.7
+dimwishlist:item=-3067821200#notes:Tier D - PvE 4.2 - PvP 2.7
+dimwishlist:item=-136525518#notes:Tier D - PvE 4.6 - PvP 4.3
+dimwishlist:item=-432716552#notes:Tier D - PvE 4.6 - PvP 4.3
+dimwishlist:item=-2186258845#notes:PvE 4.8 - PvP 3.7
+dimwishlist:item=-2817798849#notes:PvE 4.0 - PvP 3.0
+dimwishlist:item=-991314988#notes:Tier D - PvE 4.8 - PvP 4.4
+dimwishlist:item=-1411084669#notes:PvE 4.3 - PvP 3.2
+dimwishlist:item=-3776129137#notes:PvE 4.3 - PvP 3.2
+dimwishlist:item=-1877183765
+dimwishlist:item=-4221925398
+dimwishlist:item=-4221925399
+dimwishlist:item=-1877183764
+dimwishlist:item=-1392429335
+dimwishlist:item=-4095462486#notes:PvE 2.0 - PvP 4.0
+dimwishlist:item=-2544285846#notes:PvE 5.0 - PvP 1.0
+dimwishlist:item=-4041111172#notes:PvE 1.5 - PvP 3.8
+dimwishlist:item=-2149166938
+dimwishlist:item=-2149166939
+dimwishlist:item=-2792181427
+dimwishlist:item=-417474226#notes:PvE 1.0 - PvP 5.0
+dimwishlist:item=-137879537#notes:PvE 5.0 - PvP 4.5
+dimwishlist:item=-3748713779
+dimwishlist:item=-3748713778
+dimwishlist:item=-3691881271#notes:PvE 4.0 - PvP 5.0
+dimwishlist:item=-372212741
+dimwishlist:item=-2037589099
 dimwishlist:item=3615748501&perks=776531651,2048641572#notes:Tier B - PvE 3.5 - PvP 2.5 - Excels PvE - Most Popular Combo (10.545%)
 dimwishlist:item=3615748501&perks=1134488199,2551157718#notes:Tier B - PvE 3.5 - PvP 2.5 - Excels PvE - Popular Combo (9.81%)
 dimwishlist:item=3615748501&perks=3987942396,2319119708#notes:Tier B - PvE 3.5 - PvP 2.5 - Excels PvE - Popular Combo (7.11%)
@@ -158,8 +950,6 @@ dimwishlist:item=1685533876&perks=3017780555#notes:Tier S - PvE 4.7 - PvP 3.5 - 
 dimwishlist:item=1685533876&perks=4293542123#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1685533876&perks=4071163871#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=1685533876&perks=3300816228#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE - Popular Perk 1
-dimwishlist:item=-2875763009#notes:Tier C - PvE 5.0
-dimwishlist:item=-74733286#notes:Tier C - PvE 5.0
 dimwishlist:item=4104613038&perks=3017780555,657025441#notes:Tier A - PvE 4.1 - PvP 1.6 - Excels PvE - Most Popular Combo (27.913%)
 dimwishlist:item=4104613038&perks=3017780555,2890807135#notes:Tier A - PvE 4.1 - PvP 1.6 - Excels PvE - Popular Combo (10.063%)
 dimwishlist:item=4104613038&perks=247725512,657025441#notes:Tier A - PvE 4.1 - PvP 1.6 - Excels PvE - Popular Combo (8.424%)
@@ -255,8 +1045,6 @@ dimwishlist:item=1242785638&perks=3218042543#notes:Tier A - Excels PvE - Most Po
 dimwishlist:item=1242785638&perks=2360347339#notes:Tier A - Excels PvE - Popular Perk 1
 dimwishlist:item=1242785638&perks=684456054#notes:Tier A - Excels PvE - Popular Perk 1
 dimwishlist:item=1242785638&perks=1888882410#notes:Tier A - Excels PvE - Popular Perk 2
-dimwishlist:item=-690412397#notes:PvE 5.0
-dimwishlist:item=-3421075982#notes:PvE 5.0
 dimwishlist:item=2872063099&perks=923806249,1015611457#notes:Tier S - PvE 4.1 - PvP 4.9 - Excels PvE + PvP - Most Popular Combo (73.724%)
 dimwishlist:item=2872063099&perks=923806249#notes:Tier S - PvE 4.1 - PvP 4.9 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=2872063099&perks=1015611457#notes:Tier S - PvE 4.1 - PvP 4.9 - Excels PvE + PvP - Most Popular Perk 2
@@ -612,10 +1400,6 @@ dimwishlist:item=190747610&perks=2848615171#notes:Tier A - PvE 4.7 - PvP 4.0 - E
 dimwishlist:item=4049127142&perks=3017780555,4293542123#notes:Tier S - PvE 5.0 - PvP 5.0 - Excels PvE - Most Popular Combo (33.573%)
 dimwishlist:item=4049127142&perks=3017780555#notes:Tier S - PvE 5.0 - PvP 5.0 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=4049127142&perks=4293542123#notes:Tier S - PvE 5.0 - PvP 5.0 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-407150808#notes:Tier C - PvE 4.0 - PvP 2.0
-dimwishlist:item=-407150809#notes:Tier C - PvE 4.0 - PvP 2.0
-dimwishlist:item=-407150810#notes:Tier C - PvE 4.0 - PvP 2.0
-dimwishlist:item=-3576134513#notes:Tier C - PvE 4.0 - PvP 2.0
 dimwishlist:item=4169082039&perks=776531651,2048641572#notes:Tier A - PvE 5.0 - Excels PvE - Most Popular Combo (35.54%)
 dimwishlist:item=4169082039&perks=776531651#notes:Tier A - PvE 5.0 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=4169082039&perks=2048641572#notes:Tier A - PvE 5.0 - Excels PvE - Most Popular Perk 2
@@ -1293,7 +2077,6 @@ dimwishlist:item=3623686757&perks=3987942396#notes:Tier S - PvE 5.0 - PvP 3.4 - 
 dimwishlist:item=3623686757&perks=3078487919#notes:Tier S - PvE 5.0 - PvP 3.4 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3623686757&perks=3643424744#notes:Tier S - PvE 5.0 - PvP 3.4 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3623686757&perks=1089671869#notes:Tier S - PvE 5.0 - PvP 3.4 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-342027677#notes:Tier C - PvE 2.8 - PvP 2.4
 dimwishlist:item=2666273249&perks=2173046394,2396489472#notes:Tier B - PvE 3.3 - PvP 1.0 - Excels PvE - Most Popular Combo (14.38%)
 dimwishlist:item=2666273249&perks=2173046394,3218042543#notes:Tier B - PvE 3.3 - PvP 1.0 - Excels PvE - Popular Combo (11.752%)
 dimwishlist:item=2666273249&perks=968510818,2396489472#notes:Tier B - PvE 3.3 - PvP 1.0 - Excels PvE - Popular Combo (5.248%)
@@ -1748,7 +2531,6 @@ dimwishlist:item=2595813005&perks=1354429876#notes:Tier A - PvE 4.0 - PvP 4.1 - 
 dimwishlist:item=2595813005&perks=3038247973#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=2595813005&perks=3619207468#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Popular Perk 1
 dimwishlist:item=2595813005&perks=555281244#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Popular Perk 2
-dimwishlist:item=-1587953057#notes:Tier D - PvE 3.9 - PvP 3.0
 dimwishlist:item=2730671571&perks=1523832109,3966416502#notes:Tier A - PvE 3.4 - PvP 2.1 - Excels PvE - Most Popular Combo (11.586%)
 dimwishlist:item=2730671571&perks=1523832109,3218042543#notes:Tier A - PvE 3.4 - PvP 2.1 - Excels PvE - Popular Combo (8.058%)
 dimwishlist:item=2730671571&perks=2848615171,3966416502#notes:Tier A - PvE 3.4 - PvP 2.1 - Excels PvE - Popular Combo (7.009%)
@@ -1906,7 +2688,6 @@ dimwishlist:item=2856225832&perks=557221067#notes:Tier S - PvE 4.8 - PvP 3.2 - E
 dimwishlist:item=737409399&perks=3592538738,31345821#notes:Tier S - PvE 4.8 - PvP 3.2 - Excels PvE + PvP - Most Popular Combo (46.209%)
 dimwishlist:item=737409399&perks=3592538738#notes:Tier S - PvE 4.8 - PvP 3.2 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=737409399&perks=31345821#notes:Tier S - PvE 4.8 - PvP 3.2 - Excels PvE + PvP - Most Popular Perk 2
-dimwishlist:item=-690341468#notes:Tier C - PvE 3.0 - PvP 2.8
 dimwishlist:item=1206729100&perks=3987942396,3078487919#notes:Tier A - PvE 4.3 - PvP 2.8 - Excels PvE - Most Popular Combo (11.206%)
 dimwishlist:item=1206729100&perks=776531651,2048641572#notes:Tier A - PvE 4.3 - PvP 2.8 - Excels PvE - Popular Combo (9.359%)
 dimwishlist:item=1206729100&perks=3300816228,2048641572#notes:Tier A - PvE 4.3 - PvP 2.8 - Excels PvE - Popular Combo (7.113%)
@@ -1959,7 +2740,6 @@ dimwishlist:item=3621336854&perks=201365942#notes:Tier S - PvE 4.5 - PvP 4.1 - E
 dimwishlist:item=3621336854&perks=3891536761#notes:Tier S - PvE 4.5 - PvP 4.1 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3621336854&perks=2652708987#notes:Tier S - PvE 4.5 - PvP 4.1 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3621336854&perks=3414324643#notes:Tier S - PvE 4.5 - PvP 4.1 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-425681240#notes:Tier C - PvE 4.4 - PvP 2.6
 dimwishlist:item=1845372864&perks=2859149211,2173046394#notes:Tier S - PvE 4.2 - PvP 2.5 - Excels PvE + PvP - Most Popular Combo (9.664%)
 dimwishlist:item=1845372864&perks=684456054,2173046394#notes:Tier S - PvE 4.2 - PvP 2.5 - Excels PvE + PvP - Popular Combo (6.848%)
 dimwishlist:item=1845372864&perks=1421772400,2173046394#notes:Tier S - PvE 4.2 - PvP 2.5 - Excels PvE + PvP - Popular Combo (5.359%)
@@ -2079,7 +2859,6 @@ dimwishlist:item=3433930495&perks=2048641572#notes:Tier B - PvE 4.5 - PvP 4.8 - 
 dimwishlist:item=3433930495&perks=2579169598#notes:Tier B - PvE 4.5 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=3433930495&perks=2387244414#notes:Tier B - PvE 4.5 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=3433930495&perks=460017080#notes:Tier B - PvE 4.5 - PvP 4.8 - Excels PvP - Popular Perk 2
-dimwishlist:item=-4224667951#notes:Tier D - PvE 4.2 - PvP 2.7
 dimwishlist:item=2761869150&perks=3161816588,4104185692#notes:Tier B - PvE 4.6 - PvP 3.0 - Excels PvE - Most Popular Combo (13.587%)
 dimwishlist:item=2761869150&perks=3161816588,1546637391#notes:Tier B - PvE 4.6 - PvP 3.0 - Excels PvE - Popular Combo (11.362%)
 dimwishlist:item=2761869150&perks=3161816588,563069569#notes:Tier B - PvE 4.6 - PvP 3.0 - Excels PvE - Popular Combo (9.9%)
@@ -2128,7 +2907,6 @@ dimwishlist:item=2599338624&perks=1955165503#notes:Tier S - PvE 4.3 - PvP 3.0 - 
 dimwishlist:item=2599338624&perks=2978966579#notes:Tier S - PvE 4.3 - PvP 3.0 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2599338624&perks=3987942396#notes:Tier S - PvE 4.3 - PvP 3.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=2599338624&perks=2039302152#notes:Tier S - PvE 4.3 - PvP 3.0 - Excels PvE - Popular Perk 1
-dimwishlist:item=-3612142623#notes:Tier C - PvE 4.1 - PvP 4.4
 dimwishlist:item=2477980485&perks=2579169598,1194056669#notes:Tier S - PvE 4.1 - PvP 4.7 - Excels PvP - Most Popular Combo (11.121%)
 dimwishlist:item=2477980485&perks=957782887,47981717#notes:Tier S - PvE 4.1 - PvP 4.7 - Excels PvP - Popular Combo (8.249%)
 dimwishlist:item=2477980485&perks=957782887,1194056669#notes:Tier S - PvE 4.1 - PvP 4.7 - Excels PvP - Popular Combo (7.45%)
@@ -2144,8 +2922,6 @@ dimwishlist:item=3483485727&perks=3987942396#notes:Tier B - PvE 4.8 - PvP 0.8 - 
 dimwishlist:item=3483485727&perks=3078487919#notes:Tier B - PvE 4.8 - PvP 0.8 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3483485727&perks=1523832109#notes:Tier B - PvE 4.8 - PvP 0.8 - Excels PvE - Popular Perk 1
 dimwishlist:item=3483485727&perks=968510818#notes:Tier B - PvE 4.8 - PvP 0.8 - Excels PvE - Popular Perk 1
-dimwishlist:item=-2848549302#notes:Tier D - PvE 1.7 - PvP 1.6
-dimwishlist:item=-825495813#notes:Tier C - PvE 3.9 - PvP 2.2 - Excels PvE
 dimwishlist:item=147444292&perks=1354429876,555281244#notes:Tier A - PvE 3.9 - PvP 4.3 - Excels PvE + PvP - Most Popular Combo (14.88%)
 dimwishlist:item=147444292&perks=1354429876,1546637391#notes:Tier A - PvE 3.9 - PvP 4.3 - Excels PvE + PvP - Popular Combo (5.505%)
 dimwishlist:item=147444292&perks=2579169598,957782887#notes:Tier A - PvE 3.9 - PvP 4.3 - Excels PvE + PvP - Popular Combo (3.681%)
@@ -2393,7 +3169,6 @@ dimwishlist:item=601948197&perks=3913600130#notes:Tier A - PvE 4.4 - PvP 2.7 - E
 dimwishlist:item=2198166292&perks=3017780555,4293542123#notes:Tier A - PvE 4.9 - PvP 2.4 - Excels PvE - Most Popular Combo (63.208%)
 dimwishlist:item=2198166292&perks=3017780555#notes:Tier A - PvE 4.9 - PvP 2.4 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=2198166292&perks=4293542123#notes:Tier A - PvE 4.9 - PvP 2.4 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-1890332078#notes:Tier D - PvE 3.9 - PvP 1.6
 dimwishlist:item=3969379530&perks=1645158859,460017080#notes:Tier A - PvE 4.3 - PvP 4.5 - Excels PvP - Most Popular Combo (14.036%)
 dimwishlist:item=3969379530&perks=2387244414,460017080#notes:Tier A - PvE 4.3 - PvP 4.5 - Excels PvP - Popular Combo (7.8%)
 dimwishlist:item=3969379530&perks=3619207468,460017080#notes:Tier A - PvE 4.3 - PvP 4.5 - Excels PvP - Popular Combo (6.385%)
@@ -2417,7 +3192,6 @@ dimwishlist:item=3867373351&perks=1523832109#notes:Tier A - PvE 4.5 - PvP 3.8 - 
 dimwishlist:item=3867373351&perks=2594592626#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3867373351&perks=3523296417#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3867373351&perks=4293542123#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-4152016199#notes:Tier C - PvE 3.0 - PvP 4.4
 dimwishlist:item=496728945&perks=124408337,2848615171#notes:Tier B - PvE 4.9 - PvP 3.8 - Most Popular Combo (30.816%)
 dimwishlist:item=496728945&perks=124408337,3523296417#notes:Tier B - PvE 4.9 - PvP 3.8 - Popular Combo (10.58%)
 dimwishlist:item=496728945&perks=124408337,2109543898#notes:Tier B - PvE 4.9 - PvP 3.8 - Popular Combo (4.276%)
@@ -2461,7 +3235,6 @@ dimwishlist:item=4169225313&perks=4071163871#notes:Tier S - PvE 3.6 - PvP 4.4 - 
 dimwishlist:item=4169225313&perks=47981717#notes:Tier S - PvE 3.6 - PvP 4.4 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=4169225313&perks=3161816588#notes:Tier S - PvE 3.6 - PvP 4.4 - Excels PvP - Popular Perk 1
 dimwishlist:item=4169225313&perks=1821614984#notes:Tier S - PvE 3.6 - PvP 4.4 - Excels PvP - Popular Perk 1
-dimwishlist:item=-423343404#notes:Tier C - PvE 3.8 - PvP 4.1
 dimwishlist:item=2126178511&perks=3828510309,2173046394#notes:Tier A - PvE 4.4 - PvP 4.0 - Excels PvE - Most Popular Combo (20.92%)
 dimwishlist:item=2126178511&perks=684456054,2173046394#notes:Tier A - PvE 4.4 - PvP 4.0 - Excels PvE - Popular Combo (13.73%)
 dimwishlist:item=2126178511&perks=1428297954,2173046394#notes:Tier A - PvE 4.4 - PvP 4.0 - Excels PvE - Popular Combo (7.407%)
@@ -2506,7 +3279,6 @@ dimwishlist:item=4106757302&perks=1523832109#notes:Tier A - PvE 3.2 - PvP 2.3 - 
 dimwishlist:item=4106757302&perks=3078487919#notes:Tier A - PvE 3.2 - PvP 2.3 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=4106757302&perks=1439600632#notes:Tier A - PvE 3.2 - PvP 2.3 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=4106757302&perks=968510818#notes:Tier A - PvE 3.2 - PvP 2.3 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-499245245#notes:Tier C - PvE 4.8 - PvP 3.5
 dimwishlist:item=2821677368&perks=3418782618,555281244#notes:Tier A - PvE 4.2 - PvP 3.5 - Excels PvE + PvP - Most Popular Combo (11.663%)
 dimwishlist:item=2821677368&perks=3418782618,1354429876#notes:Tier A - PvE 4.2 - PvP 3.5 - Excels PvE + PvP - Popular Combo (10.047%)
 dimwishlist:item=2821677368&perks=1523832109,555281244#notes:Tier A - PvE 4.2 - PvP 3.5 - Excels PvE + PvP - Popular Combo (8.674%)
@@ -2529,7 +3301,6 @@ dimwishlist:item=627188188&perks=47981717#notes:Tier S - PvE 2.3 - PvP 4.8 - Exc
 dimwishlist:item=1321626661&perks=588594999,3619207468#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Most Popular Combo (67.33%)
 dimwishlist:item=1321626661&perks=588594999#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Most Popular Perk 1
 dimwishlist:item=1321626661&perks=3619207468#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Most Popular Perk 2
-dimwishlist:item=-4195186942#notes:Tier C - PvE 3.6 - PvP 2.3
 dimwishlist:item=4207120603&perks=4293542123,2396489472#notes:Tier B - PvE 5.0 - PvP 1.0 - Excels PvE - Most Popular Combo (26.179%)
 dimwishlist:item=4207120603&perks=1749209109,3078487919#notes:Tier B - PvE 5.0 - PvP 1.0 - Excels PvE - Popular Combo (7.4%)
 dimwishlist:item=4207120603&perks=243981275,2396489472#notes:Tier B - PvE 5.0 - PvP 1.0 - Excels PvE - Popular Combo (3.923%)
@@ -2610,7 +3381,6 @@ dimwishlist:item=2839600459&perks=1820235745#notes:Tier A - PvE 4.5 - PvP 3.0 - 
 dimwishlist:item=2839600459&perks=557221067#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2839600459&perks=923806249#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=2839600459&perks=365154968#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3428407746#notes:Tier C - PvE 3.7 - PvP 4.8
 dimwishlist:item=2450049485&perks=2284787283,3078487919#notes:Tier B - PvE 4.7 - PvP 4.0 - Most Popular Combo (23.732%)
 dimwishlist:item=2450049485&perks=247725512,3078487919#notes:Tier B - PvE 4.7 - PvP 4.0 - Popular Combo (13.436%)
 dimwishlist:item=2450049485&perks=3993379141,3078487919#notes:Tier B - PvE 4.7 - PvP 4.0 - Popular Combo (7.909%)
@@ -2686,7 +3456,6 @@ dimwishlist:item=892183998&perks=3017780555#notes:Tier S - PvE 5.0 - PvP 3.4 - E
 dimwishlist:item=892183998&perks=4293542123#notes:Tier S - PvE 5.0 - PvP 3.4 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=892183998&perks=3824105627#notes:Tier S - PvE 5.0 - PvP 3.4 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=892183998&perks=3640170453#notes:Tier S - PvE 5.0 - PvP 3.4 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2826850739#notes:PvE 3.6 - PvP 4.0
 dimwishlist:item=2249996761&perks=247725512,3038247973#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE - Most Popular Combo (19.377%)
 dimwishlist:item=2249996761&perks=3400784728,3891536761#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE - Popular Combo (10.859%)
 dimwishlist:item=2249996761&perks=3400784728,3038247973#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE - Popular Combo (10.819%)
@@ -2809,7 +3578,6 @@ dimwishlist:item=2350330520&perks=2173046394#notes:Tier B - PvE 4.4 - PvP 4.6 - 
 dimwishlist:item=3232203524&perks=4071163871,47981717#notes:Tier S - PvE 3.0 - PvP 5.0 - Excels PvE + PvP - Most Popular Combo (40.947%)
 dimwishlist:item=3232203524&perks=4071163871#notes:Tier S - PvE 3.0 - PvP 5.0 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=3232203524&perks=47981717#notes:Tier S - PvE 3.0 - PvP 5.0 - Excels PvE + PvP - Most Popular Perk 2
-dimwishlist:item=-586671776#notes:Tier C - PvE 3.9 - PvP 3.5
 dimwishlist:item=412251536&perks=968510818,4293542123#notes:Tier A - PvE 3.6 - PvP 1.8 - Excels PvE - Most Popular Combo (23.212%)
 dimwishlist:item=412251536&perks=3017780555,4293542123#notes:Tier A - PvE 3.6 - PvP 1.8 - Excels PvE - Popular Combo (10.895%)
 dimwishlist:item=412251536&perks=968510818,557221067#notes:Tier A - PvE 3.6 - PvP 1.8 - Excels PvE - Popular Combo (5.926%)
@@ -2855,8 +3623,6 @@ dimwishlist:item=3947966653&perks=4049631843#notes:Tier A - PvE 4.9 - PvP 2.6 - 
 dimwishlist:item=3947966653&perks=2859149211#notes:Tier A - PvE 4.9 - PvP 2.6 - Excels PvE - Popular Perk 1
 dimwishlist:item=3947966653&perks=1546637391#notes:Tier A - PvE 4.9 - PvP 2.6 - Excels PvE - Popular Perk 2
 dimwishlist:item=3947966653&perks=831391274#notes:Tier A - PvE 4.9 - PvP 2.6 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2800870005#notes:Tier D - PvE 3.6 - PvP 3.9
-dimwishlist:item=-417100299#notes:Tier D - PvE 3.8 - PvP 4.0
 dimwishlist:item=3754408118&perks=776531651,2048641572#notes:Tier S - PvE 3.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (16.238%)
 dimwishlist:item=3754408118&perks=1890422124,365154968#notes:Tier S - PvE 3.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (7.958%)
 dimwishlist:item=3754408118&perks=2387244414,365154968#notes:Tier S - PvE 3.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (7.105%)
@@ -2911,7 +3677,6 @@ dimwishlist:item=3610521673&perks=1354429876#notes:Tier A - PvE 4.3 - PvP 3.7 - 
 dimwishlist:item=3610521673&perks=555281244#notes:Tier A - PvE 4.3 - PvP 3.7 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3610521673&perks=3978468247#notes:Tier A - PvE 4.3 - PvP 3.7 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3610521673&perks=1546637391#notes:Tier A - PvE 4.3 - PvP 3.7 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3685470415#notes:Tier C - PvE 2.7 - PvP 2.1
 dimwishlist:item=2152484073&perks=3523296417,3425386926#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Most Popular Combo (12.136%)
 dimwishlist:item=2152484073&perks=1428297954,3425386926#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Combo (11.074%)
 dimwishlist:item=2152484073&perks=1354429876,1546637391#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Combo (10.535%)
@@ -2931,7 +3696,6 @@ dimwishlist:item=3250744600&perks=1354429876#notes:Tier S - PvE 4.2 - PvP 3.2 - 
 dimwishlist:item=3250744600&perks=1546637391#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3250744600&perks=3828510309#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3250744600&perks=4104185692#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3959549446#notes:Tier C - PvE 4.2 - PvP 2.9
 dimwishlist:item=4097972038&perks=4071163871,47981717#notes:Tier S - PvE 4.4 - PvP 3.4 - Excels PvE + PvP - Most Popular Combo (9.914%)
 dimwishlist:item=4097972038&perks=3161816588,47981717#notes:Tier S - PvE 4.4 - PvP 3.4 - Excels PvE + PvP - Popular Combo (8.711%)
 dimwishlist:item=4097972038&perks=3511092054,47981717#notes:Tier S - PvE 4.4 - PvP 3.4 - Excels PvE + PvP - Popular Combo (6.059%)
@@ -3014,7 +3778,6 @@ dimwishlist:item=2026755633&perks=1820235745#notes:Tier B - PvE 4.8 - PvP 3.7 - 
 dimwishlist:item=2026755633&perks=95528736#notes:Tier B - PvE 4.8 - PvP 3.7 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2026755633&perks=3700496672#notes:Tier B - PvE 4.8 - PvP 3.7 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2026755633&perks=3891536761#notes:Tier B - PvE 4.8 - PvP 3.7 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3206190066#notes:Tier D - PvE 3.9 - PvP 3.4
 dimwishlist:item=1719687748&perks=1523832109,3194351027#notes:Tier A - PvE 4.7 - PvP 2.7 - Excels PvE - Most Popular Combo (11.226%)
 dimwishlist:item=1719687748&perks=1523832109,1439600632#notes:Tier A - PvE 4.7 - PvP 2.7 - Excels PvE - Popular Combo (11.147%)
 dimwishlist:item=1719687748&perks=2284787283,3194351027#notes:Tier A - PvE 4.7 - PvP 2.7 - Excels PvE - Popular Combo (8.035%)
@@ -3041,7 +3804,6 @@ dimwishlist:item=105164264&perks=776531651#notes:Tier A - PvE 4.4 - PvP 3.2 - Ex
 dimwishlist:item=105164264&perks=2048641572#notes:Tier A - PvE 4.4 - PvP 3.2 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=105164264&perks=2244851822#notes:Tier A - PvE 4.4 - PvP 3.2 - Excels PvE - Popular Perk 1
 dimwishlist:item=105164264&perks=1749209109#notes:Tier A - PvE 4.4 - PvP 3.2 - Excels PvE - Popular Perk 1
-dimwishlist:item=-3668817296#notes:Tier D - PvE 3.2 - PvP 1.8
 dimwishlist:item=2228325504&perks=968510818,3078487919#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Most Popular Combo (23.107%)
 dimwishlist:item=2228325504&perks=3751912585,3078487919#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Combo (8.118%)
 dimwishlist:item=2228325504&perks=3300816228,3078487919#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Combo (6.645%)
@@ -3090,8 +3852,6 @@ dimwishlist:item=2059255495&perks=588594999#notes:Tier S - PvE 2.3 - PvP 4.8 - E
 dimwishlist:item=2059255495&perks=957782887#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=2059255495&perks=2866798147#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=2059255495&perks=47981717#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 2
-dimwishlist:item=-243425374#notes:PvE 4.9 - PvP 3.0
-dimwishlist:item=-1815105249#notes:PvE 4.9 - PvP 3.0
 dimwishlist:item=2480074702&perks=3523296417,2396489472#notes:Tier S - PvE 4.9 - PvP 2.2 - Excels PvE - Most Popular Combo (16.714%)
 dimwishlist:item=2480074702&perks=2010801679,2396489472#notes:Tier S - PvE 4.9 - PvP 2.2 - Excels PvE - Popular Combo (15.729%)
 dimwishlist:item=2480074702&perks=1583705720,2396489472#notes:Tier S - PvE 4.9 - PvP 2.2 - Excels PvE - Popular Combo (12.215%)
@@ -3151,7 +3911,6 @@ dimwishlist:item=1453235079&perks=3891536761#notes:Tier A - PvE 4.5 - PvP 3.8 - 
 dimwishlist:item=1453235079&perks=3824105627#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1453235079&perks=3700496672#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Popular Perk 1
 dimwishlist:item=1453235079&perks=3038247973#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2045811635#notes:Tier C - PvE 4.0 - PvP 3.5
 dimwishlist:item=4248997900&perks=1820235745,557221067#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Most Popular Combo (16.52%)
 dimwishlist:item=4248997900&perks=923806249,365154968#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Combo (7.195%)
 dimwishlist:item=4248997900&perks=1820235745,365154968#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Combo (6.73%)
@@ -3186,7 +3945,6 @@ dimwishlist:item=2969415423&perks=1954620775#notes:Tier A - PvE 4.0 - PvP 3.1 - 
 dimwishlist:item=2969415423&perks=3161816588#notes:Tier A - PvE 4.0 - PvP 3.1 - Excels PvP - Popular Perk 1
 dimwishlist:item=2969415423&perks=3523296417#notes:Tier A - PvE 4.0 - PvP 3.1 - Excels PvP - Popular Perk 1
 dimwishlist:item=2969415423&perks=47981717#notes:Tier A - PvE 4.0 - PvP 3.1 - Excels PvP - Popular Perk 2
-dimwishlist:item=-2189073092#notes:Tier C - PvE 3.7 - PvP 4.8
 dimwishlist:item=3710082365&perks=2652708987,3993379141#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Most Popular Combo (10.964%)
 dimwishlist:item=3710082365&perks=951095735,3365897133#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Popular Combo (9.74%)
 dimwishlist:item=3710082365&perks=951095735,1683379515#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Popular Combo (8.612%)
@@ -3216,7 +3974,6 @@ dimwishlist:item=3757612024&perks=4293542123#notes:Tier A - PvE 4.3 - PvP 4.6 - 
 dimwishlist:item=3757612024&perks=699525795#notes:Tier A - PvE 4.3 - PvP 4.6 - Excels PvP - Popular Perk 1
 dimwishlist:item=3757612024&perks=3161816588#notes:Tier A - PvE 4.3 - PvP 4.6 - Excels PvP - Popular Perk 1
 dimwishlist:item=3757612024&perks=2720533289#notes:Tier A - PvE 4.3 - PvP 4.6 - Excels PvP - Popular Perk 2
-dimwishlist:item=-4233375372#notes:Tier C - PvE 4.2 - PvP 2.6
 dimwishlist:item=2763843898&perks=3038247973,3891536761#notes:Tier S - PvE 4.8 - PvP 4.1 - Excels PvE - Most Popular Combo (14.323%)
 dimwishlist:item=2763843898&perks=3824105627,3891536761#notes:Tier S - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Combo (12.404%)
 dimwishlist:item=2763843898&perks=3824105627,4049631843#notes:Tier S - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Combo (8.769%)
@@ -3251,8 +4008,6 @@ dimwishlist:item=2806569825&perks=1523832109#notes:Tier A - PvE 2.9 - PvP 1.4 - 
 dimwishlist:item=2806569825&perks=555281244#notes:Tier A - PvE 2.9 - PvP 1.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2806569825&perks=923806249#notes:Tier A - PvE 2.9 - PvP 1.4 - Excels PvE - Popular Perk 2
 dimwishlist:item=2806569825&perks=3523296417#notes:Tier A - PvE 2.9 - PvP 1.4 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2817683783#notes:Tier C - PvE 3.7 - PvP 4.5
-dimwishlist:item=-3926811686#notes:Tier C - PvE 4.8 - PvP 3.1
 dimwishlist:item=3483591058&perks=2848615171,2173046394#notes:Tier A - PvE 3.2 - PvP 4.7 - Excels PvE + PvP - Most Popular Combo (10.657%)
 dimwishlist:item=3483591058&perks=2387244414,365154968#notes:Tier A - PvE 3.2 - PvP 4.7 - Excels PvE + PvP - Popular Combo (8.58%)
 dimwishlist:item=3483591058&perks=3619207468,365154968#notes:Tier A - PvE 3.2 - PvP 4.7 - Excels PvE + PvP - Popular Combo (7.213%)
@@ -3312,7 +4067,6 @@ dimwishlist:item=2563668388&perks=460017080#notes:Tier A - PvE 2.5 - PvP 5.0 - E
 dimwishlist:item=2558925366&perks=3643424744,2594592626#notes:Tier S - PvE 4.9 - PvP 3.3 - Excels PvE + PvP - Most Popular Combo (60.931%)
 dimwishlist:item=2558925366&perks=3643424744#notes:Tier S - PvE 4.9 - PvP 3.3 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=2558925366&perks=2594592626#notes:Tier S - PvE 4.9 - PvP 3.3 - Excels PvE + PvP - Most Popular Perk 2
-dimwishlist:item=-2140635451#notes:Tier C - PvE 3.6 - PvP 3.4
 dimwishlist:item=1891321753&perks=588594999,460017080#notes:Tier B - PvE 4.5 - PvP 4.4 - Excels PvP - Most Popular Combo (9.088%)
 dimwishlist:item=1891321753&perks=588594999,1015611457#notes:Tier B - PvE 4.5 - PvP 4.4 - Excels PvP - Popular Combo (6.266%)
 dimwishlist:item=1891321753&perks=2450788523,460017080#notes:Tier B - PvE 4.5 - PvP 4.4 - Excels PvP - Popular Combo (4.91%)
@@ -3443,7 +4197,6 @@ dimwishlist:item=1292594730&perks=95528736#notes:Tier A - PvE 4.4 - PvP 4.6 - Ex
 dimwishlist:item=655712834&perks=776531651,2048641572#notes:Tier S - PvE 4.5 - PvP 3.9 - Excels PvE - Most Popular Combo (39.347%)
 dimwishlist:item=655712834&perks=776531651#notes:Tier S - PvE 4.5 - PvP 3.9 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=655712834&perks=2048641572#notes:Tier S - PvE 4.5 - PvP 3.9 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-2465372924#notes:Tier C - PvE 4.3 - PvP 4.2
 dimwishlist:item=1218113510&perks=968510818,2396489472#notes:Tier A - PvE 4.7 - PvP 2.2 - Excels PvE - Most Popular Combo (19.651%)
 dimwishlist:item=1218113510&perks=2039302152,2396489472#notes:Tier A - PvE 4.7 - PvP 2.2 - Excels PvE - Popular Combo (13.666%)
 dimwishlist:item=1218113510&perks=923806249,2396489472#notes:Tier A - PvE 4.7 - PvP 2.2 - Excels PvE - Popular Combo (13.226%)
@@ -3573,7 +4326,6 @@ dimwishlist:item=3782662983&perks=4293542123#notes:Tier A - PvE 4.8 - PvP 4.1 - 
 dimwishlist:item=3782662983&perks=1523832109#notes:Tier A - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=3782662983&perks=1820235745#notes:Tier A - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=3782662983&perks=365154968#notes:Tier A - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-413901114#notes:Tier C - PvE 4.4 - PvP 2.6
 dimwishlist:item=2779821308&perks=3619207468,3038247973#notes:Tier A - PvE 4.5 - PvP 4.8 - Excels PvE - Most Popular Combo (8.795%)
 dimwishlist:item=2779821308&perks=3700496672,3038247973#notes:Tier A - PvE 4.5 - PvP 4.8 - Excels PvE - Popular Combo (8.783%)
 dimwishlist:item=2779821308&perks=3619207468,2610012052#notes:Tier A - PvE 4.5 - PvP 4.8 - Excels PvE - Popular Combo (8.268%)
@@ -3601,8 +4353,6 @@ dimwishlist:item=874623537&perks=968510818#notes:Tier S - PvE 4.6 - PvP 4.1 - Ex
 dimwishlist:item=874623537&perks=3078487919#notes:Tier S - PvE 4.6 - PvP 4.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=874623537&perks=3300816228#notes:Tier S - PvE 4.6 - PvP 4.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=874623537&perks=3751912585#notes:Tier S - PvE 4.6 - PvP 4.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1296429091#notes:Tier C - PvE 4.8 - PvP 4.7
-dimwishlist:item=-105306149#notes:Tier C - PvE 3.3 - PvP 1.9
 dimwishlist:item=1432682459&perks=3619207468,555281244#notes:Tier S - PvE 4.7 - PvP 4.0 - Excels PvE - Most Popular Combo (17.017%)
 dimwishlist:item=1432682459&perks=247725512,555281244#notes:Tier S - PvE 4.7 - PvP 4.0 - Excels PvE - Popular Combo (7.858%)
 dimwishlist:item=1432682459&perks=3418782618,31345821#notes:Tier S - PvE 4.7 - PvP 4.0 - Excels PvE - Popular Combo (5.125%)
@@ -3681,7 +4431,6 @@ dimwishlist:item=3103255595&perks=1820235745#notes:Tier A - PvE 3.8 - PvP 3.4 - 
 dimwishlist:item=3103255595&perks=4293542123#notes:Tier A - PvE 3.8 - PvP 3.4 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3103255595&perks=3619207468#notes:Tier A - PvE 3.8 - PvP 3.4 - Excels PvP - Popular Perk 1
 dimwishlist:item=3103255595&perks=460017080#notes:Tier A - PvE 3.8 - PvP 3.4 - Excels PvP - Popular Perk 2
-dimwishlist:item=-1875512595#notes:Tier C - PvE 2.5 - PvP 3.7
 dimwishlist:item=4132072834&perks=3619207468,47981717#notes:Tier B - PvE 3.3 - PvP 4.6 - Excels PvE - Most Popular Combo (15.823%)
 dimwishlist:item=4132072834&perks=3619207468,124408337#notes:Tier B - PvE 3.3 - PvP 4.6 - Excels PvE - Popular Combo (10.109%)
 dimwishlist:item=4132072834&perks=3643424744,124408337#notes:Tier B - PvE 3.3 - PvP 4.6 - Excels PvE - Popular Combo (5.679%)
@@ -3753,7 +4502,6 @@ dimwishlist:item=578105049&perks=460017080#notes:Tier A - PvE 4.1 - PvP 4.0 - Ex
 dimwishlist:item=578105049&perks=3523296417#notes:Tier A - PvE 4.1 - PvP 4.0 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=578105049&perks=684456054#notes:Tier A - PvE 4.1 - PvP 4.0 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=578105049&perks=2173046394#notes:Tier A - PvE 4.1 - PvP 4.0 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-781498181#notes:Tier C - PvE 3.8 - PvP 4.3
 dimwishlist:item=888872889&perks=201365942,4082225868#notes:Tier S - PvE 3.3 - PvP 3.8 - Excels PvE + PvP - Most Popular Combo (11.998%)
 dimwishlist:item=888872889&perks=201365942,2848615171#notes:Tier S - PvE 3.3 - PvP 3.8 - Excels PvE + PvP - Popular Combo (10.758%)
 dimwishlist:item=888872889&perks=691659142,2848615171#notes:Tier S - PvE 3.3 - PvP 3.8 - Excels PvE + PvP - Popular Combo (9.626%)
@@ -3833,9 +4581,6 @@ dimwishlist:item=1239700299&perks=47981717#notes:Tier A - PvE 4.8 - PvP 3.9 - Ex
 dimwishlist:item=3347946548&perks=968510818,2594592626#notes:Tier S - PvE 4.8 - PvP 3.2 - Excels PvE - Most Popular Combo (39.908%)
 dimwishlist:item=3347946548&perks=968510818#notes:Tier S - PvE 4.8 - PvP 3.2 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=3347946548&perks=2594592626#notes:Tier S - PvE 4.8 - PvP 3.2 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-1161561386#notes:Tier D - PvE 3.8 - PvP 4.0
-dimwishlist:item=-1999754402#notes:Tier D - PvE 4.4 - PvP 3.8
-dimwishlist:item=-2510526114#notes:Tier C - PvE 4.3 - PvP 4.4 - Excels PvE + PvP
 dimwishlist:item=1821529912&perks=1354429876,1546637391#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Most Popular Combo (16.897%)
 dimwishlist:item=1821529912&perks=1354429876,3425386926#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Combo (7.078%)
 dimwishlist:item=1821529912&perks=1354429876,4104185692#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Combo (6.137%)
@@ -3900,7 +4645,6 @@ dimwishlist:item=1064132738&perks=3300816228#notes:Tier B - PvE 4.2 - PvP 3.5 - 
 dimwishlist:item=1064132738&perks=3927722942#notes:Tier B - PvE 4.2 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1064132738&perks=968510818#notes:Tier B - PvE 4.2 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1064132738&perks=1439600632#notes:Tier B - PvE 4.2 - PvP 3.5 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2832639510#notes:Tier D - PvE 4.6 - PvP 3.1
 dimwishlist:item=501329015&perks=1015611457,3891536761#notes:Tier A - PvE 4.4 - PvP 4.3 - Excels PvE - Most Popular Combo (15.526%)
 dimwishlist:item=501329015&perks=247725512,3891536761#notes:Tier A - PvE 4.4 - PvP 4.3 - Excels PvE - Popular Combo (13.516%)
 dimwishlist:item=501329015&perks=1015611457,460017080#notes:Tier A - PvE 4.4 - PvP 4.3 - Excels PvE - Popular Combo (12.371%)
@@ -3916,7 +4660,6 @@ dimwishlist:item=839786290&perks=968510818#notes:Tier S - PvE 4.4 - PvP 2.1 - Ex
 dimwishlist:item=839786290&perks=3078487919#notes:Tier S - PvE 4.4 - PvP 2.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=839786290&perks=3194351027#notes:Tier S - PvE 4.4 - PvP 2.1 - Excels PvE - Popular Perk 2
 dimwishlist:item=839786290&perks=2978966579#notes:Tier S - PvE 4.4 - PvP 2.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1331824604#notes:Tier D - PvE 3.6 - PvP 4.7
 dimwishlist:item=233896077&perks=706527188,957782887#notes:Tier S - PvE 3.6 - PvP 4.4 - Excels PvP - Most Popular Combo (14.267%)
 dimwishlist:item=233896077&perks=1556840489,4293542123#notes:Tier S - PvE 3.6 - PvP 4.4 - Excels PvP - Popular Combo (9.039%)
 dimwishlist:item=233896077&perks=706527188,4293542123#notes:Tier S - PvE 3.6 - PvP 4.4 - Excels PvP - Popular Combo (6.779%)
@@ -3944,7 +4687,6 @@ dimwishlist:item=3016891299&perks=460017080#notes:Tier A - PvE 4.0 - PvP 4.6 - E
 dimwishlist:item=3016891299&perks=1820235745#notes:Tier A - PvE 4.0 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3016891299&perks=3018146897#notes:Tier A - PvE 4.0 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3016891299&perks=831391274#notes:Tier A - PvE 4.0 - PvP 4.6 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-222606050#notes:Tier C - PvE 4.7 - PvP 4.5 - Excels PvE
 dimwishlist:item=1757202961&perks=1966281507,4293542123#notes:Tier A - PvE 3.9 - PvP 1.5 - Excels PvE - Most Popular Combo (10.017%)
 dimwishlist:item=1757202961&perks=1556840489,4293542123#notes:Tier A - PvE 3.9 - PvP 1.5 - Excels PvE - Popular Combo (8.96%)
 dimwishlist:item=1757202961&perks=3800201097,4293542123#notes:Tier A - PvE 3.9 - PvP 1.5 - Excels PvE - Popular Combo (5.688%)
@@ -3952,10 +4694,6 @@ dimwishlist:item=1757202961&perks=1966281507#notes:Tier A - PvE 3.9 - PvP 1.5 - 
 dimwishlist:item=1757202961&perks=4293542123#notes:Tier A - PvE 3.9 - PvP 1.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1757202961&perks=1556840489#notes:Tier A - PvE 3.9 - PvP 1.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=1757202961&perks=3800201097#notes:Tier A - PvE 3.9 - PvP 1.5 - Excels PvE - Popular Perk 1
-dimwishlist:item=-1139727256#notes:Tier C - PvE 4.1 - PvP 2.4
-dimwishlist:item=-3221722018#notes:Tier C - PvE 3.0 - PvP 2.1
-dimwishlist:item=-1106635211#notes:Tier C - PvE 2.3 - PvP 3.0
-dimwishlist:item=-4287947559#notes:Tier D - PvE 4.1 - PvP 3.8
 dimwishlist:item=3125454907&perks=3643424744,1427256713#notes:Tier B - PvE 4.8 - PvP 3.1 - Excels PvE - Most Popular Combo (12.27%)
 dimwishlist:item=3125454907&perks=3643424744,2594592626#notes:Tier B - PvE 4.8 - PvP 3.1 - Excels PvE - Popular Combo (9.788%)
 dimwishlist:item=3125454907&perks=1645158859,699525795#notes:Tier B - PvE 4.8 - PvP 3.1 - Excels PvE - Popular Combo (9.453%)
@@ -4009,7 +4747,6 @@ dimwishlist:item=3262192268&perks=3523296417#notes:Tier S - PvE 4.5 - PvP 4.3 - 
 dimwishlist:item=3262192268&perks=4293542123#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3262192268&perks=2846385770#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3262192268&perks=365154968#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3678653083#notes:Tier C - PvE 4.5 - PvP 3.2 - Excels PvE
 dimwishlist:item=1678205741&perks=2846385770,1015611457#notes:Tier B - PvE 3.9 - PvP 4.7 - Excels PvP - Most Popular Combo (9.071%)
 dimwishlist:item=1678205741&perks=1168162263,1015611457#notes:Tier B - PvE 3.9 - PvP 4.7 - Excels PvP - Popular Combo (8.837%)
 dimwishlist:item=1678205741&perks=2779035018,1015611457#notes:Tier B - PvE 3.9 - PvP 4.7 - Excels PvP - Popular Combo (7.325%)
@@ -4047,7 +4784,6 @@ dimwishlist:item=3292795429&perks=1015611457#notes:Tier S - PvE 4.1 - PvP 4.3 - 
 dimwishlist:item=3292795429&perks=247725512#notes:Tier S - PvE 4.1 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3292795429&perks=1428297954#notes:Tier S - PvE 4.1 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3292795429&perks=3891536761#notes:Tier S - PvE 4.1 - PvP 4.3 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1081724548#notes:Tier C - PvE 4.2 - PvP 4.1
 dimwishlist:item=1150492185&perks=957782887,699525795#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Most Popular Combo (14.574%)
 dimwishlist:item=1150492185&perks=957782887,2173046394#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Combo (9.711%)
 dimwishlist:item=1150492185&perks=247725512,1771339417#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Combo (7.974%)
@@ -4059,8 +4795,6 @@ dimwishlist:item=1150492185&perks=699525795#notes:Tier B - PvE 4.3 - PvP 4.5 - E
 dimwishlist:item=1150492185&perks=247725512#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=1150492185&perks=2173046394#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Perk 2
 dimwishlist:item=1150492185&perks=1771339417#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3240434620#notes:Tier C - PvE 3.9 - PvP 3.5
-dimwishlist:item=-3236112986#notes:Tier C - PvE 3.8 - PvP 4.2
 dimwishlist:item=433905699&perks=951095735,2048641572#notes:Tier B - PvE 4.3 - PvP 3.2 - Most Popular Combo (7.707%)
 dimwishlist:item=433905699&perks=2284787283,2048641572#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Combo (6.591%)
 dimwishlist:item=433905699&perks=3523296417,2048641572#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Combo (5.346%)
@@ -4068,7 +4802,6 @@ dimwishlist:item=433905699&perks=951095735#notes:Tier B - PvE 4.3 - PvP 3.2 - Mo
 dimwishlist:item=433905699&perks=2048641572#notes:Tier B - PvE 4.3 - PvP 3.2 - Most Popular Perk 2
 dimwishlist:item=433905699&perks=2284787283#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Perk 1
 dimwishlist:item=433905699&perks=3523296417#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Perk 1
-dimwishlist:item=-3890055324#notes:Tier D - PvE 4.0 - PvP 4.2
 dimwishlist:item=3591141932&perks=1523832109,2594592626#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Most Popular Combo (22.22%)
 dimwishlist:item=3591141932&perks=3418782618,2594592626#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Combo (16.452%)
 dimwishlist:item=3591141932&perks=1645158859,2213355989#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Combo (10.442%)
@@ -4097,7 +4830,6 @@ dimwishlist:item=2884596447&perks=3418782618#notes:Tier S - PvE 4.5 - PvP 4.5 - 
 dimwishlist:item=2884596447&perks=3891536761#notes:Tier S - PvE 4.5 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2884596447&perks=1354429876#notes:Tier S - PvE 4.5 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=2884596447&perks=3078487919#notes:Tier S - PvE 4.5 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-4066778670#notes:Tier D - PvE 4.7 - PvP 2.0
 dimwishlist:item=3885259140&perks=3418782618,3891536761#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Most Popular Combo (12.715%)
 dimwishlist:item=3885259140&perks=3425386926,1015611457#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Combo (10.072%)
 dimwishlist:item=3885259140&perks=247725512,3891536761#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Combo (6.285%)
@@ -4203,7 +4935,6 @@ dimwishlist:item=2099894368&perks=3700496672#notes:Tier A - PvE 4.0 - PvP 4.5 - 
 dimwishlist:item=2099894368&perks=3891536761#notes:Tier A - PvE 4.0 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2099894368&perks=3619207468#notes:Tier A - PvE 4.0 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2099894368&perks=1428297954#notes:Tier A - PvE 4.0 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-1403800851#notes:Tier C - PvE 2.5 - PvP 4.9
 dimwishlist:item=1491665733&perks=1523832109,2896038713#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - Most Popular Combo (15.367%)
 dimwishlist:item=1491665733&perks=1523832109,3708227201#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Combo (10.608%)
 dimwishlist:item=1491665733&perks=1523832109,4104185692#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Combo (7.455%)
@@ -4219,10 +4950,6 @@ dimwishlist:item=2890082420&perks=1523832109#notes:Tier S - PvE 4.6 - PvP 3.5 - 
 dimwishlist:item=2890082420&perks=2896038713#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2890082420&perks=3418782618#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=2890082420&perks=3708227201#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-213264394#notes:Tier C - PvE 4.3 - PvP 4.0
-dimwishlist:item=-927835311#notes:Tier C - PvE 4.3 - PvP 4.0
-dimwishlist:item=-2508948099#notes:Tier C - PvE 3.8 - PvP 2.3 - Excels PvE
-dimwishlist:item=-2187717691#notes:Tier C - PvE 4.7 - PvP 3.2
 dimwishlist:item=355382946&perks=968510818,4293542123#notes:Tier B - PvE 3.8 - PvP 3.8 - Most Popular Combo (14.313%)
 dimwishlist:item=355382946&perks=2387244414,4293542123#notes:Tier B - PvE 3.8 - PvP 3.8 - Popular Combo (11.41%)
 dimwishlist:item=355382946&perks=2779035018,4293542123#notes:Tier B - PvE 3.8 - PvP 3.8 - Popular Combo (10.991%)
@@ -4276,14 +5003,6 @@ dimwishlist:item=411397829&perks=4071163871#notes:Tier B - PvE 4.0 - PvP 4.1 - E
 dimwishlist:item=411397829&perks=591790007#notes:Tier B - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=411397829&perks=588594999#notes:Tier B - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=411397829&perks=47981717#notes:Tier B - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=664109750&perks=3161816588,2679249093#notes:Most Popular Combo (13.855%)
-dimwishlist:item=664109750&perks=25606670,2679249093#notes:Popular Combo (8.288%)
-dimwishlist:item=664109750&perks=3161816588,2360754333#notes:Popular Combo (5.81%)
-dimwishlist:item=664109750&perks=25606670,2360754333#notes:Popular Perk 1, Popular Perk 2
-dimwishlist:item=664109750&perks=3161816588#notes:Most Popular Perk 1
-dimwishlist:item=664109750&perks=2679249093#notes:Most Popular Perk 2
-dimwishlist:item=664109750&perks=25606670#notes:Popular Perk 1
-dimwishlist:item=664109750&perks=2360754333#notes:Popular Perk 2
 dimwishlist:item=1606497639&perks=968510818,2048641572#notes:Most Popular Combo (26.828%)
 dimwishlist:item=1606497639&perks=968510818,776531651#notes:Popular Combo (7.774%)
 dimwishlist:item=1606497639&perks=4071163871,2048641572#notes:Popular Combo (6.49%)
@@ -4311,7 +5030,6 @@ dimwishlist:item=2883684343&perks=3700496672#notes:Tier A - PvE 4.5 - PvP 3.8 - 
 dimwishlist:item=2883684343&perks=3891536761#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2883684343&perks=247725512#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Popular Perk 1
 dimwishlist:item=2883684343&perks=3824105627#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2673925403#notes:Tier C - PvE 4.4 - PvP 3.0
 dimwishlist:item=1289796511&perks=1645158859,1754714824#notes:Tier A - PvE 4.9 - PvP 4.0 - Excels PvE + PvP - Most Popular Combo (19.597%)
 dimwishlist:item=1289796511&perks=671806388,2173046394#notes:Tier A - PvE 4.9 - PvP 4.0 - Excels PvE + PvP - Popular Combo (18.652%)
 dimwishlist:item=1289796511&perks=1556840489,2173046394#notes:Tier A - PvE 4.9 - PvP 4.0 - Excels PvE + PvP - Popular Combo (14.45%)
@@ -4423,7 +5141,6 @@ dimwishlist:item=522366885&perks=1546637391#notes:Tier B - PvE 5.0 - PvP 3.6 - E
 dimwishlist:item=522366885&perks=776531651#notes:Tier B - PvE 5.0 - PvP 3.6 - Excels PvE - Popular Perk 1
 dimwishlist:item=522366885&perks=4104185692#notes:Tier B - PvE 5.0 - PvP 3.6 - Excels PvE - Popular Perk 2
 dimwishlist:item=522366885&perks=2048641572#notes:Tier B - PvE 5.0 - PvP 3.6 - Excels PvE - Popular Perk 2
-dimwishlist:item=-392008588#notes:Tier D - PvE 4.6 - PvP 3.7 - Excels PvE
 dimwishlist:item=3635821806&perks=3619207468,460017080#notes:Tier A - PvE 4.2 - PvP 4.8 - Excels PvE + PvP - Most Popular Combo (20.066%)
 dimwishlist:item=3635821806&perks=3619207468,2173046394#notes:Tier A - PvE 4.2 - PvP 4.8 - Excels PvE + PvP - Popular Combo (10.443%)
 dimwishlist:item=3635821806&perks=1870851715,2173046394#notes:Tier A - PvE 4.2 - PvP 4.8 - Excels PvE + PvP - Popular Combo (4.494%)
@@ -4462,8 +5179,6 @@ dimwishlist:item=268260372&perks=3194351027#notes:Tier A - PvE 4.8 - PvP 3.5 - E
 dimwishlist:item=268260372&perks=968510818#notes:Tier A - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=268260372&perks=776531651#notes:Tier A - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=268260372&perks=2048641572#notes:Tier A - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2231910050#notes:Tier C - PvE 3.2 - PvP 3.9
-dimwishlist:item=-2034215657#notes:Tier C - PvE 4.2 - PvP 4.5
 dimwishlist:item=1720503118&perks=968510818,1427256713#notes:Tier A - PvE 4.4 - PvP 4.0 - Excels PvE - Most Popular Combo (28.752%)
 dimwishlist:item=1720503118&perks=968510818,4293542123#notes:Tier A - PvE 4.4 - PvP 4.0 - Excels PvE - Popular Combo (16.352%)
 dimwishlist:item=1720503118&perks=1556840489,4293542123#notes:Tier A - PvE 4.4 - PvP 4.0 - Excels PvE - Popular Combo (6.569%)
@@ -4503,7 +5218,6 @@ dimwishlist:item=5159537&perks=2779035018#notes:Tier A - PvE 3.6 - PvP 4.5 - Exc
 dimwishlist:item=5159537&perks=124408337#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=5159537&perks=968510818#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Popular Perk 1
 dimwishlist:item=5159537&perks=460017080#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Popular Perk 2
-dimwishlist:item=-811403305#notes:Tier D - PvE 3.5 - PvP 2.3
 dimwishlist:item=1389546626&perks=1365187766,3038247973#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Most Popular Combo (11.811%)
 dimwishlist:item=1389546626&perks=2387244414,1015611457#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Popular Combo (11.124%)
 dimwishlist:item=1389546626&perks=1354429876,831391274#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Popular Combo (7.404%)
@@ -4568,8 +5282,6 @@ dimwishlist:item=4162642204&perks=2039302152#notes:Tier B - PvE 4.0 - PvP 3.0 - 
 dimwishlist:item=4162642204&perks=3300816228#notes:Tier B - PvE 4.0 - PvP 3.0 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=4162642204&perks=2010801679#notes:Tier B - PvE 4.0 - PvP 3.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=4162642204&perks=1556840489#notes:Tier B - PvE 4.0 - PvP 3.0 - Excels PvE - Popular Perk 1
-dimwishlist:item=-2759590322#notes:Tier C - PvE 3.7 - PvP 3.1
-dimwishlist:item=-566740455#notes:Tier C - PvE 3.7 - PvP 3.1
 dimwishlist:item=3559361670&perks=968510818,776531651#notes:Tier S - PvE 4.5 - PvP 3.9 - Excels PvE - Most Popular Combo (25.35%)
 dimwishlist:item=3559361670&perks=1428297954,776531651#notes:Tier S - PvE 4.5 - PvP 3.9 - Excels PvE - Popular Combo (8.254%)
 dimwishlist:item=3559361670&perks=1428297954,2846385770#notes:Tier S - PvE 4.5 - PvP 3.9 - Excels PvE - Popular Combo (6.603%)
@@ -4684,7 +5396,6 @@ dimwishlist:item=1903182562&perks=3977735242#notes:Tier B - PvE 4.2 - PvP 3.1 - 
 dimwishlist:item=1903182562&perks=1275731761#notes:Tier B - PvE 4.2 - PvP 3.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1903182562&perks=3523296417#notes:Tier B - PvE 4.2 - PvP 3.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=1903182562&perks=3194351027#notes:Tier B - PvE 4.2 - PvP 3.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2814093983#notes:Tier D - PvE 3.9 - PvP 3.4
 dimwishlist:item=540880995&perks=1359896290,2173046394#notes:Tier B - PvE 3.0 - PvP 3.2 - Excels PvE - Most Popular Combo (15.485%)
 dimwishlist:item=540880995&perks=1820235745,2173046394#notes:Tier B - PvE 3.0 - PvP 3.2 - Excels PvE - Popular Combo (14.79%)
 dimwishlist:item=540880995&perks=1820235745,1365187766#notes:Tier B - PvE 3.0 - PvP 3.2 - Excels PvE - Popular Combo (6.831%)
@@ -4727,7 +5438,6 @@ dimwishlist:item=2566006935&perks=4071163871#notes:Tier B - PvE 4.3 - PvP 4.1 - 
 dimwishlist:item=2566006935&perks=776531651#notes:Tier B - PvE 4.3 - PvP 4.1 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2566006935&perks=2450788523#notes:Tier B - PvE 4.3 - PvP 4.1 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2566006935&perks=1015611457#notes:Tier B - PvE 4.3 - PvP 4.1 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2272041093#notes:Tier C - PvE 4.4 - PvP 3.0
 dimwishlist:item=3573686365&perks=1645158859,2213355989#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Most Popular Combo (14.848%)
 dimwishlist:item=3573686365&perks=1820235745,1427256713#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Combo (14.605%)
 dimwishlist:item=3573686365&perks=3161816588,1427256713#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Combo (9.969%)
@@ -4763,7 +5473,6 @@ dimwishlist:item=4074251943&perks=247725512#notes:Tier A - PvE 4.5 - PvP 3.8 - E
 dimwishlist:item=4074251943&perks=3038247973#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=4074251943&perks=3700496672#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Popular Perk 1
 dimwishlist:item=4074251943&perks=3824105627#notes:Tier A - PvE 4.5 - PvP 3.8 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1731355324#notes:Tier D - PvE 4.3 - PvP 3.6
 dimwishlist:item=1168625549&perks=1631667848,2679249093#notes:Tier S - PvE 4.7 - PvP 2.9 - Excels PvE - Most Popular Combo (32.049%)
 dimwishlist:item=1168625549&perks=691659142,2679249093#notes:Tier S - PvE 4.7 - PvP 2.9 - Excels PvE - Popular Combo (7.965%)
 dimwishlist:item=1168625549&perks=1820235745,4293542123#notes:Tier S - PvE 4.7 - PvP 2.9 - Excels PvE - Popular Combo (5.929%)
@@ -4813,7 +5522,6 @@ dimwishlist:item=3138208275&perks=124408337#notes:Tier A - PvE 4.0 - PvP 4.1 - E
 dimwishlist:item=3138208275&perks=3047969693#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3138208275&perks=1890422124#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Popular Perk 1
 dimwishlist:item=3138208275&perks=1015611457#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - Popular Perk 2
-dimwishlist:item=-2328531378#notes:Tier C - PvE 4.5 - PvP 3.9
 dimwishlist:item=8293111&perks=247725512,3038247973#notes:Tier B - PvE 3.8 - PvP 3.5 - Excels PvP - Most Popular Combo (11.847%)
 dimwishlist:item=8293111&perks=1820235745,3038247973#notes:Tier B - PvE 3.8 - PvP 3.5 - Excels PvP - Popular Combo (9.35%)
 dimwishlist:item=8293111&perks=247725512,2848615171#notes:Tier B - PvE 3.8 - PvP 3.5 - Excels PvP - Popular Combo (5.811%)
@@ -4846,8 +5554,6 @@ dimwishlist:item=882778888&perks=3161816588#notes:Tier S - PvE 2.6 - PvP 4.8 - E
 dimwishlist:item=882778888&perks=47981717#notes:Tier S - PvE 2.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=882778888&perks=3038247973#notes:Tier S - PvE 2.6 - PvP 4.8 - Excels PvP - Popular Perk 2
 dimwishlist:item=882778888&perks=957782887#notes:Tier S - PvE 2.6 - PvP 4.8 - Excels PvP - Popular Perk 2
-dimwishlist:item=-4070357005#notes:Tier D - PvE 4.2 - PvP 3.1
-dimwishlist:item=-1555959830#notes:Tier D - PvE 3.6 - PvP 2.7 - Excels PvE
 dimwishlist:item=2812100428&perks=2450788523,3047969693#notes:Tier B - PvE 4.5 - PvP 4.4 - Excels PvP - Most Popular Combo (8.932%)
 dimwishlist:item=2812100428&perks=588594999,460017080#notes:Tier B - PvE 4.5 - PvP 4.4 - Excels PvP - Popular Combo (6.841%)
 dimwishlist:item=2812100428&perks=1195158366,3047969693#notes:Tier B - PvE 4.5 - PvP 4.4 - Excels PvP - Popular Combo (6.225%)
@@ -4942,7 +5648,6 @@ dimwishlist:item=2119346509&perks=1359896290#notes:Tier A - PvE 5.0 - PvP 4.7 - 
 dimwishlist:item=2119346509&perks=4293542123#notes:Tier A - PvE 5.0 - PvP 4.7 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2119346509&perks=2010801679#notes:Tier A - PvE 5.0 - PvP 4.7 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2119346509&perks=1890422124#notes:Tier A - PvE 5.0 - PvP 4.7 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1509167284#notes:Tier D - PvE 4.1 - PvP 2.5
 dimwishlist:item=1916287826&perks=588594999,4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Combo (6.816%)
 dimwishlist:item=1916287826&perks=4071163871,4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (5.529%)
 dimwishlist:item=1916287826&perks=691659142,4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (5.284%)
@@ -4968,7 +5673,6 @@ dimwishlist:item=1298815317&perks=2779035018#notes:Tier A - PvE 4.8 - PvP 3.9 - 
 dimwishlist:item=1298815317&perks=2173046394#notes:Tier A - PvE 4.8 - PvP 3.9 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1298815317&perks=4071163871#notes:Tier A - PvE 4.8 - PvP 3.9 - Excels PvE - Popular Perk 1
 dimwishlist:item=1298815317&perks=691659142#notes:Tier A - PvE 4.8 - PvP 3.9 - Excels PvE - Popular Perk 1
-dimwishlist:item=-3371413056#notes:Tier C - PvE 4.7 - PvP 3.1
 dimwishlist:item=3228096719&perks=957782887,47981717#notes:Tier A - PvE 4.2 - PvP 4.8 - Excels PvE + PvP - Most Popular Combo (30.782%)
 dimwishlist:item=3228096719&perks=957782887,588594999#notes:Tier A - PvE 4.2 - PvP 4.8 - Excels PvE + PvP - Popular Combo (6.531%)
 dimwishlist:item=3228096719&perks=3824105627,1546637391#notes:Tier A - PvE 4.2 - PvP 4.8 - Excels PvE + PvP - Popular Combo (3.527%)
@@ -5010,7 +5714,6 @@ dimwishlist:item=1184692845&perks=2848615171#notes:Tier A - PvE 5.0 - PvP 4.0 - 
 dimwishlist:item=1184692845&perks=2846385770#notes:Tier A - PvE 5.0 - PvP 4.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=1184692845&perks=699525795#notes:Tier A - PvE 5.0 - PvP 4.0 - Excels PvE - Popular Perk 2
 dimwishlist:item=1184692845&perks=4104185692#notes:Tier A - PvE 5.0 - PvP 4.0 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3371413057#notes:Tier C - PvE 4.8 - PvP 3.1 - Excels PvE
 dimwishlist:item=318443586&perks=3161816588,47981717#notes:Tier A - PvE 3.8 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (33.635%)
 dimwishlist:item=318443586&perks=4071163871,47981717#notes:Tier A - PvE 3.8 - PvP 4.6 - Excels PvE + PvP - Popular Combo (23.854%)
 dimwishlist:item=318443586&perks=3300816228,2360754333#notes:Tier A - PvE 3.8 - PvP 4.6 - Excels PvE + PvP - Popular Combo (4.568%)
@@ -5066,15 +5769,6 @@ dimwishlist:item=912150785&perks=4071163871#notes:Tier B - PvE 3.5 - PvP 3.2 - E
 dimwishlist:item=912150785&perks=2451262963#notes:Tier B - PvE 3.5 - PvP 3.2 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=912150785&perks=957782887#notes:Tier B - PvE 3.5 - PvP 3.2 - Excels PvP - Popular Perk 1
 dimwishlist:item=912150785&perks=4293542123#notes:Tier B - PvE 3.5 - PvP 3.2 - Excels PvP - Popular Perk 2
-dimwishlist:item=-2531963421#notes:Tier D - PvE 4.4 - PvP 3.4
-dimwishlist:item=-2988121501#notes:Tier C - PvE 4.4 - PvP 4.4
-dimwishlist:item=-4100775158#notes:Tier C - PvE 4.2 - PvP 4.2
-dimwishlist:item=-820890091#notes:Tier D - PvE 3.9 - PvP 2.8
-dimwishlist:item=-2671639706#notes:Tier D - PvE 3.5 - PvP 3.2
-dimwishlist:item=-1321506184#notes:Tier C - PvE 4.0 - PvP 4.2
-dimwishlist:item=-3248429089#notes:Tier C - PvE 4.0 - PvP 4.2
-dimwishlist:item=-4009352833#notes:Tier C - PvE 3.2 - PvP 3.9
-dimwishlist:item=-1184309824#notes:Tier C - PvE 3.7 - PvP 2.4
 dimwishlist:item=2221264583&perks=3523296417,3824105627#notes:Tier A - PvE 4.9 - PvP 4.2 - Excels PvE - Most Popular Combo (18.103%)
 dimwishlist:item=2221264583&perks=3523296417,11612903#notes:Tier A - PvE 4.9 - PvP 4.2 - Excels PvE - Popular Combo (6.468%)
 dimwishlist:item=2221264583&perks=2896038713,3824105627#notes:Tier A - PvE 4.9 - PvP 4.2 - Excels PvE - Popular Combo (5.029%)
@@ -5086,7 +5780,6 @@ dimwishlist:item=2221264583&perks=11612903#notes:Tier A - PvE 4.9 - PvP 4.2 - Ex
 dimwishlist:item=3407395594&perks=3523296417,3824105627#notes:Tier A - PvE 4.9 - PvP 4.2 - Excels PvE - Most Popular Combo (71.136%)
 dimwishlist:item=3407395594&perks=3523296417#notes:Tier A - PvE 4.9 - PvP 4.2 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=3407395594&perks=3824105627#notes:Tier A - PvE 4.9 - PvP 4.2 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-1911060537#notes:Tier C - PvE 4.8 - PvP 3.0
 dimwishlist:item=2218569744&perks=1354429876,3038247973#notes:Tier A - PvE 4.6 - PvP 3.1 - Excels PvE - Most Popular Combo (16.859%)
 dimwishlist:item=2218569744&perks=3523296417,2173046394#notes:Tier A - PvE 4.6 - PvP 3.1 - Excels PvE - Popular Combo (15.115%)
 dimwishlist:item=2218569744&perks=247725512,2173046394#notes:Tier A - PvE 4.6 - PvP 3.1 - Excels PvE - Popular Combo (11.53%)
@@ -5183,7 +5876,6 @@ dimwishlist:item=3107853529&perks=957782887#notes:Tier S - PvE 3.7 - PvP 4.8 - E
 dimwishlist:item=3107853529&perks=588594999#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3107853529&perks=706527188#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Popular Perk 2
 dimwishlist:item=3107853529&perks=4293542123#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Popular Perk 2
-dimwishlist:item=-1959650777#notes:Tier C - PvE 4.2 - PvP 2.9
 dimwishlist:item=933455006&perks=2450788523,2213355989#notes:Tier A - PvE 4.0 - PvP 4.2 - Excels PvE + PvP - Most Popular Combo (26.136%)
 dimwishlist:item=933455006&perks=1428297954,2978966579#notes:Tier A - PvE 4.0 - PvP 4.2 - Excels PvE + PvP - Popular Combo (12.023%)
 dimwishlist:item=933455006&perks=509074078,2652708987#notes:Tier A - PvE 4.0 - PvP 4.2 - Excels PvE + PvP - Popular Combo (11.512%)
@@ -5213,8 +5905,6 @@ dimwishlist:item=2490988246&perks=3108830275#notes:Tier S - PvE 4.3 - PvP 3.5 - 
 dimwishlist:item=2490988246&perks=4293542123#notes:Tier S - PvE 4.3 - PvP 3.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2490988246&perks=4071163871#notes:Tier S - PvE 4.3 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=2490988246&perks=1631667848#notes:Tier S - PvE 4.3 - PvP 3.5 - Excels PvE - Popular Perk 1
-dimwishlist:item=-575830664#notes:Tier D - PvE 4.0 - PvP 3.3
-dimwishlist:item=-2006308129#notes:Tier D - PvE 4.0 - PvP 3.3
 dimwishlist:item=3738678140&perks=1556840489,2679249093#notes:Tier A - PvE 4.8 - PvP 3.1 - Excels PvE - Most Popular Combo (4.157%)
 dimwishlist:item=3738678140&perks=3300816228,2679249093#notes:Tier A - PvE 4.8 - PvP 3.1 - Excels PvE - Popular Combo (4.128%)
 dimwishlist:item=3738678140&perks=1631667848,2679249093#notes:Tier A - PvE 4.8 - PvP 3.1 - Excels PvE - Popular Combo (3.969%)
@@ -5230,8 +5920,6 @@ dimwishlist:item=502356570&perks=588594999#notes:Tier A - PvE 4.1 - PvP 4.5 - Ex
 dimwishlist:item=502356570&perks=2387244414#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=502356570&perks=3592538738#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=502356570&perks=4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1601177201#notes:Tier D - PvE 4.0 - PvP 3.6
-dimwishlist:item=-2778013407#notes:Tier D - PvE 2.8 - PvP 3.3
 dimwishlist:item=2194955522&perks=2869569095,4293542123#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Most Popular Combo (23.008%)
 dimwishlist:item=2194955522&perks=2779035018,4293542123#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Combo (22.525%)
 dimwishlist:item=2194955522&perks=706527188,4293542123#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Combo (5.296%)
@@ -5250,8 +5938,6 @@ dimwishlist:item=2345794502&perks=11612903#notes:Tier S - PvE 3.9 - PvP 4.7 - Ex
 dimwishlist:item=2405619467&perks=3722653512,2458213969#notes:Tier S - PvE 3.9 - PvP 4.7 - Excels PvP - Most Popular Combo (35.078%)
 dimwishlist:item=2405619467&perks=3722653512#notes:Tier S - PvE 3.9 - PvP 4.7 - Excels PvP - Most Popular Perk 1
 dimwishlist:item=2405619467&perks=2458213969#notes:Tier S - PvE 3.9 - PvP 4.7 - Excels PvP - Most Popular Perk 2
-dimwishlist:item=-617501162#notes:Tier C - PvE 3.2 - PvP 4.0
-dimwishlist:item=-2323544076#notes:Tier C - PvE 4.8 - PvP 3.4
 dimwishlist:item=216983039&perks=2387244414,1015611457#notes:Tier A - PvE 4.4 - PvP 2.8 - Excels PvE + PvP - Most Popular Combo (33.304%)
 dimwishlist:item=216983039&perks=2387244414#notes:Tier A - PvE 4.4 - PvP 2.8 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=216983039&perks=1015611457#notes:Tier A - PvE 4.4 - PvP 2.8 - Excels PvE + PvP - Most Popular Perk 2
@@ -5271,7 +5957,6 @@ dimwishlist:item=2026087437&perks=3300816228#notes:Tier A - PvE 5.0 - PvP 3.8 - 
 dimwishlist:item=2026087437&perks=2978966579#notes:Tier A - PvE 5.0 - PvP 3.8 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2026087437&perks=2010801679#notes:Tier A - PvE 5.0 - PvP 3.8 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2026087437&perks=1546637391#notes:Tier A - PvE 5.0 - PvP 3.8 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2513965917#notes:Tier C - PvE 4.6 - PvP 3.6
 dimwishlist:item=1780464822&perks=1428297954,3047969693#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvE + PvP - Most Popular Combo (15.764%)
 dimwishlist:item=1780464822&perks=2946784966,3047969693#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvE + PvP - Popular Combo (7.856%)
 dimwishlist:item=1780464822&perks=2779035018,3047969693#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvE + PvP - Popular Combo (7.376%)
@@ -5279,11 +5964,9 @@ dimwishlist:item=1780464822&perks=1428297954#notes:Tier A - PvE 4.2 - PvP 4.7 - 
 dimwishlist:item=1780464822&perks=3047969693#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1780464822&perks=2946784966#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1780464822&perks=2779035018#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-254636484#notes:Tier C - PvE 4.3 - PvP 3.4
 dimwishlist:item=2715240478&perks=3300816228,2978966579#notes:Tier S - PvE 3.9 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (37.255%)
 dimwishlist:item=2715240478&perks=3300816228#notes:Tier S - PvE 3.9 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=2715240478&perks=2978966579#notes:Tier S - PvE 3.9 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 2
-dimwishlist:item=-1856262127#notes:Tier C - PvE 3.9 - PvP 3.5
 dimwishlist:item=4019668921&perks=3700496672,3038247973#notes:Tier B - PvE 4.8 - PvP 3.6 - Excels PvE - Most Popular Combo (15.396%)
 dimwishlist:item=4019668921&perks=3400784728,4293542123#notes:Tier B - PvE 4.8 - PvP 3.6 - Excels PvE - Popular Combo (13.564%)
 dimwishlist:item=4019668921&perks=3400784728,3038247973#notes:Tier B - PvE 4.8 - PvP 3.6 - Excels PvE - Popular Combo (10.379%)
@@ -5341,8 +6024,6 @@ dimwishlist:item=1999697514&perks=1645158859#notes:Tier B - PvE 3.0 - PvP 4.5 - 
 dimwishlist:item=1999697514&perks=1600092898#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=1999697514&perks=2652708987#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Popular Perk 2
 dimwishlist:item=1999697514&perks=11551321#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Popular Perk 2
-dimwishlist:item=-3000847393#notes:Tier D - PvE 4.8 - PvP 3.2
-dimwishlist:item=-1478986057#notes:Tier C - PvE 4.0 - PvP 3.9
 dimwishlist:item=2638190703&perks=3400784728,1354429876#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Most Popular Combo (6.942%)
 dimwishlist:item=2638190703&perks=3400784728,2896038713#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Combo (5.7%)
 dimwishlist:item=2638190703&perks=1428297954,2458213969#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Combo (4.886%)
@@ -5379,8 +6060,6 @@ dimwishlist:item=999767358&perks=3078487919#notes:Tier S - PvE 4.8 - PvP 3.1 - E
 dimwishlist:item=2886339027&perks=1354429876,3078487919#notes:Tier S - PvE 4.8 - PvP 3.1 - Excels PvE - Most Popular Combo (36.084%)
 dimwishlist:item=2886339027&perks=1354429876#notes:Tier S - PvE 4.8 - PvP 3.1 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=2886339027&perks=3078487919#notes:Tier S - PvE 4.8 - PvP 3.1 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-927567426#notes:Tier C - PvE 3.5 - PvP 2.5
-dimwishlist:item=-2888266564#notes:Tier D - PvE 3.8 - PvP 4.4
 dimwishlist:item=768621510&perks=3523296417,2978966579#notes:Tier S - PvE 4.4 - PvP 4.1 - Excels PvE - Most Popular Combo (33.954%)
 dimwishlist:item=768621510&perks=3523296417#notes:Tier S - PvE 4.4 - PvP 4.1 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=768621510&perks=2978966579#notes:Tier S - PvE 4.4 - PvP 4.1 - Excels PvE - Most Popular Perk 2
@@ -5457,7 +6136,6 @@ dimwishlist:item=613334176&perks=2396489472#notes:Tier S - PvE 4.9 - PvP 2.2 - E
 dimwishlist:item=4038592169&perks=2010801679,2396489472#notes:Tier S - PvE 4.9 - PvP 2.2 - Excels PvE - Most Popular Combo (42.964%)
 dimwishlist:item=4038592169&perks=2010801679#notes:Tier S - PvE 4.9 - PvP 2.2 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=4038592169&perks=2396489472#notes:Tier S - PvE 4.9 - PvP 2.2 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-1526296434#notes:Tier D - PvE 3.6 - PvP 2.0
 dimwishlist:item=2821430069&perks=4071163871,47981717#notes:Tier B - PvE 4.4 - PvP 4.0 - Excels PvE + PvP - Most Popular Combo (6.824%)
 dimwishlist:item=2821430069&perks=1354429876,1546637391#notes:Tier B - PvE 4.4 - PvP 4.0 - Excels PvE + PvP - Popular Combo (5.073%)
 dimwishlist:item=2821430069&perks=1428297954,47981717#notes:Tier B - PvE 4.4 - PvP 4.0 - Excels PvE + PvP - Popular Combo (4.215%)
@@ -5469,10 +6147,6 @@ dimwishlist:item=2821430069&perks=47981717#notes:Tier B - PvE 4.4 - PvP 4.0 - Ex
 dimwishlist:item=2821430069&perks=1354429876#notes:Tier B - PvE 4.4 - PvP 4.0 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2821430069&perks=1428297954#notes:Tier B - PvE 4.4 - PvP 4.0 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2821430069&perks=1546637391#notes:Tier B - PvE 4.4 - PvP 4.0 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1141547457#notes:Tier D - PvE 3.6 - PvP 4.3
-dimwishlist:item=-2233545123#notes:Tier D - PvE 4.2 - PvP 4.1
-dimwishlist:item=-3341893443#notes:Tier C - PvE 4.8 - PvP 3.7
-dimwishlist:item=-1788603939#notes:Tier C - PvE 4.3 - PvP 3.8
 dimwishlist:item=3428521585&perks=247725512,3425386926#notes:Tier A - PvE 4.6 - PvP 4.7 - Excels PvE + PvP - Most Popular Combo (13.934%)
 dimwishlist:item=3428521585&perks=2848615171,4049631843#notes:Tier A - PvE 4.6 - PvP 4.7 - Excels PvE + PvP - Popular Combo (8.656%)
 dimwishlist:item=3428521585&perks=2848615171,3425386926#notes:Tier A - PvE 4.6 - PvP 4.7 - Excels PvE + PvP - Popular Combo (7.561%)
@@ -5504,8 +6178,6 @@ dimwishlist:item=1994645182&perks=280464955#notes:Tier B - PvE 4.3 - PvP 4.3 - E
 dimwishlist:item=1994645182&perks=2652708987#notes:Tier B - PvE 4.3 - PvP 4.3 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1994645182&perks=1428297954#notes:Tier B - PvE 4.3 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1994645182&perks=1570042021#notes:Tier B - PvE 4.3 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-2534546147#notes:Tier D - PvE 4.0 - PvP 2.7
-dimwishlist:item=-1466006054#notes:Tier D - PvE 4.0 - PvP 2.7
 dimwishlist:item=2342054803&perks=3523296417,3592538738#notes:Tier B - PvE 4.9 - PvP 3.0 - Excels PvE - Most Popular Combo (12.378%)
 dimwishlist:item=2342054803&perks=3523296417,2848615171#notes:Tier B - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Combo (10.834%)
 dimwishlist:item=2342054803&perks=3523296417,11612903#notes:Tier B - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Combo (9.657%)
@@ -5513,8 +6185,6 @@ dimwishlist:item=2342054803&perks=3523296417#notes:Tier B - PvE 4.9 - PvP 3.0 - 
 dimwishlist:item=2342054803&perks=3592538738#notes:Tier B - PvE 4.9 - PvP 3.0 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2342054803&perks=2848615171#notes:Tier B - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 2
 dimwishlist:item=2342054803&perks=11612903#notes:Tier B - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3489657138#notes:Tier D - PvE 4.7 - PvP 3.8
-dimwishlist:item=-1019000888#notes:Tier C - PvE 4.5 - PvP 3.6
 dimwishlist:item=2097055732&perks=1428297954,588594999#notes:Tier A - PvE 4.2 - PvP 4.5 - Excels PvP - Most Popular Combo (28.273%)
 dimwishlist:item=2097055732&perks=1428297954,3511092054#notes:Tier A - PvE 4.2 - PvP 4.5 - Excels PvP - Popular Combo (10.706%)
 dimwishlist:item=2097055732&perks=1428297954,11612903#notes:Tier A - PvE 4.2 - PvP 4.5 - Excels PvP - Popular Combo (5.134%)
@@ -5522,9 +6192,6 @@ dimwishlist:item=2097055732&perks=1428297954#notes:Tier A - PvE 4.2 - PvP 4.5 - 
 dimwishlist:item=2097055732&perks=588594999#notes:Tier A - PvE 4.2 - PvP 4.5 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=2097055732&perks=3511092054#notes:Tier A - PvE 4.2 - PvP 4.5 - Excels PvP - Popular Perk 2
 dimwishlist:item=2097055732&perks=11612903#notes:Tier A - PvE 4.2 - PvP 4.5 - Excels PvP - Popular Perk 2
-dimwishlist:item=-297296830#notes:Tier D - PvE 4.1 - PvP 2.4
-dimwishlist:item=-4225322581#notes:Tier C - PvE 4.4 - PvP 4.5
-dimwishlist:item=-1796949035#notes:Tier D - PvE 4.4 - PvP 2.0
 dimwishlist:item=1572896086&perks=1820235745,4104185692#notes:Tier B - PvE 4.6 - PvP 3.1 - Excels PvE - Most Popular Combo (18.087%)
 dimwishlist:item=1572896086&perks=1820235745,124408337#notes:Tier B - PvE 4.6 - PvP 3.1 - Excels PvE - Popular Combo (13.821%)
 dimwishlist:item=1572896086&perks=1428297954,124408337#notes:Tier B - PvE 4.6 - PvP 3.1 - Excels PvE - Popular Combo (5.036%)
@@ -5533,8 +6200,6 @@ dimwishlist:item=1572896086&perks=1820235745#notes:Tier B - PvE 4.6 - PvP 3.1 - 
 dimwishlist:item=1572896086&perks=4104185692#notes:Tier B - PvE 4.6 - PvP 3.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1572896086&perks=1428297954#notes:Tier B - PvE 4.6 - PvP 3.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=1572896086&perks=124408337#notes:Tier B - PvE 4.6 - PvP 3.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3175851496#notes:Tier D - PvE 4.1 - PvP 2.5
-dimwishlist:item=-1687353095#notes:Tier C - PvE 4.0 - PvP 3.3
 dimwishlist:item=3355385170&perks=957782887,47981717#notes:Tier A - PvE 3.8 - PvP 4.2 - Excels PvE + PvP - Most Popular Combo (14.337%)
 dimwishlist:item=3355385170&perks=3400784728,1771339417#notes:Tier A - PvE 3.8 - PvP 4.2 - Excels PvE + PvP - Popular Combo (7.836%)
 dimwishlist:item=3355385170&perks=3400784728,3523296417#notes:Tier A - PvE 3.8 - PvP 4.2 - Excels PvE + PvP - Popular Combo (5.402%)
@@ -5584,7 +6249,6 @@ dimwishlist:item=1941816543&perks=1820235745#notes:Tier B - PvE 4.7 - PvP 3.5 - 
 dimwishlist:item=1941816543&perks=4104185692#notes:Tier B - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1941816543&perks=3643424744#notes:Tier B - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1941816543&perks=3523296417#notes:Tier B - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1248372789#notes:Tier C - PvE 4.4 - PvP 3.9
 dimwishlist:item=2856514843&perks=2387244414,460017080#notes:Tier B - PvE 4.4 - PvP 4.3 - Excels PvP - Most Popular Combo (18.821%)
 dimwishlist:item=2856514843&perks=1168162263,124408337#notes:Tier B - PvE 4.4 - PvP 4.3 - Excels PvP - Popular Combo (10.054%)
 dimwishlist:item=2856514843&perks=588594999,460017080#notes:Tier B - PvE 4.4 - PvP 4.3 - Excels PvP - Popular Combo (9.534%)
@@ -5596,7 +6260,6 @@ dimwishlist:item=2856514843&perks=460017080#notes:Tier B - PvE 4.4 - PvP 4.3 - E
 dimwishlist:item=2856514843&perks=1168162263#notes:Tier B - PvE 4.4 - PvP 4.3 - Excels PvP - Popular Perk 1
 dimwishlist:item=2856514843&perks=588594999#notes:Tier B - PvE 4.4 - PvP 4.3 - Excels PvP - Popular Perk 1
 dimwishlist:item=2856514843&perks=124408337#notes:Tier B - PvE 4.4 - PvP 4.3 - Excels PvP - Popular Perk 2
-dimwishlist:item=-2721157927#notes:Tier C - PvE 2.6 - PvP 1.7
 dimwishlist:item=2595497736&perks=3526486541,3108830275#notes:Tier B - PvE 4.5 - PvP 3.2 - Excels PvE - Most Popular Combo (12.788%)
 dimwishlist:item=2595497736&perks=951095735,4104185692#notes:Tier B - PvE 4.5 - PvP 3.2 - Excels PvE - Popular Combo (10.19%)
 dimwishlist:item=2595497736&perks=951095735,2224838837#notes:Tier B - PvE 4.5 - PvP 3.2 - Excels PvE - Popular Combo (9.063%)
@@ -5678,7 +6341,6 @@ dimwishlist:item=1626503676&perks=1015611457#notes:Tier B - PvE 1.7 - PvP 4.8 - 
 dimwishlist:item=1626503676&perks=3161816588#notes:Tier B - PvE 1.7 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=1626503676&perks=3436462433#notes:Tier B - PvE 1.7 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=1626503676&perks=2846385770#notes:Tier B - PvE 1.7 - PvP 4.8 - Excels PvP - Popular Perk 2
-dimwishlist:item=-6857689#notes:Tier D - PvE 3.9 - PvP 4.5
 dimwishlist:item=2708806099&perks=3523296417,4293542123#notes:Tier S - PvE 4.5 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (21.485%)
 dimwishlist:item=2708806099&perks=1428297954,1015611457#notes:Tier S - PvE 4.5 - PvP 4.6 - Excels PvE + PvP - Popular Combo (10.727%)
 dimwishlist:item=2708806099&perks=1168162263,4293542123#notes:Tier S - PvE 4.5 - PvP 4.6 - Excels PvE + PvP - Popular Combo (3.831%)
@@ -5698,7 +6360,6 @@ dimwishlist:item=2066434718&perks=2284787283#notes:Tier B - PvE 4.4 - PvP 2.5 - 
 dimwishlist:item=2066434718&perks=2396489472#notes:Tier B - PvE 4.4 - PvP 2.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2066434718&perks=951095735#notes:Tier B - PvE 4.4 - PvP 2.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=2066434718&perks=1546637391#notes:Tier B - PvE 4.4 - PvP 2.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1337707096#notes:Tier D - PvE 4.0 - PvP 3.1
 dimwishlist:item=577528837&perks=2946784966,1015611457#notes:Tier A - PvE 4.0 - PvP 4.3 - Excels PvP - Most Popular Combo (9.433%)
 dimwishlist:item=577528837&perks=1168162263,1015611457#notes:Tier A - PvE 4.0 - PvP 4.3 - Excels PvP - Popular Combo (8.788%)
 dimwishlist:item=577528837&perks=1820235745,4104185692#notes:Tier A - PvE 4.0 - PvP 4.3 - Excels PvP - Popular Combo (6.5%)
@@ -5717,8 +6378,6 @@ dimwishlist:item=2481758391&perks=3643424744#notes:Tier B - PvE 4.1 - PvP 4.6 - 
 dimwishlist:item=2481758391&perks=3425386926#notes:Tier B - PvE 4.1 - PvP 4.6 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=2481758391&perks=706527188#notes:Tier B - PvE 4.1 - PvP 4.6 - Excels PvP - Popular Perk 1
 dimwishlist:item=2481758391&perks=3436462433#notes:Tier B - PvE 4.1 - PvP 4.6 - Excels PvP - Popular Perk 1
-dimwishlist:item=-235827225#notes:Tier C - PvE 4.4 - PvP 4.7
-dimwishlist:item=-1076810832#notes:Tier C - PvE 3.2 - PvP 3.9
 dimwishlist:item=3184681056&perks=706527188,47981717#notes:Tier A - PvE 3.6 - PvP 4.6 - Excels PvP - Most Popular Combo (35.318%)
 dimwishlist:item=3184681056&perks=3161816588,47981717#notes:Tier A - PvE 3.6 - PvP 4.6 - Excels PvP - Popular Combo (22.169%)
 dimwishlist:item=3184681056&perks=3161816588,2360754333#notes:Tier A - PvE 3.6 - PvP 4.6 - Excels PvP - Popular Combo (3.694%)
@@ -5727,9 +6386,6 @@ dimwishlist:item=3184681056&perks=706527188#notes:Tier A - PvE 3.6 - PvP 4.6 - E
 dimwishlist:item=3184681056&perks=47981717#notes:Tier A - PvE 3.6 - PvP 4.6 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3184681056&perks=3161816588#notes:Tier A - PvE 3.6 - PvP 4.6 - Excels PvP - Popular Perk 1
 dimwishlist:item=3184681056&perks=2360754333#notes:Tier A - PvE 3.6 - PvP 4.6 - Excels PvP - Popular Perk 2
-dimwishlist:item=-3257091166#notes:Tier C - PvE 4.4 - PvP 3.8
-dimwishlist:item=-2139640995#notes:Tier D - PvE 4.7 - PvP 2.4 - Excels PvE
-dimwishlist:item=-3044460004#notes:Tier C - PvE 3.8 - PvP 3.2
 dimwishlist:item=1476654960&perks=3161816588,47981717#notes:Tier A - PvE 4.0 - PvP 3.1 - Excels PvP - Most Popular Combo (7.26%)
 dimwishlist:item=1476654960&perks=3523296417,11612903#notes:Tier A - PvE 4.0 - PvP 3.1 - Excels PvP - Popular Combo (7.26%)
 dimwishlist:item=1476654960&perks=588594999,1954620775#notes:Tier A - PvE 4.0 - PvP 3.1 - Excels PvP - Popular Combo (7.058%)
@@ -5796,8 +6452,6 @@ dimwishlist:item=378498222&perks=2846385770#notes:Tier A - PvE 4.7 - PvP 4.4 - E
 dimwishlist:item=378498222&perks=1015611457#notes:Tier A - PvE 4.7 - PvP 4.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=378498222&perks=3643424744#notes:Tier A - PvE 4.7 - PvP 4.4 - Excels PvE - Popular Perk 1
 dimwishlist:item=378498222&perks=588594999#notes:Tier A - PvE 4.7 - PvP 4.4 - Excels PvE - Popular Perk 1
-dimwishlist:item=-1399243961#notes:Tier C - PvE 4.9 - PvP 3.5
-dimwishlist:item=-2475355656#notes:Tier C - PvE 4.9 - PvP 3.5
 dimwishlist:item=548958835&perks=1820235745,4293542123#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Most Popular Combo (17.241%)
 dimwishlist:item=548958835&perks=3700496672,4293542123#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Popular Combo (8.655%)
 dimwishlist:item=548958835&perks=1048183818,4293542123#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Popular Combo (4.578%)
@@ -5805,7 +6459,6 @@ dimwishlist:item=548958835&perks=1820235745#notes:Tier A - PvE 4.4 - PvP 3.5 - E
 dimwishlist:item=548958835&perks=4293542123#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=548958835&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=548958835&perks=1048183818#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Popular Perk 1
-dimwishlist:item=-602618796#notes:Tier C - PvE 4.5 - PvP 4.4
 dimwishlist:item=1107446438&perks=247725512,1015611457#notes:Tier B - PvE 4.4 - PvP 4.2 - Excels PvE + PvP - Most Popular Combo (6.058%)
 dimwishlist:item=1107446438&perks=247725512,3425386926#notes:Tier B - PvE 4.4 - PvP 4.2 - Excels PvE + PvP - Popular Combo (2.977%)
 dimwishlist:item=1107446438&perks=1354429876,3425386926#notes:Tier B - PvE 4.4 - PvP 4.2 - Excels PvE + PvP - Popular Combo (2.58%)
@@ -5814,15 +6467,6 @@ dimwishlist:item=1107446438&perks=247725512#notes:Tier B - PvE 4.4 - PvP 4.2 - E
 dimwishlist:item=1107446438&perks=1015611457#notes:Tier B - PvE 4.4 - PvP 4.2 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1107446438&perks=1354429876#notes:Tier B - PvE 4.4 - PvP 4.2 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1107446438&perks=3425386926#notes:Tier B - PvE 4.4 - PvP 4.2 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3743729616#notes:Tier C - PvE 4.2 - PvP 4.8
-dimwishlist:item=-2496875173#notes:Tier C - PvE 4.0 - PvP 4.2
-dimwishlist:item=-2588048270#notes:Tier C - PvE 4.4 - PvP 3.4
-dimwishlist:item=-1028582252#notes:Tier C - PvE 3.0 - PvP 2.2
-dimwishlist:item=-2443900757#notes:Tier C - PvE 3.0 - PvP 2.2
-dimwishlist:item=-4255171531#notes:Tier C - PvE 4.7 - PvP 3.0
-dimwishlist:item=-1866778462#notes:Tier C - PvE 4.7 - PvP 3.0
-dimwishlist:item=-507038823#notes:Tier C - PvE 3.9 - PvP 4.2
-dimwishlist:item=-3326850591#notes:Tier C - PvE 4.0 - PvP 4.6
 dimwishlist:item=3257091167&perks=2077819806,1546637391#notes:Tier S - PvE 4.9 - PvP 4.1 - Excels PvE - Most Popular Combo (33.88%)
 dimwishlist:item=3257091167&perks=2077819806,3913600130#notes:Tier S - PvE 4.9 - PvP 4.1 - Excels PvE - Popular Combo (26.746%)
 dimwishlist:item=3257091167&perks=2077819806,4104185692#notes:Tier S - PvE 4.9 - PvP 4.1 - Excels PvE - Popular Combo (17.057%)
@@ -5830,7 +6474,6 @@ dimwishlist:item=3257091167&perks=2077819806#notes:Tier S - PvE 4.9 - PvP 4.1 - 
 dimwishlist:item=3257091167&perks=1546637391#notes:Tier S - PvE 4.9 - PvP 4.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3257091167&perks=3913600130#notes:Tier S - PvE 4.9 - PvP 4.1 - Excels PvE - Popular Perk 2
 dimwishlist:item=3257091167&perks=4104185692#notes:Tier S - PvE 4.9 - PvP 4.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1622998472#notes:Tier D - PvE 4.5 - PvP 3.4
 dimwishlist:item=1679868061&perks=1556840489,2679249093#notes:Tier A - PvE 4.7 - PvP 4.7 - Excels PvE + PvP - Most Popular Combo (14.844%)
 dimwishlist:item=1679868061&perks=3161816588,47981717#notes:Tier A - PvE 4.7 - PvP 4.7 - Excels PvE + PvP - Popular Combo (13.988%)
 dimwishlist:item=1679868061&perks=3161816588,2679249093#notes:Tier A - PvE 4.7 - PvP 4.7 - Excels PvE + PvP - Popular Combo (10.19%)
@@ -5863,7 +6506,6 @@ dimwishlist:item=1967303408&perks=2846385770#notes:Tier A - PvE 4.2 - PvP 4.1 - 
 dimwishlist:item=1967303408&perks=11551321#notes:Tier A - PvE 4.2 - PvP 4.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1967303408&perks=706527188#notes:Tier A - PvE 4.2 - PvP 4.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=1967303408&perks=3425386926#notes:Tier A - PvE 4.2 - PvP 4.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-875848769#notes:Tier C - PvE 4.2 - PvP 4.2
 dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:Tier B - PvE 4.8 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (15.504%)
 dimwishlist:item=1119734784&perks=2779035018,1015611457#notes:Tier B - PvE 4.8 - PvP 4.6 - Excels PvE + PvP - Popular Combo (10.391%)
 dimwishlist:item=1119734784&perks=1570042021,3425386926#notes:Tier B - PvE 4.8 - PvP 4.6 - Excels PvE + PvP - Popular Combo (8.985%)
@@ -5896,7 +6538,6 @@ dimwishlist:item=3796510434&perks=1359896290#notes:Tier S - PvE 4.9 - PvP 3.2 - 
 dimwishlist:item=3796510434&perks=3824105627#notes:Tier S - PvE 4.9 - PvP 3.2 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3796510434&perks=1820235745#notes:Tier S - PvE 4.9 - PvP 3.2 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3796510434&perks=3523296417#notes:Tier S - PvE 4.9 - PvP 3.2 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-2782325302#notes:Tier C - PvE 4.4 - PvP 2.5
 dimwishlist:item=4255586669&perks=3300816228,1546637391#notes:Tier A - PvE 4.8 - PvP 4.4 - Excels PvE - Most Popular Combo (14.572%)
 dimwishlist:item=4255586669&perks=3300816228,1683379515#notes:Tier A - PvE 4.8 - PvP 4.4 - Excels PvE - Popular Combo (9.696%)
 dimwishlist:item=4255586669&perks=3300816228,960810156#notes:Tier A - PvE 4.8 - PvP 4.4 - Excels PvE - Popular Combo (4.844%)
@@ -5904,8 +6545,6 @@ dimwishlist:item=4255586669&perks=3300816228#notes:Tier A - PvE 4.8 - PvP 4.4 - 
 dimwishlist:item=4255586669&perks=1546637391#notes:Tier A - PvE 4.8 - PvP 4.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=4255586669&perks=1683379515#notes:Tier A - PvE 4.8 - PvP 4.4 - Excels PvE - Popular Perk 2
 dimwishlist:item=4255586669&perks=960810156#notes:Tier A - PvE 4.8 - PvP 4.4 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2782325301#notes:Tier C - PvE 4.4 - PvP 4.1
-dimwishlist:item=-541188001#notes:Tier C - PvE 4.0 - PvP 3.9
 dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:Tier A - PvE 4.8 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (27.475%)
 dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Tier A - PvE 4.8 - PvP 4.6 - Excels PvE + PvP - Popular Combo (9.563%)
 dimwishlist:item=2171478765&perks=3038247973,1015611457#notes:Tier A - PvE 4.8 - PvP 4.6 - Excels PvE + PvP - Popular Combo (6.933%)
@@ -5996,8 +6635,6 @@ dimwishlist:item=3165547384&perks=951095735#notes:Tier A - PvE 4.2 - PvP 4.7 - E
 dimwishlist:item=3165547384&perks=2396489472#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3165547384&perks=2284787283#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Perk 1
 dimwishlist:item=3165547384&perks=3300816228#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Perk 1
-dimwishlist:item=-852551895#notes:Tier C - PvE 3.4 - PvP 4.2 - Excels PvP
-dimwishlist:item=-3556999246#notes:Tier D - PvE 4.1 - PvP 3.0
 dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:Tier A - PvE 4.5 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (9.085%)
 dimwishlist:item=1289000550&perks=1570042021,1427256713#notes:Tier A - PvE 4.5 - PvP 4.4 - Excels PvE + PvP - Popular Combo (7.53%)
 dimwishlist:item=1289000550&perks=2450788523,1427256713#notes:Tier A - PvE 4.5 - PvP 4.4 - Excels PvE + PvP - Popular Combo (5.476%)
@@ -6035,7 +6672,6 @@ dimwishlist:item=1987769101&perks=2779035018#notes:Tier S - PvE 4.7 - PvP 2.6 - 
 dimwishlist:item=1987769101&perks=3824105627#notes:Tier S - PvE 4.7 - PvP 2.6 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1987769101&perks=3418782618#notes:Tier S - PvE 4.7 - PvP 2.6 - Excels PvE - Popular Perk 1
 dimwishlist:item=1987769101&perks=2213355989#notes:Tier S - PvE 4.7 - PvP 2.6 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2782325300#notes:Tier D - PvE 3.1 - PvP 4.0
 dimwishlist:item=108221785&perks=706527188,591790007#notes:Tier B - PvE 2.7 - PvP 4.4 - Excels PvP - Most Popular Combo (26.776%)
 dimwishlist:item=108221785&perks=3436462433,591790007#notes:Tier B - PvE 2.7 - PvP 4.4 - Excels PvP - Popular Combo (13.351%)
 dimwishlist:item=108221785&perks=2039302152,591790007#notes:Tier B - PvE 2.7 - PvP 4.4 - Excels PvP - Popular Combo (11.98%)
@@ -6043,7 +6679,6 @@ dimwishlist:item=108221785&perks=706527188#notes:Tier B - PvE 2.7 - PvP 4.4 - Ex
 dimwishlist:item=108221785&perks=591790007#notes:Tier B - PvE 2.7 - PvP 4.4 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=108221785&perks=3436462433#notes:Tier B - PvE 2.7 - PvP 4.4 - Excels PvP - Popular Perk 1
 dimwishlist:item=108221785&perks=2039302152#notes:Tier B - PvE 2.7 - PvP 4.4 - Excels PvP - Popular Perk 1
-dimwishlist:item=-2434225986#notes:Tier D - PvE 4.2 - PvP 3.4
 dimwishlist:item=3682803680&perks=1359896290,1015611457#notes:Tier S - PvE 3.9 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (10.198%)
 dimwishlist:item=3682803680&perks=2450788523,1015611457#notes:Tier S - PvE 3.9 - PvP 4.6 - Excels PvE + PvP - Popular Combo (7.219%)
 dimwishlist:item=3682803680&perks=2946784966,1015611457#notes:Tier S - PvE 3.9 - PvP 4.6 - Excels PvE + PvP - Popular Combo (5.435%)
@@ -6065,7 +6700,6 @@ dimwishlist:item=599895591&perks=706527188#notes:Tier B - PvE 3.9 - PvP 4.1 - Ex
 dimwishlist:item=599895591&perks=47981717#notes:Tier B - PvE 3.9 - PvP 4.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=599895591&perks=588594999#notes:Tier B - PvE 3.9 - PvP 4.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=599895591&perks=4071163871#notes:Tier B - PvE 3.9 - PvP 4.1 - Excels PvE - Popular Perk 1
-dimwishlist:item=-2272470786#notes:Tier C - PvE 3.9 - PvP 3.5
 dimwishlist:item=310708513&perks=247725512,1015611457#notes:Tier B - PvE 3.9 - PvP 4.5 - Excels PvP - Most Popular Combo (12.229%)
 dimwishlist:item=310708513&perks=1168162263,1015611457#notes:Tier B - PvE 3.9 - PvP 4.5 - Excels PvP - Popular Combo (4.113%)
 dimwishlist:item=310708513&perks=3436462433,1015611457#notes:Tier B - PvE 3.9 - PvP 4.5 - Excels PvP - Popular Combo (3.07%)
@@ -6080,8 +6714,6 @@ dimwishlist:item=217140611&perks=1556840489#notes:Tier A - PvE 4.2 - PvP 2.9 - E
 dimwishlist:item=217140611&perks=2679249093#notes:Tier A - PvE 4.2 - PvP 2.9 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=217140611&perks=1631667848#notes:Tier A - PvE 4.2 - PvP 2.9 - Excels PvE - Popular Perk 1
 dimwishlist:item=217140611&perks=3161816588#notes:Tier A - PvE 4.2 - PvP 2.9 - Excels PvE - Popular Perk 1
-dimwishlist:item=-2492081469#notes:Tier D - PvE 3.6 - PvP 3.9
-dimwishlist:item=-2414141462#notes:Tier C - PvE 4.8 - PvP 4.0
 dimwishlist:item=2065081837&perks=3400784728,1546637391#notes:Tier A - PvE 4.3 - PvP 3.7 - Excels PvE + PvP - Most Popular Combo (8.829%)
 dimwishlist:item=2065081837&perks=957782887,1546637391#notes:Tier A - PvE 4.3 - PvP 3.7 - Excels PvE + PvP - Popular Combo (7.808%)
 dimwishlist:item=2065081837&perks=957782887,2213355989#notes:Tier A - PvE 4.3 - PvP 3.7 - Excels PvE + PvP - Popular Combo (7.764%)
@@ -6113,15 +6745,9 @@ dimwishlist:item=690668916&perks=2387244414#notes:Tier A - PvE 4.8 - PvP 2.4 - E
 dimwishlist:item=690668916&perks=3824105627#notes:Tier A - PvE 4.8 - PvP 2.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=690668916&perks=1015611457#notes:Tier A - PvE 4.8 - PvP 2.4 - Excels PvE - Popular Perk 2
 dimwishlist:item=690668916&perks=4104185692#notes:Tier A - PvE 4.8 - PvP 2.4 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1046651176#notes:Tier D - PvE 3.7 - PvP 4.7
-dimwishlist:item=-2121785039#notes:Tier C - PvE 4.7 - PvP 3.8
 dimwishlist:item=2481881293&perks=1556840489,1546637391#notes:Tier A - PvE 4.7 - PvP 4.2 - Excels PvE - Most Popular Combo (40.479%)
 dimwishlist:item=2481881293&perks=1556840489#notes:Tier A - PvE 4.7 - PvP 4.2 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=2481881293&perks=1546637391#notes:Tier A - PvE 4.7 - PvP 4.2 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=-2496242052#notes:Tier D - PvE 4.8 - PvP 3.0
-dimwishlist:item=-3514096004#notes:Tier D - PvE 2.1 - PvP 3.8
-dimwishlist:item=-1097616550#notes:Tier D - PvE 4.8 - PvP 3.5
-dimwishlist:item=-893527433#notes:Tier D - PvE 3.4 - PvP 4.5
 dimwishlist:item=3473290087&perks=2866798147,957782887#notes:Tier B - PvE 4.1 - PvP 4.7 - Excels PvP - Most Popular Combo (10.08%)
 dimwishlist:item=3473290087&perks=588594999,957782887#notes:Tier B - PvE 4.1 - PvP 4.7 - Excels PvP - Popular Combo (10.016%)
 dimwishlist:item=3473290087&perks=2450788523,957782887#notes:Tier B - PvE 4.1 - PvP 4.7 - Excels PvP - Popular Combo (4.964%)
@@ -6171,7 +6797,6 @@ dimwishlist:item=1402766122&perks=706527188#notes:Tier B - PvE 3.7 - PvP 3.7 - M
 dimwishlist:item=1402766122&perks=957782887#notes:Tier B - PvE 3.7 - PvP 3.7 - Most Popular Perk 2
 dimwishlist:item=1402766122&perks=2360754333#notes:Tier B - PvE 3.7 - PvP 3.7 - Popular Perk 2
 dimwishlist:item=1402766122&perks=4082225868#notes:Tier B - PvE 3.7 - PvP 3.7 - Popular Perk 2
-dimwishlist:item=-2448907086#notes:Tier C - PvE 4.9 - PvP 3.6
 dimwishlist:item=2633186522&perks=3643424744,2848615171#notes:Tier B - PvE 3.5 - PvP 2.2 - Excels PvE - Most Popular Combo (9.173%)
 dimwishlist:item=2633186522&perks=2450788523,2848615171#notes:Tier B - PvE 3.5 - PvP 2.2 - Excels PvE - Popular Combo (6.012%)
 dimwishlist:item=2633186522&perks=1354429876,2848615171#notes:Tier B - PvE 3.5 - PvP 2.2 - Excels PvE - Popular Combo (5.416%)
@@ -6186,9 +6811,6 @@ dimwishlist:item=2147010335&perks=3643424744#notes:Tier B - PvE 3.5 - PvP 2.2 - 
 dimwishlist:item=2147010335&perks=2848615171#notes:Tier B - PvE 3.5 - PvP 2.2 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2147010335&perks=4082225868#notes:Tier B - PvE 3.5 - PvP 2.2 - Excels PvE - Popular Perk 2
 dimwishlist:item=2147010335&perks=4049631843#notes:Tier B - PvE 3.5 - PvP 2.2 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1313528549#notes:Tier D - PvE 4.4 - PvP 3.8
-dimwishlist:item=-3847137620#notes:Tier D - PvE 4.4 - PvP 3.8
-dimwishlist:item=-3335343363#notes:Tier D - PvE 3.6 - PvP 3.6
 dimwishlist:item=409551876&perks=247725512,2458213969#notes:Tier B - PvE 4.1 - PvP 4.3 - Excels PvE - Most Popular Combo (3.793%)
 dimwishlist:item=409551876&perks=588594999,2387244414#notes:Tier B - PvE 4.1 - PvP 4.3 - Excels PvE - Popular Combo (3.228%)
 dimwishlist:item=409551876&perks=247725512,957782887#notes:Tier B - PvE 4.1 - PvP 4.3 - Excels PvE - Popular Combo (3.107%)
@@ -6229,9 +6851,6 @@ dimwishlist:item=1481892490&perks=706527188#notes:Tier A - PvE 3.9 - PvP 4.2 - E
 dimwishlist:item=1481892490&perks=2846385770#notes:Tier A - PvE 3.9 - PvP 4.2 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=1481892490&perks=2450788523#notes:Tier A - PvE 3.9 - PvP 4.2 - Excels PvP - Popular Perk 1
 dimwishlist:item=1481892490&perks=1168162263#notes:Tier A - PvE 3.9 - PvP 4.2 - Excels PvP - Popular Perk 1
-dimwishlist:item=-47772649#notes:Tier C - PvE 3.7 - PvP 3.1
-dimwishlist:item=-3836861464#notes:Tier C - PvE 3.7 - PvP 3.1
-dimwishlist:item=-4156253727#notes:Tier C - PvE 4.3 - PvP 4.5
 dimwishlist:item=3593598010&perks=2779035018,3425386926#notes:Tier A - PvE 3.8 - PvP 3.9 - Excels PvP - Most Popular Combo (12.835%)
 dimwishlist:item=3593598010&perks=588594999,3425386926#notes:Tier A - PvE 3.8 - PvP 3.9 - Excels PvP - Popular Combo (7.07%)
 dimwishlist:item=3593598010&perks=1645158859,3425386926#notes:Tier A - PvE 3.8 - PvP 3.9 - Excels PvP - Popular Combo (6.572%)
@@ -6239,7 +6858,6 @@ dimwishlist:item=3593598010&perks=2779035018#notes:Tier A - PvE 3.8 - PvP 3.9 - 
 dimwishlist:item=3593598010&perks=3425386926#notes:Tier A - PvE 3.8 - PvP 3.9 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3593598010&perks=588594999#notes:Tier A - PvE 3.8 - PvP 3.9 - Excels PvP - Popular Perk 1
 dimwishlist:item=3593598010&perks=1645158859#notes:Tier A - PvE 3.8 - PvP 3.9 - Excels PvP - Popular Perk 1
-dimwishlist:item=-3075224551#notes:Tier C - PvE 4.5 - PvP 2.8
 dimwishlist:item=3258665412&perks=1645158859,2213355989#notes:Tier B - PvE 3.7 - PvP 4.1 - Most Popular Combo (5.6%)
 dimwishlist:item=3258665412&perks=280464955,2213355989#notes:Tier B - PvE 3.7 - PvP 4.1 - Popular Combo (3.208%)
 dimwishlist:item=3258665412&perks=1645158859,1890422124#notes:Tier B - PvE 3.7 - PvP 4.1 - Popular Combo (3.049%)
@@ -6248,7 +6866,6 @@ dimwishlist:item=3258665412&perks=1645158859#notes:Tier B - PvE 3.7 - PvP 4.1 - 
 dimwishlist:item=3258665412&perks=2213355989#notes:Tier B - PvE 3.7 - PvP 4.1 - Most Popular Perk 2
 dimwishlist:item=3258665412&perks=280464955#notes:Tier B - PvE 3.7 - PvP 4.1 - Popular Perk 1
 dimwishlist:item=3258665412&perks=1890422124#notes:Tier B - PvE 3.7 - PvP 4.1 - Popular Perk 2
-dimwishlist:item=-20935540#notes:Tier C - PvE 4.4 - PvP 3.3
 dimwishlist:item=532746994&perks=3436462433,47981717#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Most Popular Combo (13.519%)
 dimwishlist:item=532746994&perks=3300816228,47981717#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Popular Combo (6.438%)
 dimwishlist:item=532746994&perks=3436462433,1264398905#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Popular Combo (5.15%)
@@ -6267,8 +6884,6 @@ dimwishlist:item=1621657423&perks=247725512#notes:Tier S - PvE 4.4 - PvP 4.7 - E
 dimwishlist:item=1621657423&perks=3365897133#notes:Tier S - PvE 4.4 - PvP 4.7 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1621657423&perks=2450788523#notes:Tier S - PvE 4.4 - PvP 4.7 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1621657423&perks=588594999#notes:Tier S - PvE 4.4 - PvP 4.7 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-2453357042#notes:Tier C - PvE 3.5 - PvP 2.8
-dimwishlist:item=-4037745684#notes:Tier D - PvE 4.0 - PvP 4.2
 dimwishlist:item=4230965989&perks=1523832109,557221067#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Most Popular Combo (46.171%)
 dimwishlist:item=4230965989&perks=1523832109#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=4230965989&perks=557221067#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Most Popular Perk 2
@@ -6283,8 +6898,6 @@ dimwishlist:item=3512349612&perks=2726471870#notes:Tier B - PvE 4.4 - PvP 2.6 - 
 dimwishlist:item=3512349612&perks=2450788523#notes:Tier B - PvE 4.4 - PvP 2.6 - Excels PvE - Popular Perk 1
 dimwishlist:item=3512349612&perks=1645158859#notes:Tier B - PvE 4.4 - PvP 2.6 - Excels PvE - Popular Perk 1
 dimwishlist:item=3512349612&perks=2846385770#notes:Tier B - PvE 4.4 - PvP 2.6 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2714022207#notes:Tier D - PvE 3.5 - PvP 3.0
-dimwishlist:item=-3565520715#notes:Tier C - PvE 4.5 - PvP 3.6
 dimwishlist:item=981718087&perks=1556840489,3300816228#notes:Tier A - PvE 4.7 - PvP 3.1 - Excels PvE - Most Popular Combo (18.961%)
 dimwishlist:item=981718087&perks=2010801679,3300816228#notes:Tier A - PvE 4.7 - PvP 3.1 - Excels PvE - Popular Combo (13.934%)
 dimwishlist:item=981718087&perks=2010801679,3425386926#notes:Tier A - PvE 4.7 - PvP 3.1 - Excels PvE - Popular Combo (11.38%)
@@ -6308,7 +6921,6 @@ dimwishlist:item=3637570176&perks=588594999#notes:Tier S - PvE 2.3 - PvP 4.8 - E
 dimwishlist:item=3637570176&perks=957782887#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3637570176&perks=2866798147#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=3637570176&perks=3436462433#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 1
-dimwishlist:item=-1513993763#notes:Tier D - PvE 4.3 - PvP 2.8
 dimwishlist:item=1030895163&perks=1820235745,1427256713#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Most Popular Combo (21.728%)
 dimwishlist:item=1030895163&perks=1645158859,2213355989#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Combo (14.695%)
 dimwishlist:item=1030895163&perks=3161816588,1427256713#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Combo (8.821%)
@@ -6320,11 +6932,9 @@ dimwishlist:item=1030895163&perks=1427256713#notes:Tier A - PvE 4.5 - PvP 4.3 - 
 dimwishlist:item=1030895163&perks=1645158859#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Perk 1
 dimwishlist:item=1030895163&perks=3161816588#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Perk 1
 dimwishlist:item=1030895163&perks=2213355989#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2870169846#notes:Tier C - PvE 4.2 - PvP 3.9
 dimwishlist:item=4248569242&perks=1523832109,469285294#notes:Tier A - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Most Popular Combo (43.693%)
 dimwishlist:item=4248569242&perks=1523832109#notes:Tier A - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=4248569242&perks=469285294#notes:Tier A - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Most Popular Perk 2
-dimwishlist:item=-1197486957#notes:Tier C - PvE 4.6 - PvP 3.9
 dimwishlist:item=3281285075&perks=2173046394,4104185692#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - Most Popular Combo (16.962%)
 dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - Popular Combo (8.535%)
 dimwishlist:item=3281285075&perks=2173046394,3425386926#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - Popular Combo (6.289%)
@@ -6333,7 +6943,6 @@ dimwishlist:item=3281285075&perks=2173046394#notes:Tier A - PvE 4.6 - PvP 3.8 - 
 dimwishlist:item=3281285075&perks=4104185692#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3281285075&perks=1523832109#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - Popular Perk 1
 dimwishlist:item=3281285075&perks=3425386926#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2776503072#notes:Tier D - PvE 3.8 - PvP 2.6
 dimwishlist:item=2050789284&perks=1168162263,1015611457#notes:Tier A - PvE 4.1 - PvP 4.8 - Excels PvP - Most Popular Combo (9.408%)
 dimwishlist:item=2050789284&perks=2450788523,1015611457#notes:Tier A - PvE 4.1 - PvP 4.8 - Excels PvP - Popular Combo (5.28%)
 dimwishlist:item=2050789284&perks=1168162263,460017080#notes:Tier A - PvE 4.1 - PvP 4.8 - Excels PvP - Popular Combo (4.682%)
@@ -6342,7 +6951,6 @@ dimwishlist:item=2050789284&perks=1168162263#notes:Tier A - PvE 4.1 - PvP 4.8 - 
 dimwishlist:item=2050789284&perks=1015611457#notes:Tier A - PvE 4.1 - PvP 4.8 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=2050789284&perks=2450788523#notes:Tier A - PvE 4.1 - PvP 4.8 - Excels PvP - Popular Perk 1
 dimwishlist:item=2050789284&perks=460017080#notes:Tier A - PvE 4.1 - PvP 4.8 - Excels PvP - Popular Perk 2
-dimwishlist:item=-42351395#notes:Tier D - PvE 4.5 - PvP 3.5
 dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Most Popular Combo (39.228%)
 dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Popular Combo (15.285%)
 dimwishlist:item=2990047042&perks=1523832109,1771339417#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Popular Combo (5.409%)
@@ -6350,9 +6958,6 @@ dimwishlist:item=2990047042&perks=1523832109#notes:Tier S - PvE 4.8 - PvP 4.0 - 
 dimwishlist:item=2990047042&perks=1546637391#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2990047042&perks=469285294#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=2990047042&perks=1771339417#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1641430382#notes:Tier D - PvE 3.8 - PvP 4.0
-dimwishlist:item=-2386979999#notes:Tier C - PvE 2.9 - PvP 4.2
-dimwishlist:item=-2220884262#notes:Tier D - PvE 2.9 - PvP 4.4
 dimwishlist:item=3514144928&perks=3643424744,3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (8.786%)
 dimwishlist:item=3514144928&perks=1359896290,3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Combo (5.238%)
 dimwishlist:item=3514144928&perks=1428297954,3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Combo (4.924%)
@@ -6360,7 +6965,6 @@ dimwishlist:item=3514144928&perks=3643424744#notes:Tier A - PvE 4.4 - PvP 4.6 - 
 dimwishlist:item=3514144928&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3514144928&perks=1359896290#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3514144928&perks=1428297954#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-1766088024#notes:Tier C - PvE 4.5 - PvP 3.4
 dimwishlist:item=1366917989&perks=3977735242,1275731761#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Most Popular Combo (10.571%)
 dimwishlist:item=1366917989&perks=3977735242,3927722942#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Combo (8.045%)
 dimwishlist:item=1366917989&perks=951095735,2396489472#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Combo (7.203%)
@@ -6387,7 +6991,6 @@ dimwishlist:item=2891672170&perks=1631667848#notes:Tier B - PvE 4.3 - PvP 3.6 - 
 dimwishlist:item=2891672170&perks=2679249093#notes:Tier B - PvE 4.3 - PvP 3.6 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=2891672170&perks=3300816228#notes:Tier B - PvE 4.3 - PvP 3.6 - Excels PvP - Popular Perk 1
 dimwishlist:item=2891672170&perks=3161816588#notes:Tier B - PvE 4.3 - PvP 3.6 - Excels PvP - Popular Perk 1
-dimwishlist:item=-407621213#notes:Tier C - PvE 4.4 - PvP 2.7
 dimwishlist:item=1216130969&perks=2387244414,460017080#notes:Tier B - PvE 2.5 - PvP 4.2 - Excels PvP - Most Popular Combo (21.986%)
 dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:Tier B - PvE 2.5 - PvP 4.2 - Excels PvP - Popular Combo (11.744%)
 dimwishlist:item=1216130969&perks=2779035018,4082225868#notes:Tier B - PvE 2.5 - PvP 4.2 - Excels PvP - Popular Combo (6.417%)
@@ -6399,8 +7002,6 @@ dimwishlist:item=1216130969&perks=460017080#notes:Tier B - PvE 2.5 - PvP 4.2 - E
 dimwishlist:item=1216130969&perks=2779035018#notes:Tier B - PvE 2.5 - PvP 4.2 - Excels PvP - Popular Perk 1
 dimwishlist:item=1216130969&perks=2458213969#notes:Tier B - PvE 2.5 - PvP 4.2 - Excels PvP - Popular Perk 2
 dimwishlist:item=1216130969&perks=4082225868#notes:Tier B - PvE 2.5 - PvP 4.2 - Excels PvP - Popular Perk 2
-dimwishlist:item=-2742490609#notes:Tier D - PvE 3.6 - PvP 3.3
-dimwishlist:item=-614426548#notes:PvE 4.9 - PvP 3.0
 dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:Tier B - PvE 3.9 - PvP 3.8 - Excels PvE + PvP - Most Popular Combo (10.127%)
 dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:Tier B - PvE 3.9 - PvP 3.8 - Excels PvE + PvP - Popular Combo (7.117%)
 dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:Tier B - PvE 3.9 - PvP 3.8 - Excels PvE + PvP - Popular Combo (6.94%)
@@ -6408,14 +7009,6 @@ dimwishlist:item=3143732432&perks=3643424744#notes:Tier B - PvE 3.9 - PvP 3.8 - 
 dimwishlist:item=3143732432&perks=3425386926#notes:Tier B - PvE 3.9 - PvP 3.8 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3143732432&perks=1820235745#notes:Tier B - PvE 3.9 - PvP 3.8 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=3143732432&perks=2779035018#notes:Tier B - PvE 3.9 - PvP 3.8 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-3616586446#notes:Tier C - PvE 2.6 - PvP 2.6 - Excels PvE
-dimwishlist:item=-607191995#notes:Tier C - PvE 2.8 - PvP 2.4
-dimwishlist:item=-3669616453#notes:Tier D - PvE 3.9 - PvP 3.6
-dimwishlist:item=-1200824700#notes:PvE 3.4 - PvP 3.2
-dimwishlist:item=-1096206669#notes:PvE 4.7 - PvP 3.3
-dimwishlist:item=-2222560548#notes:PvE 4.7 - PvP 3.7
-dimwishlist:item=-1253087083#notes:PvE 4.0 - PvP 3.8
-dimwishlist:item=-1835747805#notes:Tier D - PvE 3.3 - PvP 4.3
 dimwishlist:item=3629968765&perks=1749209109,3913600130#notes:Tier A - PvE 2.0 - PvP 1.2 - Excels PvE - Most Popular Combo (24.321%)
 dimwishlist:item=3629968765&perks=2590710093,3913600130#notes:Tier A - PvE 2.0 - PvP 1.2 - Excels PvE - Popular Combo (13.587%)
 dimwishlist:item=3629968765&perks=1749209109,3708227201#notes:Tier A - PvE 2.0 - PvP 1.2 - Excels PvE - Popular Combo (8.447%)
@@ -6424,7 +7017,6 @@ dimwishlist:item=3629968765&perks=1749209109#notes:Tier A - PvE 2.0 - PvP 1.2 - 
 dimwishlist:item=3629968765&perks=3913600130#notes:Tier A - PvE 2.0 - PvP 1.2 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3629968765&perks=2590710093#notes:Tier A - PvE 2.0 - PvP 1.2 - Excels PvE - Popular Perk 1
 dimwishlist:item=3629968765&perks=3708227201#notes:Tier A - PvE 2.0 - PvP 1.2 - Excels PvE - Popular Perk 2
-dimwishlist:item=-35794111#notes:Tier D - PvE 3.9 - PvP 3.0
 dimwishlist:item=65611680&perks=588594999,1015611457#notes:Tier B - PvE 2.1 - PvP 4.7 - Most Popular Combo (13.326%)
 dimwishlist:item=65611680&perks=2779035018,1015611457#notes:Tier B - PvE 2.1 - PvP 4.7 - Popular Combo (11.572%)
 dimwishlist:item=65611680&perks=588594999,11551321#notes:Tier B - PvE 2.1 - PvP 4.7 - Popular Combo (5.947%)
@@ -6433,7 +7025,6 @@ dimwishlist:item=65611680&perks=588594999#notes:Tier B - PvE 2.1 - PvP 4.7 - Mos
 dimwishlist:item=65611680&perks=1015611457#notes:Tier B - PvE 2.1 - PvP 4.7 - Most Popular Perk 2
 dimwishlist:item=65611680&perks=2779035018#notes:Tier B - PvE 2.1 - PvP 4.7 - Popular Perk 1
 dimwishlist:item=65611680&perks=11551321#notes:Tier B - PvE 2.1 - PvP 4.7 - Popular Perk 2
-dimwishlist:item=-1690783811#notes:Tier D - PvE 4.0 - PvP 4.8
 dimwishlist:item=1946491241&perks=3300816228,1683379515#notes:Tier A - PvE 2.3 - PvP 3.4 - Excels PvE - Most Popular Combo (21.014%)
 dimwishlist:item=1946491241&perks=3300816228,3523296417#notes:Tier A - PvE 2.3 - PvP 3.4 - Excels PvE - Popular Combo (15.058%)
 dimwishlist:item=1946491241&perks=3300816228,706527188#notes:Tier A - PvE 2.3 - PvP 3.4 - Excels PvE - Popular Combo (13.292%)
@@ -6441,8 +7032,6 @@ dimwishlist:item=1946491241&perks=3300816228#notes:Tier A - PvE 2.3 - PvP 3.4 - 
 dimwishlist:item=1946491241&perks=1683379515#notes:Tier A - PvE 2.3 - PvP 3.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1946491241&perks=3523296417#notes:Tier A - PvE 2.3 - PvP 3.4 - Excels PvE - Popular Perk 2
 dimwishlist:item=1946491241&perks=706527188#notes:Tier A - PvE 2.3 - PvP 3.4 - Excels PvE - Popular Perk 2
-dimwishlist:item=-211938782#notes:Tier C - PvE 3.0 - PvP 2.8
-dimwishlist:item=-1271343896#notes:Tier D - PvE 3.6 - PvP 4.2
 dimwishlist:item=1697682876&perks=3436462433,47981717#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Most Popular Combo (24.438%)
 dimwishlist:item=1697682876&perks=3436462433,1264398905#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Popular Combo (6.272%)
 dimwishlist:item=1697682876&perks=3300816228,47981717#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Popular Combo (5.882%)
@@ -6451,10 +7040,6 @@ dimwishlist:item=1697682876&perks=3436462433#notes:Tier B - PvE 2.8 - PvP 4.6 - 
 dimwishlist:item=1697682876&perks=47981717#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=1697682876&perks=3300816228#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Popular Perk 1
 dimwishlist:item=1697682876&perks=1264398905#notes:Tier B - PvE 2.8 - PvP 4.6 - Excels PvP - Popular Perk 2
-dimwishlist:item=-2742838701#notes:Tier C - PvE 3.2 - PvP 4.3
-dimwishlist:item=-2807687156#notes:Tier C - PvE 2.5 - PvP 3.0
-dimwishlist:item=-1723380073#notes:Tier D - PvE 3.2 - PvP 4.7
-dimwishlist:item=-1786797708#notes:Tier D - PvE 4.3 - PvP 3.5
 dimwishlist:item=679281855&perks=3161816588,1754714824#notes:Tier B - PvE 3.2 - PvP 4.7 - Excels PvP - Most Popular Combo (12.307%)
 dimwishlist:item=679281855&perks=706527188,1754714824#notes:Tier B - PvE 3.2 - PvP 4.7 - Excels PvP - Popular Combo (6.04%)
 dimwishlist:item=679281855&perks=706527188,2213355989#notes:Tier B - PvE 3.2 - PvP 4.7 - Excels PvP - Popular Combo (5.474%)
@@ -6488,11 +7073,6 @@ dimwishlist:item=2257180473&perks=2284787283#notes:Tier B - PvE 4.9 - PvP 3.5 - 
 dimwishlist:item=2257180473&perks=2888557110#notes:Tier B - PvE 4.9 - PvP 3.5 - Most Popular Perk 2
 dimwishlist:item=2257180473&perks=3300816228#notes:Tier B - PvE 4.9 - PvP 3.5 - Popular Perk 1
 dimwishlist:item=2257180473&perks=2869569095#notes:Tier B - PvE 4.9 - PvP 3.5 - Popular Perk 1
-dimwishlist:item=-1162247618#notes:Tier D - PvE 3.1 - PvP 4.3
-dimwishlist:item=-1561006927#notes:Tier D - PvE 4.2 - PvP 3.1
-dimwishlist:item=-1821724780#notes:Tier C - PvE 4.2 - PvP 4.4
-dimwishlist:item=-3037520408#notes:Tier D - PvE 3.6 - PvP 2.7 - Excels PvE
-dimwishlist:item=-2582755344#notes:Tier D - PvE 4.1 - PvP 3.3
 dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:Tier B - PvE 4.8 - PvP 4.2 - Most Popular Combo (9.472%)
 dimwishlist:item=3937866388&perks=3523296417,1546637391#notes:Tier B - PvE 4.8 - PvP 4.2 - Popular Combo (9.428%)
 dimwishlist:item=3937866388&perks=4267945040,2848615171#notes:Tier B - PvE 4.8 - PvP 4.2 - Popular Combo (8.024%)
@@ -6501,8 +7081,6 @@ dimwishlist:item=3937866388&perks=3523296417#notes:Tier B - PvE 4.8 - PvP 4.2 - 
 dimwishlist:item=3937866388&perks=2848615171#notes:Tier B - PvE 4.8 - PvP 4.2 - Most Popular Perk 2
 dimwishlist:item=3937866388&perks=4267945040#notes:Tier B - PvE 4.8 - PvP 4.2 - Popular Perk 1
 dimwishlist:item=3937866388&perks=1546637391#notes:Tier B - PvE 4.8 - PvP 4.2 - Popular Perk 2
-dimwishlist:item=-766323545#notes:Tier D - PvE 4.1 - PvP 2.8
-dimwishlist:item=-2478792241#notes:Tier C - PvE 2.9 - PvP 4.2
 dimwishlist:item=1907698332&perks=3643424744,3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Most Popular Combo (9.681%)
 dimwishlist:item=1907698332&perks=1359896290,3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Combo (5.321%)
 dimwishlist:item=1907698332&perks=588594999,3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Combo (3.897%)
@@ -6510,7 +7088,6 @@ dimwishlist:item=1907698332&perks=3643424744#notes:Tier A - PvE 4.4 - PvP 4.6 - 
 dimwishlist:item=1907698332&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=1907698332&perks=1359896290#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1907698332&perks=588594999#notes:Tier A - PvE 4.4 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-3055192515#notes:Tier C - PvE 3.9 - PvP 4.3
 dimwishlist:item=958384347&perks=3977735242,2726471870#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Most Popular Combo (28.815%)
 dimwishlist:item=958384347&perks=3977735242,1275731761#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Combo (12.868%)
 dimwishlist:item=958384347&perks=706527188,2396489472#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Combo (7.547%)
@@ -6522,7 +7099,6 @@ dimwishlist:item=958384347&perks=2726471870#notes:Tier A - PvE 4.5 - PvP 3.0 - E
 dimwishlist:item=958384347&perks=706527188#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=958384347&perks=1275731761#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Perk 2
 dimwishlist:item=958384347&perks=2396489472#notes:Tier A - PvE 4.5 - PvP 3.0 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2742838700#notes:Tier C - PvE 4.1 - PvP 4.3 - Excels PvP
 dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:Tier B - PvE 4.6 - PvP 4.1 - Most Popular Combo (13.547%)
 dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:Tier B - PvE 4.6 - PvP 4.1 - Popular Combo (12.478%)
 dimwishlist:item=1289997971&perks=1168162263,3425386926#notes:Tier B - PvE 4.6 - PvP 4.1 - Popular Combo (8.675%)
@@ -6531,9 +7107,6 @@ dimwishlist:item=1289997971&perks=3523296417#notes:Tier B - PvE 4.6 - PvP 4.1 - 
 dimwishlist:item=1289997971&perks=3425386926#notes:Tier B - PvE 4.6 - PvP 4.1 - Most Popular Perk 2
 dimwishlist:item=1289997971&perks=1168162263#notes:Tier B - PvE 4.6 - PvP 4.1 - Popular Perk 1
 dimwishlist:item=1289997971&perks=2458213969#notes:Tier B - PvE 4.6 - PvP 4.1 - Popular Perk 2
-dimwishlist:item=-1506719573#notes:Tier D - PvE 3.9 - PvP 3.4
-dimwishlist:item=-4106983932#notes:PvE 4.3 - PvP 4.5
-dimwishlist:item=-1706206669#notes:PvE 4.6 - PvP 4.0
 dimwishlist:item=1807343361&perks=2117683199,2679249093#notes:Tier B - PvE 3.4 - PvP 4.2 - Excels PvE - Most Popular Combo (16.146%)
 dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:Tier B - PvE 3.4 - PvP 4.2 - Excels PvE - Popular Combo (10.243%)
 dimwishlist:item=1807343361&perks=2869569095,2679249093#notes:Tier B - PvE 3.4 - PvP 4.2 - Excels PvE - Popular Combo (6.076%)
@@ -6541,9 +7114,6 @@ dimwishlist:item=1807343361&perks=2117683199#notes:Tier B - PvE 3.4 - PvP 4.2 - 
 dimwishlist:item=1807343361&perks=2679249093#notes:Tier B - PvE 3.4 - PvP 4.2 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1807343361&perks=1631667848#notes:Tier B - PvE 3.4 - PvP 4.2 - Excels PvE - Popular Perk 1
 dimwishlist:item=1807343361&perks=2869569095#notes:Tier B - PvE 3.4 - PvP 4.2 - Excels PvE - Popular Perk 1
-dimwishlist:item=-3233390913#notes:PvE 2.0 - PvP 3.8
-dimwishlist:item=-410996590#notes:PvE 4.8 - PvP 3.8
-dimwishlist:item=-3622137132#notes:PvE 3.9 - PvP 4.5
 dimwishlist:item=946443267&perks=247725512,1771339417#notes:Tier B - PvE 4.7 - PvP 4.0 - Most Popular Combo (37.5%)
 dimwishlist:item=946443267&perks=247725512#notes:Tier B - PvE 4.7 - PvP 4.0 - Most Popular Perk 1
 dimwishlist:item=946443267&perks=1771339417#notes:Tier B - PvE 4.7 - PvP 4.0 - Most Popular Perk 2
@@ -6555,7 +7125,6 @@ dimwishlist:item=3850168899&perks=3300816228#notes:Tier A - PvE 4.7 - PvP 3.0 - 
 dimwishlist:item=3850168899&perks=3523296417#notes:Tier A - PvE 4.7 - PvP 3.0 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3850168899&perks=2869569095#notes:Tier A - PvE 4.7 - PvP 3.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=3850168899&perks=1556840489#notes:Tier A - PvE 4.7 - PvP 3.0 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1529450902#notes:PvE 3.7 - PvP 3.5
 dimwishlist:item=2723241847&perks=247725512,3038247973#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE - Most Popular Combo (33.975%)
 dimwishlist:item=2723241847&perks=4267945040,3038247973#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE - Popular Combo (21.744%)
 dimwishlist:item=2723241847&perks=247725512,1546637391#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE - Popular Combo (5.889%)
@@ -6571,13 +7140,6 @@ dimwishlist:item=3393519051&perks=3523296417#notes:Tier S - PvE 4.5 - PvP 3.4 - 
 dimwishlist:item=3393519051&perks=2360754333#notes:Tier S - PvE 4.5 - PvP 3.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3393519051&perks=2679249093#notes:Tier S - PvE 4.5 - PvP 3.4 - Excels PvE - Popular Perk 2
 dimwishlist:item=3393519051&perks=4082225868#notes:Tier S - PvE 4.5 - PvP 3.4 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1289324202#notes:PvE 3.9 - PvP 2.5
-dimwishlist:item=-1251729046#notes:PvE 4.6 - PvP 3.1
-dimwishlist:item=-3569802112#notes:PvE 3.6 - PvP 4.6
-dimwishlist:item=-4149758318#notes:PvE 4.5 - PvP 4.8
-dimwishlist:item=-4166221755#notes:PvE 4.3 - PvP 3.0
-dimwishlist:item=-3863882743#notes:PvE 3.2 - PvP 4.2
-dimwishlist:item=-3325778512#notes:Tier C - PvE 4.1 - PvP 2.9
 dimwishlist:item=4095896073&perks=201365942,3365897133#notes:Tier S - PvE 4.5 - PvP 4.1 - Excels PvE + PvP - Most Popular Combo (20.61%)
 dimwishlist:item=4095896073&perks=201365942,247725512#notes:Tier S - PvE 4.5 - PvP 4.1 - Excels PvE + PvP - Popular Combo (12.906%)
 dimwishlist:item=4095896073&perks=706527188,3365897133#notes:Tier S - PvE 4.5 - PvP 4.1 - Excels PvE + PvP - Popular Combo (10.777%)
@@ -6601,9 +7163,6 @@ dimwishlist:item=48643186&perks=247725512#notes:Tier A - PvE 4.5 - PvP 4.7 - Exc
 dimwishlist:item=48643186&perks=1015611457#notes:Tier A - PvE 4.5 - PvP 4.7 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=48643186&perks=1168162263#notes:Tier A - PvE 4.5 - PvP 4.7 - Excels PvE - Popular Perk 1
 dimwishlist:item=48643186&perks=2848615171#notes:Tier A - PvE 4.5 - PvP 4.7 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2164448701#notes:Tier C - PvE 2.6 - PvP 3.9
-dimwishlist:item=-2723909519#notes:Tier D - PvE 4.1 - PvP 3.3
-dimwishlist:item=-2782847179#notes:Tier D - PvE 3.8 - PvP 4.6
 dimwishlist:item=528834068&perks=1354429876,1546637391#notes:Tier B - PvE 3.9 - PvP 4.0 - Excels PvE + PvP - Most Popular Combo (11.989%)
 dimwishlist:item=528834068&perks=1359896290,1546637391#notes:Tier B - PvE 3.9 - PvP 4.0 - Excels PvE + PvP - Popular Combo (9.132%)
 dimwishlist:item=528834068&perks=1359896290,1890422124#notes:Tier B - PvE 3.9 - PvP 4.0 - Excels PvE + PvP - Popular Combo (6.415%)
@@ -6612,12 +7171,6 @@ dimwishlist:item=528834068&perks=1354429876#notes:Tier B - PvE 3.9 - PvP 4.0 - E
 dimwishlist:item=528834068&perks=1546637391#notes:Tier B - PvE 3.9 - PvP 4.0 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=528834068&perks=1359896290#notes:Tier B - PvE 3.9 - PvP 4.0 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=528834068&perks=1890422124#notes:Tier B - PvE 3.9 - PvP 4.0 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2931957300#notes:Tier C - PvE 3.7 - PvP 3.9
-dimwishlist:item=-4277547616#notes:Tier D - PvE 4.2 - PvP 3.2
-dimwishlist:item=-3067821200#notes:Tier D - PvE 4.2 - PvP 2.7
-dimwishlist:item=-2314999489#notes:Tier C - PvE 4.0 - PvP 3.5
-dimwishlist:item=-3924212056#notes:Tier D - PvE 3.9 - PvP 3.9
-dimwishlist:item=-3690523502#notes:Tier C - PvE 4.1 - PvP 2.7
 dimwishlist:item=3870811754&perks=1749209109,3913600130#notes:Tier B - PvE 4.1 - PvP 3.3 - Most Popular Combo (12.586%)
 dimwishlist:item=3870811754&perks=2590710093,3913600130#notes:Tier B - PvE 4.1 - PvP 3.3 - Popular Combo (8.727%)
 dimwishlist:item=3870811754&perks=1749209109,1546637391#notes:Tier B - PvE 4.1 - PvP 3.3 - Popular Combo (3.678%)
@@ -6640,9 +7193,6 @@ dimwishlist:item=1016668089&perks=3300816228#notes:Tier A - PvE 4.3 - PvP 2.5 - 
 dimwishlist:item=1016668089&perks=2679249093#notes:Tier A - PvE 4.3 - PvP 2.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1016668089&perks=1556840489#notes:Tier A - PvE 4.3 - PvP 2.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=1016668089&perks=3436462433#notes:Tier A - PvE 4.3 - PvP 2.5 - Excels PvE - Popular Perk 1
-dimwishlist:item=-2138599001#notes:Tier C - PvE 3.7 - PvP 4.5
-dimwishlist:item=-1952163498#notes:PvE 3.6 - PvP 4.2
-dimwishlist:item=-208088207#notes:Tier C - PvE 4.0 - PvP 4.4
 dimwishlist:item=4020742303&perks=2779035018,2679249093#notes:Tier S - PvE 3.5 - PvP 4.7 - Excels PvP - Most Popular Combo (16.006%)
 dimwishlist:item=4020742303&perks=2039302152,47981717#notes:Tier S - PvE 3.5 - PvP 4.7 - Excels PvP - Popular Combo (12.572%)
 dimwishlist:item=4020742303&perks=2117683199,2679249093#notes:Tier S - PvE 3.5 - PvP 4.7 - Excels PvP - Popular Combo (9.16%)
@@ -6677,8 +7227,6 @@ dimwishlist:item=2663204025&perks=1168162263#notes:Tier A - PvE 4.4 - PvP 3.4 - 
 dimwishlist:item=2663204025&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 3.4 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2663204025&perks=4082225868#notes:Tier A - PvE 4.4 - PvP 3.4 - Excels PvE - Popular Perk 2
 dimwishlist:item=2663204025&perks=2458213969#notes:Tier A - PvE 4.4 - PvP 3.4 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3369545945#notes:PvE 2.9 - PvP 2.3
-dimwishlist:item=-1645386487#notes:Tier D - PvE 2.7 - PvP 2.5
 dimwishlist:item=2209003210&perks=1645158859,2213355989#notes:Tier A - PvE 4.5 - PvP 4.5 - Excels PvP - Most Popular Combo (18.559%)
 dimwishlist:item=2209003210&perks=2779035018,3425386926#notes:Tier A - PvE 4.5 - PvP 4.5 - Excels PvP - Popular Combo (9.472%)
 dimwishlist:item=2209003210&perks=3300816228,2213355989#notes:Tier A - PvE 4.5 - PvP 4.5 - Excels PvP - Popular Combo (8.622%)
@@ -6698,7 +7246,6 @@ dimwishlist:item=2429822977&perks=1168162263#notes:Tier B - PvE 4.2 - PvP 4.6 - 
 dimwishlist:item=2429822977&perks=3425386926#notes:Tier B - PvE 4.2 - PvP 4.6 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=2429822977&perks=699525795#notes:Tier B - PvE 4.2 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2429822977&perks=2846385770#notes:Tier B - PvE 4.2 - PvP 4.6 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1496419775#notes:PvE 4.8 - PvP 4.3
 dimwishlist:item=4190932264&perks=957782887,706527188#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Most Popular Combo (38.382%)
 dimwishlist:item=4190932264&perks=957782887,588594999#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Popular Combo (16.394%)
 dimwishlist:item=4190932264&perks=957782887,2551157718#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Popular Combo (7.81%)
@@ -6714,8 +7261,6 @@ dimwishlist:item=174192097&perks=4071163871#notes:Tier S - PvE 4.3 - PvP 3.5 - E
 dimwishlist:item=174192097&perks=2779035018#notes:Tier S - PvE 4.3 - PvP 3.5 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=174192097&perks=1359896290#notes:Tier S - PvE 4.3 - PvP 3.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=174192097&perks=3708227201#notes:Tier S - PvE 4.3 - PvP 3.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2338088853#notes:PvE 3.5 - PvP 2.7
-dimwishlist:item=-569799274#notes:Tier C - PvE 4.7 - PvP 3.1
 dimwishlist:item=79075821&perks=4267945040,4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Combo (10.548%)
 dimwishlist:item=79075821&perks=4267945040,3425386926#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (8.997%)
 dimwishlist:item=79075821&perks=4267945040,957782887#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (7.756%)
@@ -6723,7 +7268,6 @@ dimwishlist:item=79075821&perks=4267945040#notes:Tier A - PvE 4.1 - PvP 4.5 - Ex
 dimwishlist:item=79075821&perks=4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=79075821&perks=3425386926#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=79075821&perks=957782887#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3861448240#notes:PvE 4.6 - PvP 4.0
 dimwishlist:item=1642384931&perks=2779035018,3425386926#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Most Popular Combo (15.677%)
 dimwishlist:item=1642384931&perks=2866798147,3425386926#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Combo (5.819%)
 dimwishlist:item=1642384931&perks=1645158859,3425386926#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Combo (4.751%)
@@ -6731,8 +7275,6 @@ dimwishlist:item=1642384931&perks=2779035018#notes:Tier B - PvE 4.8 - PvP 4.1 - 
 dimwishlist:item=1642384931&perks=3425386926#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1642384931&perks=2866798147#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Perk 1
 dimwishlist:item=1642384931&perks=1645158859#notes:Tier B - PvE 4.8 - PvP 4.1 - Excels PvE - Popular Perk 1
-dimwishlist:item=-1286686760#notes:PvE 4.0 - PvP 3.5
-dimwishlist:item=-569799275#notes:Tier C - PvE 4.8 - PvP 3.1 - Excels PvE
 dimwishlist:item=2326716489&perks=706527188,957782887#notes:Tier B - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Most Popular Combo (10.238%)
 dimwishlist:item=2326716489&perks=706527188,47981717#notes:Tier B - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Popular Combo (7.313%)
 dimwishlist:item=2326716489&perks=706527188,3161816588#notes:Tier B - PvE 4.0 - PvP 4.1 - Excels PvE + PvP - Popular Combo (5.393%)
@@ -6751,7 +7293,6 @@ dimwishlist:item=2919334548&perks=957782887#notes:Tier A - PvE 3.8 - PvP 4.6 - E
 dimwishlist:item=2919334548&perks=2779035018#notes:Tier A - PvE 3.8 - PvP 4.6 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=2919334548&perks=3425386926#notes:Tier A - PvE 3.8 - PvP 4.6 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=2919334548&perks=2360754333#notes:Tier A - PvE 3.8 - PvP 4.6 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-136525518#notes:Tier D - PvE 4.6 - PvP 4.3
 dimwishlist:item=4124357815&perks=2779035018,4082225868#notes:Tier A - PvE 3.8 - PvP 4.8 - Most Popular Combo (6.114%)
 dimwishlist:item=4124357815&perks=1890422124,1015611457#notes:Tier A - PvE 3.8 - PvP 4.8 - Popular Combo (5.895%)
 dimwishlist:item=4124357815&perks=1645158859,2846385770#notes:Tier A - PvE 3.8 - PvP 4.8 - Popular Combo (5.895%)
@@ -6775,14 +7316,6 @@ dimwishlist:item=569799273&perks=1749209109#notes:Tier B - PvE 4.4 - PvP 2.8 - M
 dimwishlist:item=569799273&perks=3913600130#notes:Tier B - PvE 4.4 - PvP 2.8 - Most Popular Perk 2
 dimwishlist:item=569799273&perks=2590710093#notes:Tier B - PvE 4.4 - PvP 2.8 - Popular Perk 1
 dimwishlist:item=569799273&perks=1685431615#notes:Tier B - PvE 4.4 - PvP 2.8 - Popular Perk 2
-dimwishlist:item=-2744715540#notes:Tier D - PvE 4.6 - PvP 3.1
-dimwishlist:item=-736901634#notes:PvE 4.6 - PvP 3.5
-dimwishlist:item=-821154603#notes:Tier C - PvE 4.5 - PvP 4.3
-dimwishlist:item=-715338174#notes:Tier C - PvE 4.1 - PvP 2.4
-dimwishlist:item=-755130877#notes:Tier D - PvE 4.1 - PvP 3.8
-dimwishlist:item=-188882152#notes:Tier C - PvE 3.1 - PvP 4.5
-dimwishlist:item=-2199171672#notes:Tier C - PvE 3.5 - PvP 3.8
-dimwishlist:item=-3504336176#notes:Tier C - PvE 4.6 - PvP 4.1
 dimwishlist:item=2108920981&perks=706527188,3300816228#notes:Tier B - PvE 4.1 - PvP 3.8 - Excels PvP - Most Popular Combo (18.256%)
 dimwishlist:item=2108920981&perks=2869569095,3300816228#notes:Tier B - PvE 4.1 - PvP 3.8 - Excels PvP - Popular Combo (7.692%)
 dimwishlist:item=2108920981&perks=706527188,3523296417#notes:Tier B - PvE 4.1 - PvP 3.8 - Excels PvP - Popular Combo (6.701%)
@@ -6799,7 +7332,6 @@ dimwishlist:item=299665907&perks=2779035018#notes:Tier B - PvE 3.9 - PvP 4.7 - E
 dimwishlist:item=299665907&perks=1015611457#notes:Tier B - PvE 3.9 - PvP 4.7 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=299665907&perks=2846385770#notes:Tier B - PvE 3.9 - PvP 4.7 - Excels PvP - Popular Perk 1
 dimwishlist:item=299665907&perks=3425386926#notes:Tier B - PvE 3.9 - PvP 4.7 - Excels PvP - Popular Perk 2
-dimwishlist:item=-834081972#notes:PvE 3.4 - PvP 3.9
 dimwishlist:item=1115104187&perks=957782887,47981717#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Most Popular Combo (14.583%)
 dimwishlist:item=1115104187&perks=1354429876,1771339417#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Combo (10.25%)
 dimwishlist:item=1115104187&perks=3400784728,1771339417#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Combo (10.0%)
@@ -6811,7 +7343,6 @@ dimwishlist:item=1115104187&perks=47981717#notes:Tier B - PvE 4.3 - PvP 4.5 - Ex
 dimwishlist:item=1115104187&perks=1354429876#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=1115104187&perks=3400784728#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=1115104187&perks=1771339417#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3116356268#notes:Tier C - PvE 3.8 - PvP 4.2
 dimwishlist:item=930590127&perks=1645158859,2846385770#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Most Popular Combo (9.975%)
 dimwishlist:item=930590127&perks=1645158859,1890422124#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Popular Combo (8.904%)
 dimwishlist:item=930590127&perks=1645158859,1600092898#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Popular Combo (8.079%)
@@ -6819,8 +7350,6 @@ dimwishlist:item=930590127&perks=1645158859#notes:Tier B - PvE 3.0 - PvP 4.5 - E
 dimwishlist:item=930590127&perks=2846385770#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=930590127&perks=1890422124#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Popular Perk 2
 dimwishlist:item=930590127&perks=1600092898#notes:Tier B - PvE 3.0 - PvP 4.5 - Excels PvP - Popular Perk 2
-dimwishlist:item=-1757129747#notes:PvE 5.0 - PvP 3.0
-dimwishlist:item=-2422664927#notes:PvE 4.4 - PvP 4.6
 dimwishlist:item=66875353&perks=3300816228,1546637391#notes:Tier A - PvE 4.2 - PvP 2.5 - Excels PvE - Most Popular Combo (10.129%)
 dimwishlist:item=66875353&perks=1820235745,1546637391#notes:Tier A - PvE 4.2 - PvP 2.5 - Excels PvE - Popular Combo (5.291%)
 dimwishlist:item=66875353&perks=1168162263,2848615171#notes:Tier A - PvE 4.2 - PvP 2.5 - Excels PvE - Popular Combo (5.266%)
@@ -6832,9 +7361,6 @@ dimwishlist:item=66875353&perks=1546637391#notes:Tier A - PvE 4.2 - PvP 2.5 - Ex
 dimwishlist:item=66875353&perks=1820235745#notes:Tier A - PvE 4.2 - PvP 2.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=66875353&perks=1168162263#notes:Tier A - PvE 4.2 - PvP 2.5 - Excels PvE - Popular Perk 1
 dimwishlist:item=66875353&perks=2848615171#notes:Tier A - PvE 4.2 - PvP 2.5 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2824241403#notes:PvE 3.3 - PvP 3.7
-dimwishlist:item=-3461377698#notes:PvE 2.9 - PvP 4.8
-dimwishlist:item=-2186258845#notes:PvE 4.8 - PvP 3.7
 dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:Tier S - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Combo (18.782%)
 dimwishlist:item=3843477312&perks=2779035018,3425386926#notes:Tier S - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (13.773%)
 dimwishlist:item=3843477312&perks=1168162263,3425386926#notes:Tier S - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (9.704%)
@@ -6851,9 +7377,6 @@ dimwishlist:item=4292849692&perks=1168162263#notes:Tier A - PvE 2.1 - PvP 4.2 - 
 dimwishlist:item=4292849692&perks=1015611457#notes:Tier A - PvE 2.1 - PvP 4.2 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=4292849692&perks=2846385770#notes:Tier A - PvE 2.1 - PvP 4.2 - Excels PvP - Popular Perk 1
 dimwishlist:item=4292849692&perks=3038247973#notes:Tier A - PvE 2.1 - PvP 4.2 - Excels PvP - Popular Perk 2
-dimwishlist:item=-3751622019#notes:PvE 3.1 - PvP 4.5
-dimwishlist:item=-2278995296#notes:PvE 3.0 - PvP 2.0
-dimwishlist:item=-1775804198#notes:PvE 4.4 - PvP 4.9
 dimwishlist:item=603242241&perks=2779035018,3425386926#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Most Popular Combo (8.127%)
 dimwishlist:item=603242241&perks=1359896290,3425386926#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Popular Combo (7.209%)
 dimwishlist:item=603242241&perks=706527188,3425386926#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Popular Combo (6.919%)
@@ -6861,8 +7384,6 @@ dimwishlist:item=603242241&perks=2779035018#notes:Tier S - PvE 4.9 - PvP 4.2 - E
 dimwishlist:item=603242241&perks=3425386926#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=603242241&perks=1359896290#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=603242241&perks=706527188#notes:Tier S - PvE 4.9 - PvP 4.2 - Excels PvE + PvP - Popular Perk 1
-dimwishlist:item=-2817798849#notes:PvE 4.0 - PvP 3.0
-dimwishlist:item=-2575506895#notes:PvE 4.7 - PvP 4.6
 dimwishlist:item=792755504&perks=2846385770,1015611457#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvP - Most Popular Combo (17.241%)
 dimwishlist:item=792755504&perks=1168162263,3425386926#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvP - Popular Combo (7.646%)
 dimwishlist:item=792755504&perks=1168162263,1015611457#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvP - Popular Combo (6.747%)
@@ -6871,14 +7392,6 @@ dimwishlist:item=792755504&perks=2846385770#notes:Tier B - PvE 4.3 - PvP 4.5 - E
 dimwishlist:item=792755504&perks=1015611457#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=792755504&perks=1168162263#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvP - Popular Perk 1
 dimwishlist:item=792755504&perks=3425386926#notes:Tier B - PvE 4.3 - PvP 4.5 - Excels PvP - Popular Perk 2
-dimwishlist:item=-1931556011#notes:PvE 4.0 - PvP 4.4
-dimwishlist:item=-4083045006#notes:Tier C - PvE 3.8 - PvP 4.3
-dimwishlist:item=-4148143418#notes:PvE 4.3 - PvP 3.2
-dimwishlist:item=-3704653637#notes:PvE 5.0 - PvP 3.4
-dimwishlist:item=-1386601612#notes:PvE 4.2 - PvP 4.8
-dimwishlist:item=-20025671#notes:PvE 4.5 - PvP 4.0
-dimwishlist:item=-1449922174#notes:PvE 3.8 - PvP 4.9
-dimwishlist:item=-2753269585#notes:PvE 4.8 - PvP 4.2
 dimwishlist:item=1865351684&perks=2387244414,1015611457#notes:Tier B - PvE 2.9 - PvP 4.1 - Most Popular Combo (12.25%)
 dimwishlist:item=1865351684&perks=957782887,1015611457#notes:Tier B - PvE 2.9 - PvP 4.1 - Popular Combo (9.423%)
 dimwishlist:item=1865351684&perks=1645158859,1015611457#notes:Tier B - PvE 2.9 - PvP 4.1 - Popular Combo (5.654%)
@@ -6886,10 +7399,6 @@ dimwishlist:item=1865351684&perks=2387244414#notes:Tier B - PvE 2.9 - PvP 4.1 - 
 dimwishlist:item=1865351684&perks=1015611457#notes:Tier B - PvE 2.9 - PvP 4.1 - Most Popular Perk 2
 dimwishlist:item=1865351684&perks=957782887#notes:Tier B - PvE 2.9 - PvP 4.1 - Popular Perk 1
 dimwishlist:item=1865351684&perks=1645158859#notes:Tier B - PvE 2.9 - PvP 4.1 - Popular Perk 1
-dimwishlist:item=-93253474#notes:PvE 4.6 - PvP 3.5
-dimwishlist:item=-421573768#notes:PvE 4.1 - PvP 3.9
-dimwishlist:item=-1664372054#notes:PvE 4.5 - PvP 3.6
-dimwishlist:item=-3356526253#notes:Tier C - PvE 4.3 - PvP 4.7
 dimwishlist:item=1644160541&perks=1749209109,3913600130#notes:Tier B - PvE 3.4 - PvP 1.3 - Excels PvE - Most Popular Combo (20.442%)
 dimwishlist:item=1644160541&perks=2590710093,3913600130#notes:Tier B - PvE 3.4 - PvP 1.3 - Excels PvE - Popular Combo (13.9%)
 dimwishlist:item=1644160541&perks=2590710093,1685431615#notes:Tier B - PvE 3.4 - PvP 1.3 - Excels PvE - Popular Combo (6.923%)
@@ -6916,7 +7425,6 @@ dimwishlist:item=3222518097&perks=4267945040#notes:Tier A - PvE 4.4 - PvP 5.0 - 
 dimwishlist:item=3222518097&perks=1015611457#notes:Tier A - PvE 4.4 - PvP 5.0 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=3222518097&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 5.0 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=3222518097&perks=2846385770#notes:Tier A - PvE 4.4 - PvP 5.0 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2561659919#notes:PvE 1.4 - PvP 4.8
 dimwishlist:item=2545083870&perks=3977735242,3300816228#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - Most Popular Combo (27.116%)
 dimwishlist:item=2545083870&perks=3977735242,1015611457#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - Popular Combo (16.667%)
 dimwishlist:item=2545083870&perks=3977735242,957782887#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - Popular Combo (16.062%)
@@ -6924,14 +7432,6 @@ dimwishlist:item=2545083870&perks=3977735242#notes:Tier S - PvE 4.5 - PvP 3.1 - 
 dimwishlist:item=2545083870&perks=3300816228#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2545083870&perks=1015611457#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - Popular Perk 2
 dimwishlist:item=2545083870&perks=957782887#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - Popular Perk 2
-dimwishlist:item=-720351795#notes:Tier C - PvE 4.7 - PvP 4.0
-dimwishlist:item=-991314988#notes:Tier D - PvE 4.8 - PvP 4.4
-dimwishlist:item=-2105827099#notes:PvE 3.8 - PvP 4.5
-dimwishlist:item=-1327264046#notes:PvE 4.8 - PvP 5.0
-dimwishlist:item=-153979397#notes:Tier C - PvE 3.0 - PvP 4.4
-dimwishlist:item=-3169616514#notes:Tier C - PvE 2.5 - PvP 4.9
-dimwishlist:item=-525750263#notes:PvE 3.0 - PvP 4.7
-dimwishlist:item=-1357080535#notes:PvE 3.7 - PvP 4.7
 dimwishlist:item=2712244741&perks=1015611457,4267945040#notes:Tier A - PvE 4.3 - PvP 4.8 - Excels PvP - Most Popular Combo (20.505%)
 dimwishlist:item=2712244741&perks=1015611457,1168162263#notes:Tier A - PvE 4.3 - PvP 4.8 - Excels PvP - Popular Combo (16.211%)
 dimwishlist:item=2712244741&perks=3425386926,1168162263#notes:Tier A - PvE 4.3 - PvP 4.8 - Excels PvP - Popular Combo (9.081%)
@@ -6954,11 +7454,6 @@ dimwishlist:item=1280933460&perks=1168162263#notes:Tier S - PvE 3.5 - PvP 4.9 - 
 dimwishlist:item=1280933460&perks=1015611457#notes:Tier S - PvE 3.5 - PvP 4.9 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=1280933460&perks=4267945040#notes:Tier S - PvE 3.5 - PvP 4.9 - Excels PvE - Popular Perk 2
 dimwishlist:item=1280933460&perks=3425386926#notes:Tier S - PvE 3.5 - PvP 4.9 - Excels PvE - Popular Perk 2
-dimwishlist:item=-3419149443#notes:PvE 4.3 - PvP 4.0
-dimwishlist:item=-2034817450#notes:PvE 4.8 - PvP 4.0
-dimwishlist:item=-3100452337#notes:PvE 4.5 - PvP 4.0
-dimwishlist:item=-2112909414#notes:PvE 4.4 - PvP 4.5
-dimwishlist:item=-636912560#notes:PvE 3.3 - PvP 4.9
 dimwishlist:item=218335759&perks=2846385770,3425386926#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Most Popular Combo (9.891%)
 dimwishlist:item=218335759&perks=3300816228,706527188#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Combo (6.432%)
 dimwishlist:item=218335759&perks=2869569095,706527188#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Combo (6.432%)
@@ -6970,16 +7465,6 @@ dimwishlist:item=218335759&perks=3425386926#notes:Tier S - PvE 5.0 - PvP 2.9 - E
 dimwishlist:item=218335759&perks=3300816228#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Perk 1
 dimwishlist:item=218335759&perks=2869569095#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Perk 1
 dimwishlist:item=218335759&perks=706527188#notes:Tier S - PvE 5.0 - PvP 2.9 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1873270090#notes:PvE 2.0 - PvP 5.0
-dimwishlist:item=-3027844941#notes:PvE 3.6 - PvP 4.8
-dimwishlist:item=-1839565992#notes:PvE 3.7 - PvP 4.4
-dimwishlist:item=-3199662972#notes:PvE 2.4 - PvP 2.8
-dimwishlist:item=-1684914716#notes:PvE 4.0 - PvP 5.0
-dimwishlist:item=-4138174248#notes:PvE 4.8 - PvP 3.9
-dimwishlist:item=-64236626#notes:PvE 2.0 - PvP 4.4
-dimwishlist:item=-1518042134#notes:PvE 3.6 - PvP 4.3
-dimwishlist:item=-105567493#notes:PvE 2.6 - PvP 3.4
-dimwishlist:item=-1789347249#notes:PvE 5.0 - PvP 3.7
 dimwishlist:item=3829285960&perks=1820235745,3523296417#notes:Tier A - PvE 4.0 - PvP 3.7 - Excels PvE + PvP - Most Popular Combo (9.69%)
 dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:Tier A - PvE 4.0 - PvP 3.7 - Excels PvE + PvP - Popular Combo (5.994%)
 dimwishlist:item=3829285960&perks=2450788523,957782887#notes:Tier A - PvE 4.0 - PvP 3.7 - Excels PvE + PvP - Popular Combo (5.969%)
@@ -7002,7 +7487,6 @@ dimwishlist:item=1071542914&perks=1015611457#notes:Tier A - PvE 4.4 - PvP 2.8 - 
 dimwishlist:item=1071542914&perks=460017080#notes:Tier A - PvE 4.4 - PvP 2.8 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1071542914&perks=2387244414#notes:Tier A - PvE 4.4 - PvP 2.8 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=1071542914&perks=588594999#notes:Tier A - PvE 4.4 - PvP 2.8 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3745990145#notes:Tier C - PvE 4.4 - PvP 4.0
 dimwishlist:item=253196586&perks=1645158859,1890422124#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Most Popular Combo (35.155%)
 dimwishlist:item=253196586&perks=280464955,1890422124#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Combo (17.47%)
 dimwishlist:item=253196586&perks=1645158859,2213355989#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Combo (3.834%)
@@ -7022,7 +7506,6 @@ dimwishlist:item=4117693024&perks=706527188#notes:Tier B - PvE 3.5 - PvP 3.2 - E
 dimwishlist:item=4117693024&perks=972757866#notes:Tier B - PvE 3.5 - PvP 3.2 - Excels PvP - Popular Perk 1
 dimwishlist:item=4117693024&perks=957782887#notes:Tier B - PvE 3.5 - PvP 3.2 - Excels PvP - Popular Perk 1
 dimwishlist:item=4117693024&perks=3425386926#notes:Tier B - PvE 3.5 - PvP 3.2 - Excels PvP - Popular Perk 2
-dimwishlist:item=-819441402#notes:PvE 4.5 - PvP 4.3
 dimwishlist:item=3040742682&perks=2387244414,3038247973#notes:Tier B - PvE 4.9 - PvP 3.8 - Excels PvE - Most Popular Combo (6.499%)
 dimwishlist:item=3040742682&perks=588594999,3038247973#notes:Tier B - PvE 4.9 - PvP 3.8 - Excels PvE - Popular Combo (6.271%)
 dimwishlist:item=3040742682&perks=3400784728,3038247973#notes:Tier B - PvE 4.9 - PvP 3.8 - Excels PvE - Popular Combo (5.017%)
@@ -7049,11 +7532,6 @@ dimwishlist:item=4146702548&perks=2846385770#notes:Tier S - PvE 4.8 - PvP 1.2 - 
 dimwishlist:item=4146702548&perks=3425386926#notes:Tier S - PvE 4.8 - PvP 1.2 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=4146702548&perks=3300816228#notes:Tier S - PvE 4.8 - PvP 1.2 - Excels PvE - Popular Perk 1
 dimwishlist:item=4146702548&perks=706527188#notes:Tier S - PvE 4.8 - PvP 1.2 - Excels PvE - Popular Perk 2
-dimwishlist:item=-2217366863#notes:PvE 3.4 - PvP 4.6
-dimwishlist:item=-2653316158#notes:PvE 4.3 - PvP 3.4
-dimwishlist:item=-195440257#notes:PvE 1.5 - PvP 4.5
-dimwishlist:item=-4211534763#notes:PvE 1.5 - PvP 2.0
-dimwishlist:item=-3027844940#notes:PvE 4.2 - PvP 4.0
 dimwishlist:item=346136302&perks=706527188,957782887#notes:Tier A - PvE 3.3 - PvP 4.3 - Excels PvP - Most Popular Combo (29.99%)
 dimwishlist:item=346136302&perks=3161816588,957782887#notes:Tier A - PvE 3.3 - PvP 4.3 - Excels PvP - Popular Combo (12.861%)
 dimwishlist:item=346136302&perks=706527188,2450788523#notes:Tier A - PvE 3.3 - PvP 4.3 - Excels PvP - Popular Combo (5.64%)
@@ -7062,12 +7540,6 @@ dimwishlist:item=346136302&perks=706527188#notes:Tier A - PvE 3.3 - PvP 4.3 - Ex
 dimwishlist:item=346136302&perks=957782887#notes:Tier A - PvE 3.3 - PvP 4.3 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=346136302&perks=3161816588#notes:Tier A - PvE 3.3 - PvP 4.3 - Excels PvP - Popular Perk 1
 dimwishlist:item=346136302&perks=2450788523#notes:Tier A - PvE 3.3 - PvP 4.3 - Excels PvP - Popular Perk 2
-dimwishlist:item=-3376406418#notes:PvE 4.2 - PvP 3.9
-dimwishlist:item=-308332265#notes:Tier C - PvE 3.2 - PvP 3.9
-dimwishlist:item=-3740842661#notes:Tier C - PvE 3.6 - PvP 3.4
-dimwishlist:item=-1843044399#notes:PvE 5.0 - PvP 4.4
-dimwishlist:item=-4230993599#notes:Tier C - PvE 4.0 - PvP 1.4
-dimwishlist:item=-3410721600#notes:PvE 4.5 - PvP 4.5
 dimwishlist:item=1972985595&perks=3300816228,2010801679#notes:Tier B - PvE 4.3 - PvP 3.2 - Most Popular Combo (11.87%)
 dimwishlist:item=1972985595&perks=3300816228,3425386926#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Combo (10.011%)
 dimwishlist:item=1972985595&perks=957782887,3425386926#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Combo (9.708%)
@@ -7076,7 +7548,6 @@ dimwishlist:item=1972985595&perks=3300816228#notes:Tier B - PvE 4.3 - PvP 3.2 - 
 dimwishlist:item=1972985595&perks=2010801679#notes:Tier B - PvE 4.3 - PvP 3.2 - Most Popular Perk 2
 dimwishlist:item=1972985595&perks=957782887#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Perk 1
 dimwishlist:item=1972985595&perks=3425386926#notes:Tier B - PvE 4.3 - PvP 3.2 - Popular Perk 2
-dimwishlist:item=-1982711279#notes:Tier C - PvE 4.0 - PvP 3.6 - Excels PvP
 dimwishlist:item=4094657108&perks=1015611457,3425386926#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Most Popular Combo (27.389%)
 dimwishlist:item=4094657108&perks=1645158859,2213355989#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Combo (11.415%)
 dimwishlist:item=4094657108&perks=1015611457,2846385770#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Combo (6.601%)
@@ -7088,10 +7559,6 @@ dimwishlist:item=4094657108&perks=3425386926#notes:Tier S - PvE 4.3 - PvP 4.8 - 
 dimwishlist:item=4094657108&perks=1645158859#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=4094657108&perks=2213355989#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=4094657108&perks=2846385770#notes:Tier S - PvE 4.3 - PvP 4.8 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-2112909415#notes:PvE 3.3 - PvP 4.2
-dimwishlist:item=-3501969491#notes:PvE 4.5 - PvP 4.5
-dimwishlist:item=-2009277538#notes:Tier C - PvE 4.9 - PvP 4.8
-dimwishlist:item=-2154059444#notes:PvE 4.2 - PvP 4.3
 dimwishlist:item=3745974521&perks=706527188,588594999#notes:Tier B - PvE 4.0 - PvP 3.0 - Excels PvE - Most Popular Combo (45.511%)
 dimwishlist:item=3745974521&perks=706527188#notes:Tier B - PvE 4.0 - PvP 3.0 - Excels PvE - Most Popular Perk 1
 dimwishlist:item=3745974521&perks=588594999#notes:Tier B - PvE 4.0 - PvP 3.0 - Excels PvE - Most Popular Perk 2
@@ -7102,11 +7569,6 @@ dimwishlist:item=686951703&perks=957782887#notes:Tier S - PvE 4.5 - PvP 4.5 - Ex
 dimwishlist:item=686951703&perks=1015611457#notes:Tier S - PvE 4.5 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=686951703&perks=3400784728#notes:Tier S - PvE 4.5 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
 dimwishlist:item=686951703&perks=247725512#notes:Tier S - PvE 4.5 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-1178886909#notes:PvE 3.2 - PvP 3.8
-dimwishlist:item=-301362381#notes:PvE 2.0 - PvP 1.3
-dimwishlist:item=-640114618#notes:Tier C - PvE 4.3 - PvP 4.2
-dimwishlist:item=-2957367743#notes:Tier C - PvE 2.7 - PvP 4.1
-dimwishlist:item=-2681395357#notes:PvE 4.4 - PvP 4.7
 dimwishlist:item=3799980700&perks=3425386926,1015611457#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Most Popular Combo (27.897%)
 dimwishlist:item=3799980700&perks=2387244414,1015611457#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Combo (9.483%)
 dimwishlist:item=3799980700&perks=3400784728,1015611457#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Combo (8.745%)
@@ -7114,7 +7576,6 @@ dimwishlist:item=3799980700&perks=3425386926#notes:Tier B - PvE 4.2 - PvP 4.0 - 
 dimwishlist:item=3799980700&perks=1015611457#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=3799980700&perks=2387244414#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=3799980700&perks=3400784728#notes:Tier B - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Perk 1
-dimwishlist:item=-1843044398#notes:PvE 4.4 - PvP 4.6
 dimwishlist:item=4077196130&perks=2848615171,3038247973#notes:Tier B - PvE 4.8 - PvP 4.3 - Excels PvE + PvP - Most Popular Combo (14.218%)
 dimwishlist:item=4077196130&perks=2848615171,3425386926#notes:Tier B - PvE 4.8 - PvP 4.3 - Excels PvE + PvP - Popular Combo (9.806%)
 dimwishlist:item=4077196130&perks=1168162263,3425386926#notes:Tier B - PvE 4.8 - PvP 4.3 - Excels PvE + PvP - Popular Combo (9.478%)
@@ -7138,7 +7599,6 @@ dimwishlist:item=2721249463&perks=201365942#notes:Tier A - PvE 4.4 - PvP 3.3 - E
 dimwishlist:item=2721249463&perks=3365897133#notes:Tier A - PvE 4.4 - PvP 3.3 - Excels PvE - Most Popular Perk 2
 dimwishlist:item=2721249463&perks=588594999#notes:Tier A - PvE 4.4 - PvP 3.3 - Excels PvE - Popular Perk 1
 dimwishlist:item=2721249463&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 3.3 - Excels PvE - Popular Perk 2
-dimwishlist:item=-1518042135#notes:PvE 3.6 - PvP 4.5
 dimwishlist:item=3242168339&perks=247725512,3038247973#notes:Tier S - PvE 4.8 - PvP 3.5 - Excels PvE - Most Popular Combo (17.769%)
 dimwishlist:item=3242168339&perks=1354429876,3038247973#notes:Tier S - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Combo (14.712%)
 dimwishlist:item=3242168339&perks=1168162263,3038247973#notes:Tier S - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Combo (9.711%)
@@ -7162,5 +7622,3 @@ dimwishlist:item=233423981&perks=3425386926#notes:Tier S - PvE 4.2 - PvP 3.2 - E
 dimwishlist:item=233423981&perks=2779035018#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Most Popular Perk 2
 dimwishlist:item=233423981&perks=1015611457#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=233423981&perks=1168162263#notes:Tier S - PvE 4.2 - PvP 3.2 - Excels PvE + PvP - Popular Perk 2
-dimwishlist:item=-3957603605#notes:PvE 4.0 - PvP 3.0
-dimwishlist:item=-3776129137#notes:PvE 4.3 - PvP 3.2
