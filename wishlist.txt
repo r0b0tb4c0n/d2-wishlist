@@ -1851,68 +1851,68 @@ dimwishlist:item=1501688142&perks=3619207468,555281244#notes:Tier S - PvE 4.9 - 
 dimwishlist:item=1501688142&perks=968510818,588594999#notes:Tier S - PvE 4.9 - PvP 3.1 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/doomed-petitioner-god-rolls/
 dimwishlist:item=1501688142&perks=3619207468#notes:Tier S - PvE 4.9 - PvP 3.1 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/doomed-petitioner-god-rolls/
 dimwishlist:item=1501688142&perks=588594999#notes:Tier S - PvE 4.9 - PvP 3.1 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/doomed-petitioner-god-rolls/
-dimwishlist:item=2362471600&perks=3017780555,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=3017780555,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=3017780555,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=968510818,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=968510818,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=968510818,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=3017780555#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=968510818#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=2362471600&perks=4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3017780555,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3017780555,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3017780555,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=968510818,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=968510818,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=968510818,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3017780555#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=968510818#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3017780555,2890807135#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (8.149%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3017780555,3081867624#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (6.726%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=2890807135#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=358190158&perks=3081867624#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3017780555,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3017780555,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3017780555,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=968510818,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=968510818,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=968510818,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3017780555#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=968510818#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=588594999,2387244414#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Combo (16.82%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3592538738,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (16.121%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=588594999,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (10.703%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3592538738,2387244414#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=588594999#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=2387244414#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=502356570&perks=3592538738#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=3017780555,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=3017780555,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=3017780555,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=968510818,4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=968510818,3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=968510818,4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=3017780555#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4293542123#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=968510818#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=3764420437#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4104185692#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4267945040,4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Combo (9.946%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4267945040,3425386926#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (7.766%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4267945040,957782887#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (6.948%) - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4267945040#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=4082225868#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=3425386926#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
-dimwishlist:item=79075821&perks=957782887#notes:Tier A - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=3017780555,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=3017780555,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=3017780555,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=968510818,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=968510818,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=968510818,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=3017780555#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=968510818#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=2362471600&perks=4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3017780555,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3017780555,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3017780555,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=968510818,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=968510818,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=968510818,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3017780555#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=968510818#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3017780555,2890807135#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (8.149%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3017780555,3081867624#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (6.726%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=2890807135#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=358190158&perks=3081867624#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3017780555,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3017780555,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3017780555,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=968510818,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=968510818,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=968510818,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3017780555#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=968510818#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=588594999,2387244414#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Combo (16.82%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3592538738,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (16.121%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=588594999,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (10.703%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3592538738,2387244414#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=588594999#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=2387244414#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=502356570&perks=3592538738#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=3017780555,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=3017780555,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=3017780555,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=968510818,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=968510818,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=968510818,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=3017780555#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=968510818#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4267945040,4082225868#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Combo (9.946%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4267945040,3425386926#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (7.766%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4267945040,957782887#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Combo (6.948%) - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4267945040#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=4082225868#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=3425386926#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=79075821&perks=957782887#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
 dimwishlist:item=1135050595&perks=1354429876,3400784728#notes:Tier A - PvE 3.9 - PvP 3.4 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/duty-bound-god-rolls/
 dimwishlist:item=1135050595&perks=1354429876,95528736#notes:Tier A - PvE 3.9 - PvP 3.4 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/duty-bound-god-rolls/
 dimwishlist:item=1135050595&perks=2289534249,3400784728#notes:Tier A - PvE 3.9 - PvP 3.4 - Excels PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/duty-bound-god-rolls/
@@ -2270,6 +2270,37 @@ dimwishlist:item=627188188&perks=1821614984#notes:Tier S - PvE 2.3 - PvP 4.8 - E
 dimwishlist:item=627188188&perks=588594999#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/eye-of-sol-god-rolls/
 dimwishlist:item=627188188&perks=957782887#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/eye-of-sol-god-rolls/
 dimwishlist:item=627188188&perks=47981717#notes:Tier S - PvE 2.3 - PvP 4.8 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/eye-of-sol-god-rolls/
+dimwishlist:item=1815105249&perks=4104185692,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=1749209109,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=1546637391,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=4104185692#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=1749209109#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=1546637391#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=4104185692,3078487919#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Combo (10.511%) - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=1546637391,3078487919#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=1815105249&perks=3078487919#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=4104185692,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=1749209109,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=1546637391,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=4104185692#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=1749209109#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=243425374&perks=1546637391#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=4104185692,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=1749209109,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=1546637391,2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=4104185692#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=1749209109#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=2077819806#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=1546637391#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Most Popular Combo (49.63%) - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=2590710093,3913600130#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=1749209109,3708227201#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=2590710093,3708227201#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=3913600130#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=2590710093#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
+dimwishlist:item=614426548&perks=3708227201#notes:Tier S - PvE 4.9 - PvP 3.0 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/
 dimwishlist:item=128782990&perks=3418782618,1015611457#notes:Tier S - PvE 4.7 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fang-of-ir-yut-god-rolls/
 dimwishlist:item=128782990&perks=3418782618,2610012052#notes:Tier S - PvE 4.7 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fang-of-ir-yut-god-rolls/
 dimwishlist:item=128782990&perks=3700496672,1015611457#notes:Tier S - PvE 4.7 - PvP 4.0 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/fang-of-ir-yut-god-rolls/
@@ -8134,9 +8165,6 @@ dimwishlist:item=-1291586825#notes:No Tier
 dimwishlist:item=-3199662972#notes:No Tier
 dimwishlist:item=-4176873718#notes:Tier B
 dimwishlist:item=-4195186942#notes:Tier C
-dimwishlist:item=-1815105249#notes:No Tier
-dimwishlist:item=-243425374#notes:No Tier
-dimwishlist:item=-614426548#notes:No Tier
 dimwishlist:item=-4207120603#notes:Tier B
 dimwishlist:item=-1390080550#notes:Tier B
 dimwishlist:item=-3143732432#notes:Tier B
