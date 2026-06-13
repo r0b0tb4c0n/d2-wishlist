@@ -1453,6 +1453,71 @@ dimwishlist:item=874623537&perks=968510818#notes:Tier A - PvE 4.6 - PvP 4.1 - Ex
 dimwishlist:item=874623537&perks=968510818,3751912585#notes:Tier A - PvE 4.6 - PvP 4.1 - Excels PvE + PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/cataphract-gl3-god-rolls/
 dimwishlist:item=874623537&perks=3751912585#notes:Tier A - PvE 4.6 - PvP 4.1 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/cataphract-gl3-god-rolls/
 dimwishlist:item=874623537&perks=3300816228,3751912585#notes:Tier A - PvE 4.6 - PvP 4.1 - Excels PvE + PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/cataphract-gl3-god-rolls/
+dimwishlist:item=4157371152&perks=243981275,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=243981275,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=2289534249,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=4019266109,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=2289534249,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=4019266109,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=243981275#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=2289534249#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=4019266109#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=1168162263,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Combo (16.64%) - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=1168162263#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=4267945040,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=4267945040#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=47981717,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=4157371152&perks=47981717#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=243981275,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=243981275,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=2289534249,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=4019266109,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=2289534249,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=4019266109,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=243981275#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=2289534249#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=4019266109#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=1015611457,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Combo (15.53%) - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=1015611457#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=247725512,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=247725512#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=1015611457,460017080#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=460017080#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=501329015&perks=247725512,460017080#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=243981275,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=243981275,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=2289534249,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=4019266109,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=2289534249,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=4019266109,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=243981275#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=2289534249#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=4019266109#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=1168162263,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Combo (16.64%) - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=1168162263#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=4267945040,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=4267945040#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=47981717,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=568515759&perks=47981717#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=243981275,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=243981275,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=2289534249,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=4019266109,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=2289534249,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=4019266109,3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=243981275#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=2289534249#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=4019266109#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
+dimwishlist:item=830651379&perks=3640170453#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/chattering-bone-god-rolls/
 dimwishlist:item=1886840007&perks=3700496672,4049631843#notes:Tier S - PvE 5.0 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/chronophage-god-rolls/
 dimwishlist:item=1886840007&perks=3700496672,3523296417#notes:Tier S - PvE 5.0 - PvP 3.0 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/chronophage-god-rolls/
 dimwishlist:item=1886840007&perks=776531651,4049631843#notes:Tier S - PvE 5.0 - PvP 3.0 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/chronophage-god-rolls/
@@ -2026,6 +2091,21 @@ dimwishlist:item=2943293195&perks=671806388#notes:Tier A - PvE 4.4 - PvP 4.1 - E
 dimwishlist:item=768621510&perks=3523296417,2978966579#notes:Tier A - PvE 4.4 - PvP 4.1 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/deliverance-god-rolls/
 dimwishlist:item=768621510&perks=3523296417#notes:Tier A - PvE 4.4 - PvP 4.1 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/deliverance-god-rolls/
 dimwishlist:item=768621510&perks=2978966579#notes:Tier A - PvE 4.4 - PvP 4.1 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/deliverance-god-rolls/
+dimwishlist:item=1120206506&perks=831391274,657025441#notes:Tier A - Excels PvE - God Roll - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=831391274,557221067#notes:Tier A - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=831391274,3201496230#notes:Tier A - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=3300816228,657025441#notes:Tier A - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=1820235745,657025441#notes:Tier A - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=3300816228,557221067#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=3300816228,3201496230#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=1820235745,557221067#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=1820235745,3201496230#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=831391274#notes:Tier A - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=657025441#notes:Tier A - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=3300816228#notes:Tier A - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=1820235745#notes:Tier A - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=557221067#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
+dimwishlist:item=1120206506&perks=3201496230#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/diablerets-06-god-rolls/
 dimwishlist:item=3016891299&perks=1168162263,831391274#notes:Tier A - PvE 4.0 - PvP 4.6 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/different-times-god-rolls/
 dimwishlist:item=3016891299&perks=1168162263,2458213969#notes:Tier A - PvE 4.0 - PvP 4.6 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/different-times-god-rolls/
 dimwishlist:item=3016891299&perks=1820235745,831391274#notes:Tier A - PvE 4.0 - PvP 4.6 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/different-times-god-rolls/
@@ -3016,6 +3096,35 @@ dimwishlist:item=3573686365&perks=1645158859#notes:Tier A - PvE 4.5 - PvP 4.3 - 
 dimwishlist:item=3573686365&perks=2213355989#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/glaciocasm-god-rolls/
 dimwishlist:item=3573686365&perks=3161816588,2213355989#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/glaciocasm-god-rolls/
 dimwishlist:item=3573686365&perks=1645158859,2213355989#notes:Tier A - PvE 4.5 - PvP 4.3 - Excels PvE - Popular Combo (15.13%) - https://www.blueberries.gg/weapons/glaciocasm-god-rolls/
+dimwishlist:item=214545213&perks=776531651,2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=776531651,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=3523296417,2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=3523296417,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=776531651,3081867624#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=3523296417,3081867624#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=776531651#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=3523296417#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=214545213&perks=3081867624#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=776531651,2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=776531651,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=3523296417,2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=3523296417,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=776531651,3081867624#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=3523296417,3081867624#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=776531651#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=3523296417#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=3081867624#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=1820235745,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Most Popular Combo (14.48%) - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=1820235745#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=2387244414,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=2387244414#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=1820235745,1015611457#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=1015611457#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
+dimwishlist:item=821154603&perks=2387244414,1015611457#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
 dimwishlist:item=3371413057&perks=1749209109,3913600130#notes:Tier A - PvE 4.8 - PvP 3.1 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/goldtusk-god-rolls/
 dimwishlist:item=3371413057&perks=1749209109,2396489472#notes:Tier A - PvE 4.8 - PvP 3.1 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/goldtusk-god-rolls/
 dimwishlist:item=3371413057&perks=2590710093,3913600130#notes:Tier A - PvE 4.8 - PvP 3.1 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/goldtusk-god-rolls/
@@ -6730,6 +6839,30 @@ dimwishlist:item=3524386983&perks=3300816228,2978966579#notes:Tier A - PvE 5.0 -
 dimwishlist:item=3524386983&perks=3300816228#notes:Tier A - PvE 5.0 - PvP 2.0 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/submersion-god-rolls/
 dimwishlist:item=3524386983&perks=951095735,2978966579#notes:Tier A - PvE 5.0 - PvP 2.0 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/submersion-god-rolls/
 dimwishlist:item=3524386983&perks=951095735#notes:Tier A - PvE 5.0 - PvP 2.0 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/submersion-god-rolls/
+dimwishlist:item=1941816543&perks=3891536761,3640170453#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3643424744,3640170453#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3891536761#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3640170453#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3643424744#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=1820235745,4104185692#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Combo (16.01%) - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=1820235745#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=4104185692#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3643424744,4104185692#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=1820235745,3523296417#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3523296417#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=1941816543&perks=3643424744,3523296417#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3891536761,3640170453#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3643424744,3640170453#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3891536761#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3640170453#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3643424744#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3643424744,4104185692#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Combo (24.37%) - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=4104185692#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=1820235745,4104185692#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=1820235745#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3643424744,3523296417#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=3523296417#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
+dimwishlist:item=3886416794&perks=1820235745,3523296417#notes:Tier S - PvE 4.7 - PvP 3.5 - Excels PvE + PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/submission-god-rolls/
 dimwishlist:item=2731922624&perks=1523832109,469285294#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/succession-god-rolls/
 dimwishlist:item=2731922624&perks=1523832109,1771339417#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/succession-god-rolls/
 dimwishlist:item=2731922624&perks=1556840489,469285294#notes:Tier S - PvE 4.8 - PvP 4.0 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/succession-god-rolls/
@@ -6811,6 +6944,9 @@ dimwishlist:item=3569407878&perks=1749209109,3913600130#notes:Tier S - PvE 4.4 -
 dimwishlist:item=3569407878&perks=3913600130#notes:Tier S - PvE 4.4 - PvP 5.0 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/summum-bonum-god-rolls/
 dimwishlist:item=3569407878&perks=1749209109,3078487919#notes:Tier S - PvE 4.4 - PvP 5.0 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/summum-bonum-god-rolls/
 dimwishlist:item=3569407878&perks=3078487919#notes:Tier S - PvE 4.4 - PvP 5.0 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/summum-bonum-god-rolls/
+dimwishlist:item=1225851434&perks=1427256713#notes:Tier A - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/tahoma-01-god-rolls/
+dimwishlist:item=1225851434&perks=2594592626#notes:Tier A - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/tahoma-01-god-rolls/
+dimwishlist:item=1225851434&perks=3764420437#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/tahoma-01-god-rolls/
 dimwishlist:item=1389546626&perks=3828510309,3038247973#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/taraxippos-god-rolls/
 dimwishlist:item=1389546626&perks=3828510309,831391274#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/taraxippos-god-rolls/
 dimwishlist:item=1389546626&perks=3828510309#notes:Tier A - PvE 4.0 - PvP 4.1 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/taraxippos-god-rolls/
@@ -7517,6 +7653,47 @@ dimwishlist:item=3354242550&perks=776531651,2048641572#notes:Tier S - PvE 4.5 - 
 dimwishlist:item=3354242550&perks=776531651#notes:Tier S - PvE 4.5 - PvP 3.8 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/the-recluse-god-rolls/
 dimwishlist:item=3354242550&perks=2109543898#notes:Tier S - PvE 4.5 - PvP 3.8 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/the-recluse-god-rolls/
 dimwishlist:item=3354242550&perks=2048641572#notes:Tier S - PvE 4.5 - PvP 3.8 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/the-recluse-god-rolls/
+dimwishlist:item=3326135421&perks=4293542123,95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=4293542123,2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=3017780555,95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=3017780555,2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=4293542123,3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=3017780555,3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=4293542123#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=3017780555#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=3326135421&perks=3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=4293542123,95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=4293542123,2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=3017780555,95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=3017780555,2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=4293542123,3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=3017780555,3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=4293542123#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=3017780555#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=4206550094&perks=3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=4293542123,95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=4293542123,2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=3017780555,95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=3017780555,2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=4293542123,3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=3017780555,3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=4293542123#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=3017780555#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=95528736#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2890807135#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=3824105627#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2848615171,3425386926#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Most Popular Combo (17.38%) - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2848615171#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=3425386926#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2848615171,1015611457#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=1015611457#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2387244414,3425386926#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2387244414#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
+dimwishlist:item=93253474&perks=2387244414,1015611457#notes:Tier A - PvE 4.6 - PvP 3.5 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/ringing-nail-god-rolls/
 dimwishlist:item=3754408118&perks=776531651,2048641572#notes:Tier S - PvE 3.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/the-riposte-god-rolls/
 dimwishlist:item=3754408118&perks=776531651#notes:Tier S - PvE 3.4 - PvP 4.4 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/the-riposte-god-rolls/
 dimwishlist:item=3754408118&perks=2048641572#notes:Tier S - PvE 3.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/the-riposte-god-rolls/
@@ -9366,8 +9543,6 @@ dimwishlist:item=-2505533224#notes:No Tier
 dimwishlist:item=-970034755#notes:Tier B
 dimwishlist:item=-222606050#notes:Tier C
 dimwishlist:item=-3156551028#notes:Tier C
-dimwishlist:item=-214545213#notes:Tier C
-dimwishlist:item=-821154603#notes:Tier C
 dimwishlist:item=-4138174248#notes:No Tier
 dimwishlist:item=-64236626#notes:No Tier
 dimwishlist:item=-731147178#notes:No Tier
@@ -9903,8 +10078,6 @@ dimwishlist:item=-2490460292#notes:No Tier
 dimwishlist:item=-3704653637#notes:No Tier
 dimwishlist:item=-1977926913#notes:No Tier
 dimwishlist:item=-1674692344#notes:Tier B
-dimwishlist:item=-1941816543#notes:Tier B
-dimwishlist:item=-3886416794#notes:Tier B
 dimwishlist:item=-3410721600#notes:No Tier
 dimwishlist:item=-42351395#notes:Tier D
 dimwishlist:item=-978122008#notes:Tier D
@@ -10013,9 +10186,6 @@ dimwishlist:item=-1968410628#notes:Tier B
 dimwishlist:item=-3019024381#notes:Tier B
 dimwishlist:item=-2433826056#notes:No Tier
 dimwishlist:item=-1911843788#notes:No Tier
-dimwishlist:item=-3326135421#notes:No Tier
-dimwishlist:item=-4206550094#notes:No Tier
-dimwishlist:item=-93253474#notes:No Tier
 dimwishlist:item=-2386979999#notes:Tier C
 dimwishlist:item=-2478792241#notes:Tier C
 dimwishlist:item=-3790632261#notes:Tier C
@@ -10917,13 +11087,6 @@ dimwishlist:item=4153087276&perks=3523296417#notes:Tier A - PvE 4.9 - PvP 2.9 - 
 dimwishlist:item=4153087276&perks=3643424744,124408337#notes:Tier A - PvE 4.9 - PvP 2.9 - Excels PvE - Most Popular Perk 1, Popular Perk 2
 dimwishlist:item=4153087276&perks=124408337#notes:Tier A - PvE 4.9 - PvP 2.9 - Excels PvE - Popular Perk 2
 dimwishlist:item=4153087276&perks=3523296417,124408337#notes:Tier A - PvE 4.9 - PvP 2.9 - Excels PvE - Popular Perk 1, Popular Perk 2
-dimwishlist:item=4157371152&perks=1168162263,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Combo (16.64%)
-dimwishlist:item=4157371152&perks=1168162263#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1
-dimwishlist:item=4157371152&perks=3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=4157371152&perks=4267945040,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=4157371152&perks=4267945040#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1
-dimwishlist:item=4157371152&perks=47981717,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=4157371152&perks=47981717#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1
 dimwishlist:item=4176824345&perks=247725512,2551157718#notes:Tier A - PvE 4.1 - PvP 4.3 - Excels PvE + PvP - Most Popular Combo (36.76%)
 dimwishlist:item=4176824345&perks=247725512#notes:Tier A - PvE 4.1 - PvP 4.3 - Excels PvE + PvP - Most Popular Perk 1
 dimwishlist:item=4176824345&perks=2551157718#notes:Tier A - PvE 4.1 - PvP 4.3 - Excels PvE + PvP - Most Popular Perk 2
@@ -10965,14 +11128,6 @@ dimwishlist:item=491078457&perks=2048641572#notes:Tier A - PvE 4.2 - PvP 5.0 - E
 dimwishlist:item=491078457&perks=2010801679,1015611457#notes:Tier A - PvE 4.2 - PvP 5.0 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2
 dimwishlist:item=491078457&perks=2010801679#notes:Tier A - PvE 4.2 - PvP 5.0 - Excels PvE + PvP - Popular Perk 1
 dimwishlist:item=491078457&perks=2010801679,2048641572#notes:Tier A - PvE 4.2 - PvP 5.0 - Excels PvE + PvP - Popular Perk 1, Popular Perk 2
-dimwishlist:item=501329015&perks=1015611457,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Combo (15.53%)
-dimwishlist:item=501329015&perks=1015611457#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1
-dimwishlist:item=501329015&perks=3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=501329015&perks=247725512,3891536761#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=501329015&perks=247725512#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1
-dimwishlist:item=501329015&perks=1015611457,460017080#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1, Popular Perk 2
-dimwishlist:item=501329015&perks=460017080#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 2
-dimwishlist:item=501329015&perks=247725512,460017080#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Popular Perk 2
 dimwishlist:item=5159537&perks=2779035018,124408337#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Most Popular Combo (11.87%)
 dimwishlist:item=5159537&perks=2779035018#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Most Popular Perk 1
 dimwishlist:item=5159537&perks=124408337#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Most Popular Perk 2
@@ -10990,13 +11145,6 @@ dimwishlist:item=548958835&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 3.5 - E
 dimwishlist:item=548958835&perks=1820235745,2610012052#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Most Popular Perk 1, Popular Perk 2
 dimwishlist:item=548958835&perks=2610012052#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Popular Perk 2
 dimwishlist:item=548958835&perks=3700496672,2610012052#notes:Tier A - PvE 4.4 - PvP 3.5 - Excels PvE - Popular Perk 1, Popular Perk 2
-dimwishlist:item=568515759&perks=1168162263,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Combo (16.64%)
-dimwishlist:item=568515759&perks=1168162263#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 1
-dimwishlist:item=568515759&perks=3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Most Popular Perk 2
-dimwishlist:item=568515759&perks=4267945040,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=568515759&perks=4267945040#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1
-dimwishlist:item=568515759&perks=47981717,3425386926#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=568515759&perks=47981717#notes:Tier A - PvE 4.3 - PvP 2.9 - Excels PvE - Popular Perk 1
 dimwishlist:item=577528837&perks=2946784966,1015611457#notes:Tier A - PvE 4.0 - PvP 4.3 - Excels PvP - Most Popular Combo (9.64%)
 dimwishlist:item=577528837&perks=2946784966#notes:Tier A - PvE 4.0 - PvP 4.3 - Excels PvP - Most Popular Perk 1
 dimwishlist:item=577528837&perks=1015611457#notes:Tier A - PvE 4.0 - PvP 4.3 - Excels PvP - Most Popular Perk 2
