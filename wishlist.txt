@@ -58,6 +58,7 @@ dimwishlist:item=-1193318082#notes:Tier B
 dimwishlist:item=-1195725817#notes:No Tier
 dimwishlist:item=-1195725818#notes:No Tier
 dimwishlist:item=-1195725819#notes:No Tier
+dimwishlist:item=-1197486957#notes:No Tier
 dimwishlist:item=-1200414607#notes:Tier D
 dimwishlist:item=-1200824700#notes:No Tier
 dimwishlist:item=-1216130969#notes:Tier B
@@ -503,6 +504,7 @@ dimwishlist:item=-2625782212#notes:No Tier
 dimwishlist:item=-2633186522#notes:Tier B
 dimwishlist:item=-2653316158#notes:No Tier
 dimwishlist:item=-2660862359#notes:No Tier
+dimwishlist:item=-2662459958#notes:No Tier
 dimwishlist:item=-2666273249#notes:Tier B
 dimwishlist:item=-2671639706#notes:Tier D
 dimwishlist:item=-2673925403#notes:Tier C
@@ -1602,21 +1604,6 @@ dimwishlist:item=1197073834&perks=2289534249,1202584452#notes:Tier A - PvE 4.5 -
 dimwishlist:item=1197073834&perks=3038247973,1202584452#notes:Tier A - PvE 4.5 - PvP 3.5 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/forced-memorializer-god-rolls/
 dimwishlist:item=1197073834&perks=2289534249#notes:Tier A - PvE 4.5 - PvP 3.5 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/forced-memorializer-god-rolls/
 dimwishlist:item=1197073834&perks=1202584452#notes:Tier A - PvE 4.5 - PvP 3.5 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/forced-memorializer-god-rolls/
-dimwishlist:item=1197486957&perks=2450788523,460017080#notes:PvE 4.6 - PvP 3.9 - Most Popular Combo (6.21%)
-dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:PvE 4.6 - PvP 3.9 - Popular Combo (5.46%)
-dimwishlist:item=1197486957&perks=3436462433,3592538738#notes:PvE 4.6 - PvP 3.9 - Popular Combo (5.02%)
-dimwishlist:item=1197486957&perks=2450788523,3523296417#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 1, Popular Perk 2
-dimwishlist:item=1197486957&perks=2010801679,460017080#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=1197486957&perks=2450788523,3592538738#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 1, Popular Perk 2
-dimwishlist:item=1197486957&perks=3436462433,460017080#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Popular Perk 2
-dimwishlist:item=1197486957&perks=3436462433,3523296417#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Popular Perk 2
-dimwishlist:item=1197486957&perks=2450788523#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 1
-dimwishlist:item=1197486957&perks=460017080#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 2
-dimwishlist:item=1197486957&perks=2010801679#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1
-dimwishlist:item=1197486957&perks=3523296417#notes:PvE 4.6 - PvP 3.9 - Popular Perk 2
-dimwishlist:item=1197486957&perks=3436462433#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1
-dimwishlist:item=1197486957&perks=3592538738#notes:PvE 4.6 - PvP 3.9 - Popular Perk 2
 dimwishlist:item=1197771438&perks=3300816228,4049631843#notes:Tier S - PvE 4.7 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/lost-signal-god-rolls/
 dimwishlist:item=1197771438&perks=3300816228,1546637391#notes:Tier S - PvE 4.7 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/lost-signal-god-rolls/
 dimwishlist:item=1197771438&perks=3300816228#notes:Tier S - PvE 4.7 - PvP 2.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/lost-signal-god-rolls/
