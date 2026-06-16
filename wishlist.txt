@@ -58,7 +58,6 @@ dimwishlist:item=-1193318082#notes:Tier B
 dimwishlist:item=-1195725817#notes:No Tier
 dimwishlist:item=-1195725818#notes:No Tier
 dimwishlist:item=-1195725819#notes:No Tier
-dimwishlist:item=-1197486957#notes:No Tier
 dimwishlist:item=-1200414607#notes:Tier D
 dimwishlist:item=-1200824700#notes:No Tier
 dimwishlist:item=-1216130969#notes:Tier B
@@ -285,6 +284,7 @@ dimwishlist:item=-1942069133#notes:Tier B
 dimwishlist:item=-1946491241#notes:Tier C
 dimwishlist:item=-1948035256#notes:Tier B
 dimwishlist:item=-1952163498#notes:No Tier
+dimwishlist:item=-1952295804#notes:Tier B
 dimwishlist:item=-195440257#notes:No Tier
 dimwishlist:item=-1956186483#notes:Tier B
 dimwishlist:item=-1957301533#notes:Tier B
@@ -293,7 +293,6 @@ dimwishlist:item=-1960218487#notes:Tier B
 dimwishlist:item=-1968410628#notes:Tier B
 dimwishlist:item=-1969802090#notes:Tier C
 dimwishlist:item=-1972985595#notes:Tier B
-dimwishlist:item=-1973107014#notes:Tier B
 dimwishlist:item=-1974641289#notes:Tier B
 dimwishlist:item=-1975125963#notes:Tier B
 dimwishlist:item=-1977926913#notes:No Tier
@@ -403,7 +402,6 @@ dimwishlist:item=-2295941920#notes:No Tier
 dimwishlist:item=-2295941921#notes:No Tier
 dimwishlist:item=-2308010345#notes:Tier C
 dimwishlist:item=-231031173#notes:Tier B
-dimwishlist:item=-2314610827#notes:Tier B
 dimwishlist:item=-2314999489#notes:Tier B
 dimwishlist:item=-232119851#notes:Tier B
 dimwishlist:item=-2322926844#notes:Tier B
@@ -417,7 +415,6 @@ dimwishlist:item=-234411205#notes:Tier D
 dimwishlist:item=-2344383760#notes:Tier B
 dimwishlist:item=-2349907931#notes:Tier B
 dimwishlist:item=-2350330520#notes:Tier B
-dimwishlist:item=-2351180975#notes:Tier B
 dimwishlist:item=-2351747816#notes:No Tier
 dimwishlist:item=-2351747817#notes:No Tier
 dimwishlist:item=-2351747818#notes:No Tier
@@ -464,7 +461,6 @@ dimwishlist:item=-2517599010#notes:Tier D
 dimwishlist:item=-2525261820#notes:Tier D
 dimwishlist:item=-2527058296#notes:Tier B
 dimwishlist:item=-2527058297#notes:Tier D
-dimwishlist:item=-2527666306#notes:Tier B
 dimwishlist:item=-2528793321#notes:Tier C
 dimwishlist:item=-2531614757#notes:No Tier
 dimwishlist:item=-2531963421#notes:Tier D
@@ -504,7 +500,6 @@ dimwishlist:item=-2625782212#notes:No Tier
 dimwishlist:item=-2633186522#notes:Tier B
 dimwishlist:item=-2653316158#notes:No Tier
 dimwishlist:item=-2660862359#notes:No Tier
-dimwishlist:item=-2662459958#notes:No Tier
 dimwishlist:item=-2666273249#notes:Tier B
 dimwishlist:item=-2671639706#notes:Tier D
 dimwishlist:item=-2673925403#notes:Tier C
@@ -542,7 +537,6 @@ dimwishlist:item=-2759590322#notes:Tier D
 dimwishlist:item=-276080079#notes:Tier B
 dimwishlist:item=-2761869150#notes:Tier B
 dimwishlist:item=-276918162#notes:No Tier
-dimwishlist:item=-2776092652#notes:Tier B
 dimwishlist:item=-2776503072#notes:Tier D
 dimwishlist:item=-2778013407#notes:Tier D
 dimwishlist:item=-2779821308#notes:Tier B
@@ -650,7 +644,6 @@ dimwishlist:item=-3104013318#notes:Tier C
 dimwishlist:item=-3105930175#notes:Tier B
 dimwishlist:item=-310708513#notes:Tier B
 dimwishlist:item=-3110377595#notes:Tier B
-dimwishlist:item=-3116356268#notes:Tier C
 dimwishlist:item=-3117873459#notes:No Tier
 dimwishlist:item=-3125454907#notes:Tier B
 dimwishlist:item=-3132669561#notes:No Tier
@@ -686,7 +679,6 @@ dimwishlist:item=-3216383791#notes:No Tier
 dimwishlist:item=-3216652511#notes:Tier D
 dimwishlist:item=-3221722018#notes:Tier C
 dimwishlist:item=-3233390913#notes:No Tier
-dimwishlist:item=-3236112986#notes:Tier C
 dimwishlist:item=-3239754990#notes:No Tier
 dimwishlist:item=-3240434620#notes:Tier C
 dimwishlist:item=-324382200#notes:Tier B
@@ -1124,7 +1116,6 @@ dimwishlist:item=-805677041#notes:Tier C
 dimwishlist:item=-806021398#notes:No Tier
 dimwishlist:item=-807192446#notes:No Tier
 dimwishlist:item=-810474118#notes:Tier B
-dimwishlist:item=-810474119#notes:Tier C
 dimwishlist:item=-811403305#notes:Tier D
 dimwishlist:item=-817909300#notes:Tier B
 dimwishlist:item=-819358961#notes:Tier C
@@ -1604,6 +1595,21 @@ dimwishlist:item=1197073834&perks=2289534249,1202584452#notes:Tier A - PvE 4.5 -
 dimwishlist:item=1197073834&perks=3038247973,1202584452#notes:Tier A - PvE 4.5 - PvP 3.5 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/forced-memorializer-god-rolls/
 dimwishlist:item=1197073834&perks=2289534249#notes:Tier A - PvE 4.5 - PvP 3.5 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/forced-memorializer-god-rolls/
 dimwishlist:item=1197073834&perks=1202584452#notes:Tier A - PvE 4.5 - PvP 3.5 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/forced-memorializer-god-rolls/
+dimwishlist:item=1197486957&perks=2450788523,460017080#notes:PvE 4.6 - PvP 3.9 - Most Popular Combo (6.21%)
+dimwishlist:item=1197486957&perks=2010801679,3523296417#notes:PvE 4.6 - PvP 3.9 - Popular Combo (5.46%)
+dimwishlist:item=1197486957&perks=3436462433,3592538738#notes:PvE 4.6 - PvP 3.9 - Popular Combo (5.02%)
+dimwishlist:item=1197486957&perks=2450788523,3523296417#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 1, Popular Perk 2
+dimwishlist:item=1197486957&perks=2010801679,460017080#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Most Popular Perk 2
+dimwishlist:item=1197486957&perks=2450788523,3592538738#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 1, Popular Perk 2
+dimwishlist:item=1197486957&perks=3436462433,460017080#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Most Popular Perk 2
+dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Popular Perk 2
+dimwishlist:item=1197486957&perks=3436462433,3523296417#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1, Popular Perk 2
+dimwishlist:item=1197486957&perks=2450788523#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 1
+dimwishlist:item=1197486957&perks=460017080#notes:PvE 4.6 - PvP 3.9 - Most Popular Perk 2
+dimwishlist:item=1197486957&perks=2010801679#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1
+dimwishlist:item=1197486957&perks=3523296417#notes:PvE 4.6 - PvP 3.9 - Popular Perk 2
+dimwishlist:item=1197486957&perks=3436462433#notes:PvE 4.6 - PvP 3.9 - Popular Perk 1
+dimwishlist:item=1197486957&perks=3592538738#notes:PvE 4.6 - PvP 3.9 - Popular Perk 2
 dimwishlist:item=1197771438&perks=3300816228,4049631843#notes:Tier S - PvE 4.7 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/lost-signal-god-rolls/
 dimwishlist:item=1197771438&perks=3300816228,1546637391#notes:Tier S - PvE 4.7 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/lost-signal-god-rolls/
 dimwishlist:item=1197771438&perks=3300816228#notes:Tier S - PvE 4.7 - PvP 2.5 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/lost-signal-god-rolls/
@@ -2256,6 +2262,14 @@ dimwishlist:item=1484294659&perks=2890807135#notes: - Most Popular Perk 1
 dimwishlist:item=1484294659&perks=4293542123#notes: - Most Popular Perk 2
 dimwishlist:item=1484294659&perks=1820235745#notes: - Popular Perk 1
 dimwishlist:item=1484294659&perks=557221067#notes: - Popular Perk 2
+dimwishlist:item=149110926&perks=2458610193,3966416502#notes:Tier S - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=2458610193,654512643#notes:Tier S - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=777589557,3966416502#notes:Tier S - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=777589557,654512643#notes:Tier S - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=2458610193#notes:Tier S - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=3966416502#notes:Tier S - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=654512643#notes:Tier S - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=149110926&perks=777589557#notes:Tier S - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
 dimwishlist:item=1491665733&perks=2578928832,4104185692#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/briars-contempt-god-rolls/
 dimwishlist:item=1491665733&perks=2578928832,2896038713#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/briars-contempt-god-rolls/
 dimwishlist:item=1491665733&perks=3523296417,4104185692#notes:Tier S - PvE 4.6 - PvP 3.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/briars-contempt-god-rolls/
@@ -3369,14 +3383,6 @@ dimwishlist:item=1942143745&perks=1782407750#notes:Tier A - PvE 4.8 - PvP 3.0 - 
 dimwishlist:item=1942143745&perks=3800201097#notes:Tier A - PvE 4.8 - PvP 3.0 - Excels PvE - Popular Perk 1
 dimwishlist:item=1942143745&perks=2224838837#notes:Tier A - PvE 4.8 - PvP 3.0 - Excels PvE - Popular Perk 2
 dimwishlist:item=1942143745&perks=2048641572#notes:Tier A - PvE 4.8 - PvP 3.0 - Excels PvE - Popular Perk 2
-dimwishlist:item=1952295804&perks=2073244114,834262328#notes: - Most Popular Combo (7.92%)
-dimwishlist:item=1952295804&perks=2073244114,4045335048#notes: - Popular Combo (7.92%)
-dimwishlist:item=1952295804&perks=1523649716,4045335048#notes: - Popular Combo (5.94%)
-dimwishlist:item=1952295804&perks=1523649716,834262328#notes: - Popular Perk 1, Most Popular Perk 2
-dimwishlist:item=1952295804&perks=2073244114#notes: - Most Popular Perk 1
-dimwishlist:item=1952295804&perks=834262328#notes: - Most Popular Perk 2
-dimwishlist:item=1952295804&perks=4045335048#notes: - Popular Perk 2
-dimwishlist:item=1952295804&perks=1523649716#notes: - Popular Perk 1
 dimwishlist:item=1967303408&perks=1955165503,124408337#notes:Tier A - PvE 4.2 - PvP 4.1 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/archons-thunder-god-rolls/
 dimwishlist:item=1967303408&perks=1955165503,557221067#notes:Tier A - PvE 4.2 - PvP 4.1 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/archons-thunder-god-rolls/
 dimwishlist:item=1967303408&perks=777589557,124408337#notes:Tier A - PvE 4.2 - PvP 4.1 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/archons-thunder-god-rolls/
@@ -3404,6 +3410,25 @@ dimwishlist:item=1968711238&perks=3418782618,4198902903#notes:Tier A - PvE 4.2 -
 dimwishlist:item=1968711238&perks=968510818,3966416502#notes:Tier A - PvE 4.2 - PvP 4.0 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/warlords-spear-god-rolls/
 dimwishlist:item=1968711238&perks=968510818#notes:Tier A - PvE 4.2 - PvP 4.0 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/warlords-spear-god-rolls/
 dimwishlist:item=1968711238&perks=3418782618#notes:Tier A - PvE 4.2 - PvP 4.0 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/warlords-spear-god-rolls/
+dimwishlist:item=1973107014&perks=3824105627,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3824105627,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3017780555,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3017780555,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3824105627,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3017780555,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3824105627#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3017780555#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3619207468,555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Combo (6.67%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=247725512,555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (5.2%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3619207468,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3017780555,555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=247725512,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=3619207468#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=1973107014&perks=247725512#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
 dimwishlist:item=1976481399&perks=2679249093,2360754333#notes:Tier S - PvE 4.4 - PvP 3.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/sudden-death-god-rolls/
 dimwishlist:item=1976481399&perks=2679249093,2048641572#notes:Tier S - PvE 4.4 - PvP 3.4 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/sudden-death-god-rolls/
 dimwishlist:item=1976481399&perks=2679249093,3215448563#notes:Tier S - PvE 4.4 - PvP 3.4 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/sudden-death-god-rolls/
@@ -4372,6 +4397,24 @@ dimwishlist:item=2313726158&perks=3619207468,1015611457#notes:Tier A - PvE 4.2 -
 dimwishlist:item=2313726158&perks=3511092054#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/belisarius-d-god-rolls/
 dimwishlist:item=2313726158&perks=460017080#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/belisarius-d-god-rolls/
 dimwishlist:item=2313726158&perks=3619207468#notes:Tier A - PvE 4.2 - PvP 4.2 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/belisarius-d-god-rolls/
+dimwishlist:item=2314610827&perks=3824105627,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3824105627,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3017780555,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3017780555,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3824105627,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3017780555,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3824105627#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3017780555#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=2451262963,555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Combo (14.97%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3619207468,555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (9.94%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=247725512,555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (6.26%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=2451262963#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=555281244#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=3619207468#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2314610827&perks=247725512#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
 dimwishlist:item=2316331767&perks=1955165503,2922950962#notes:Tier A - PvE 3.2 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/permafrost-god-rolls/
 dimwishlist:item=2316331767&perks=1955165503,113508675#notes:Tier A - PvE 3.2 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/permafrost-god-rolls/
 dimwishlist:item=2316331767&perks=3523296417,2922950962#notes:Tier A - PvE 3.2 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/permafrost-god-rolls/
@@ -4511,6 +4554,28 @@ dimwishlist:item=2347178967&perks=3218042543#notes:Tier A - PvE 3.2 - PvP 2.9 - 
 dimwishlist:item=2347178967&perks=3619207468,460017080#notes:Tier A - PvE 3.2 - PvP 2.9 - Excels PvE + PvP - Popular Combo (6.06%) - https://www.blueberries.gg/weapons/cruel-mercy-god-rolls/
 dimwishlist:item=2347178967&perks=2848615171,460017080#notes:Tier A - PvE 3.2 - PvP 2.9 - Excels PvE + PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/cruel-mercy-god-rolls/
 dimwishlist:item=2347178967&perks=460017080#notes:Tier A - PvE 3.2 - PvP 2.9 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/cruel-mercy-god-rolls/
+dimwishlist:item=2351180975&perks=3824105627,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3824105627,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3017780555,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3017780555,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3824105627,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3017780555,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3824105627#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3017780555#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=247725512,3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Combo (9.91%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=706527188,957782887#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (8.88%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=2450788523,3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (6.64%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=247725512,957782887#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=706527188,3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=2450788523,957782887#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=247725512#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=706527188#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=957782887#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2351180975&perks=2450788523#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
 dimwishlist:item=235827225&perks=3824105627,2922950962#notes:Tier S - PvE 4.4 - PvP 4.7 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/eyasluna-god-rolls/
 dimwishlist:item=235827225&perks=3824105627,3640170453#notes:Tier S - PvE 4.4 - PvP 4.7 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/eyasluna-god-rolls/
 dimwishlist:item=235827225&perks=3824105627,124408337#notes:Tier S - PvE 4.4 - PvP 4.7 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/eyasluna-god-rolls/
@@ -4593,18 +4658,18 @@ dimwishlist:item=2370525224&perks=2541826827#notes:Tier A - PvE 4.0 - PvP 3.5 - 
 dimwishlist:item=2370525224&perks=3060983774#notes:Tier A - PvE 4.0 - PvP 3.5 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/
 dimwishlist:item=2370525224&perks=2939589096#notes:Tier A - PvE 4.0 - PvP 3.5 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/
 dimwishlist:item=2370525224&perks=984655331#notes:Tier A - PvE 4.0 - PvP 3.5 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/
-dimwishlist:item=2372514508&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3891536761,3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Combo (16.41%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (12.12%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2372514508&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3891536761,3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (16.41%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (12.12%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2372514508&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
 dimwishlist:item=2372514509&perks=2578928832,4104185692#notes:Tier S - PvE 3.6 - PvP 5.0 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/
 dimwishlist:item=2372514509&perks=2578928832#notes:Tier S - PvE 3.6 - PvP 5.0 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/
 dimwishlist:item=2372514509&perks=4104185692#notes:Tier S - PvE 3.6 - PvP 5.0 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/
@@ -4984,6 +5049,25 @@ dimwishlist:item=25228802&perks=1966281507,31345821#notes:Tier A - PvE 4.6 - PvP
 dimwishlist:item=25228802&perks=968510818,1782407750#notes:Tier A - PvE 4.6 - PvP 1.3 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/refusal-of-the-call-god-rolls/
 dimwishlist:item=25228802&perks=1966281507#notes:Tier A - PvE 4.6 - PvP 1.3 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/refusal-of-the-call-god-rolls/
 dimwishlist:item=25228802&perks=968510818#notes:Tier A - PvE 4.6 - PvP 1.3 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/refusal-of-the-call-god-rolls/
+dimwishlist:item=2527666306&perks=3824105627,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3824105627,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3017780555,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3017780555,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3824105627,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3017780555,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3824105627#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3017780555#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=247725512,1264398905#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Combo (7.6%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=706527188,1264398905#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (7.0%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=247725512,3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (6.57%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=706527188,3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=247725512#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=1264398905#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=706527188#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2527666306&perks=3425386926#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
 dimwishlist:item=253196586&perks=1645158859,1890422124#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Most Popular Combo (36.33%)
 dimwishlist:item=253196586&perks=280464955,1890422124#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Combo (20.85%)
 dimwishlist:item=253196586&perks=957782887,2213355989#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Combo (3.45%)
@@ -4995,18 +5079,18 @@ dimwishlist:item=253196586&perks=1890422124#notes:Tier A - PvE 4.2 - PvP 4.7 - E
 dimwishlist:item=253196586&perks=280464955#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Perk 1
 dimwishlist:item=253196586&perks=957782887#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Perk 1
 dimwishlist:item=253196586&perks=2213355989#notes:Tier A - PvE 4.2 - PvP 4.7 - Excels PvP - Popular Perk 2
-dimwishlist:item=2533990645&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3891536761,3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Combo (16.15%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (10.95%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2533990645&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3891536761,3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (16.15%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (10.95%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2533990645&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
 dimwishlist:item=2545083870&perks=1523832109,3078487919#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/apex-predator-god-rolls/
 dimwishlist:item=2545083870&perks=1523832109,3194351027#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/apex-predator-god-rolls/
 dimwishlist:item=2545083870&perks=1523832109#notes:Tier S - PvE 4.5 - PvP 3.1 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/apex-predator-god-rolls/
@@ -5299,18 +5383,18 @@ dimwishlist:item=260532765&perks=2387244414,3400784728#notes:Tier A - PvE 3.9 - 
 dimwishlist:item=260532765&perks=3828510309#notes:Tier A - PvE 3.9 - PvP 3.4 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/duty-bound-god-rolls/
 dimwishlist:item=260532765&perks=1226351311#notes:Tier A - PvE 3.9 - PvP 3.4 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/duty-bound-god-rolls/
 dimwishlist:item=260532765&perks=2387244414#notes:Tier A - PvE 3.9 - PvP 3.4 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/duty-bound-god-rolls/
-dimwishlist:item=2631356658&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3891536761,3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Combo (16.15%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (10.95%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=2631356658&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3891536761,3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (16.15%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (10.95%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3824105627#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=2631356658&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
 dimwishlist:item=2631466936&perks=776531651,2048641572#notes:Tier A - PvE 4.5 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fortunate-star-god-rolls/
 dimwishlist:item=2631466936&perks=776531651,1464081238#notes:Tier A - PvE 4.5 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fortunate-star-god-rolls/
 dimwishlist:item=2631466936&perks=2848615171,2048641572#notes:Tier A - PvE 4.5 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fortunate-star-god-rolls/
@@ -5859,6 +5943,25 @@ dimwishlist:item=2775462168&perks=3640170453#notes:Tier S - PvE 5.0 - Excels PvE
 dimwishlist:item=2775462168&perks=2890807135#notes:Tier S - PvE 5.0 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/terciopelo-4bl-god-rolls/
 dimwishlist:item=2775462168&perks=3764420437#notes:Tier S - PvE 5.0 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/terciopelo-4bl-god-rolls/
 dimwishlist:item=2775462168&perks=3913600130#notes:Tier S - PvE 5.0 - Excels PvE + PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/terciopelo-4bl-god-rolls/
+dimwishlist:item=2776092652&perks=3824105627,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3824105627,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3017780555,4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3017780555,4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3824105627,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3017780555,2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3824105627#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3017780555#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=4293542123#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=4104185692#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=2109543898#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=191144788,332733060#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Combo (17.3%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3198323828,332733060#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (9.68%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=191144788,1370847713#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Combo (7.92%) - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3198323828,1370847713#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=191144788#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=332733060#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=3198323828#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
+dimwishlist:item=2776092652&perks=1370847713#notes:Tier S - PvE 3.6 - PvP 4.8 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/igneous-hammer-god-rolls/
 dimwishlist:item=2776092653&perks=2048641572,4049631843#notes:Tier S - PvE 3.8 - PvP 4.7 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/exalted-truth-god-rolls/
 dimwishlist:item=2776092653&perks=2048641572,776531651#notes:Tier S - PvE 3.8 - PvP 4.7 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/exalted-truth-god-rolls/
 dimwishlist:item=2776092653&perks=2048641572#notes:Tier S - PvE 3.8 - PvP 4.7 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/exalted-truth-god-rolls/
@@ -6736,6 +6839,22 @@ dimwishlist:item=3107853529&perks=957782887#notes:Tier S - PvE 3.7 - PvP 4.8 - E
 dimwishlist:item=3107853529&perks=588594999#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=3107853529&perks=706527188#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Popular Perk 2
 dimwishlist:item=3107853529&perks=4293542123#notes:Tier S - PvE 3.7 - PvP 4.8 - Excels PvP - Popular Perk 2
+dimwishlist:item=3116356268&perks=3824105627,3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=3824105627,2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=2922950962,3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=2922950962,2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=3824105627#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=2922950962#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=247725512,2846385770#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Combo (14.35%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=247725512,1015611457#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Combo (11.29%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=957782887,2846385770#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Combo (7.8%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=957782887,1015611457#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=247725512#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=2846385770#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=1015611457#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3116356268&perks=957782887#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
 dimwishlist:item=3123651616&perks=1523832109,3640170453#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/forthcoming-deviance-god-rolls/
 dimwishlist:item=3123651616&perks=1523832109,2109543898#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/forthcoming-deviance-god-rolls/
 dimwishlist:item=3123651616&perks=1966281507,3640170453#notes:Tier A - PvE 4.6 - PvP 3.8 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/forthcoming-deviance-god-rolls/
@@ -7102,6 +7221,25 @@ dimwishlist:item=3234363830&perks=3643424744,831391274#notes:Tier A - PvE 4.6 - 
 dimwishlist:item=3234363830&perks=1820235745#notes:Tier A - PvE 4.6 - PvP 4.3 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/mirror-imago-god-rolls/
 dimwishlist:item=3234363830&perks=831391274#notes:Tier A - PvE 4.6 - PvP 4.3 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/mirror-imago-god-rolls/
 dimwishlist:item=3234363830&perks=3643424744#notes:Tier A - PvE 4.6 - PvP 4.3 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/mirror-imago-god-rolls/
+dimwishlist:item=3236112986&perks=3824105627,3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3824105627,2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=2922950962,3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=2922950962,2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3824105627#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=2922950962#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=247725512,3891536761#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Combo (28.97%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3161816588,47981717#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Combo (12.75%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=247725512,1015611457#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Combo (11.21%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=247725512,47981717#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3161816588,3891536761#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3161816588,1015611457#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=247725512#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3891536761#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=3161816588#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=47981717#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=3236112986&perks=1015611457#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
 dimwishlist:item=3241217409&perks=1523832109,2594592626#notes:Tier A - PvE 3.7 - PvP 2.3 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/finite-maybe-god-rolls/
 dimwishlist:item=3241217409&perks=1523832109,1427256713#notes:Tier A - PvE 3.7 - PvP 2.3 - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/finite-maybe-god-rolls/
 dimwishlist:item=3241217409&perks=1556840489,2594592626#notes:Tier A - PvE 3.7 - PvP 2.3 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/finite-maybe-god-rolls/
@@ -7974,6 +8112,14 @@ dimwishlist:item=3574168117&perks=3365897133#notes:Tier A - Excels PvP - God Per
 dimwishlist:item=3574168117&perks=831391274#notes:Tier A - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/hushed-whisper-god-rolls/
 dimwishlist:item=3574168117&perks=960997401,3414324643#notes:Tier A - Excels PvP - Popular Combo (11.36%) - https://www.blueberries.gg/weapons/hushed-whisper-god-rolls/
 dimwishlist:item=3574168117&perks=3414324643#notes:Tier A - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/hushed-whisper-god-rolls/
+dimwishlist:item=357669417&perks=2458610193,3966416502#notes:Tier S - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=2458610193,654512643#notes:Tier S - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=777589557,3966416502#notes:Tier S - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=777589557,654512643#notes:Tier S - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=2458610193#notes:Tier S - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=3966416502#notes:Tier S - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=654512643#notes:Tier S - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
+dimwishlist:item=357669417&perks=777589557#notes:Tier S - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
 dimwishlist:item=358190158&perks=3017780555,4293542123#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/drang-god-rolls/
 dimwishlist:item=358190158&perks=3017780555,3764420437#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
 dimwishlist:item=358190158&perks=3017780555,4104185692#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
@@ -8708,22 +8854,22 @@ dimwishlist:item=3840794631&perks=3218042543#notes:Tier A - PvE 4.6 - PvP 3.0 - 
 dimwishlist:item=3840794631&perks=4104185692#notes:Tier A - PvE 4.6 - PvP 3.0 - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/psychopomp-god-rolls/
 dimwishlist:item=3840794631&perks=684456054,3218042543#notes:Tier A - PvE 4.6 - PvP 3.0 - Excels PvE - Popular Combo (7.05%) - https://www.blueberries.gg/weapons/psychopomp-god-rolls/
 dimwishlist:item=3840794631&perks=684456054#notes:Tier A - PvE 4.6 - PvP 3.0 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/psychopomp-god-rolls/
-dimwishlist:item=3843477312&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Combo (19.91%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=2779035018,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (13.42%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=1168162263,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Combo (10.14%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=1168162263,1015611457#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=2779035018#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=1015611457#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=3843477312&perks=1168162263#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (19.91%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=2779035018,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (13.42%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=1168162263,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Combo (10.14%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=1168162263,1015611457#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=2779035018#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=1015611457#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=3843477312&perks=1168162263#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
 dimwishlist:item=3844610113&perks=2578928832,3078487919#notes:Tier S - PvE 4.7 - PvP 2.6 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/praedyths-revenge-god-rolls/
 dimwishlist:item=3844610113&perks=2578928832,1089671869#notes:Tier S - PvE 4.7 - PvP 2.6 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/praedyths-revenge-god-rolls/
 dimwishlist:item=3844610113&perks=1354429876,3078487919#notes:Tier S - PvE 4.7 - PvP 2.6 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/praedyths-revenge-god-rolls/
@@ -10470,21 +10616,21 @@ dimwishlist:item=5159537&perks=2779035018#notes:Tier A - PvE 3.6 - PvP 4.5 - Exc
 dimwishlist:item=5159537&perks=124408337#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Most Popular Perk 2
 dimwishlist:item=5159537&perks=968510818#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Popular Perk 1
 dimwishlist:item=5159537&perks=460017080#notes:Tier A - PvE 3.6 - PvP 4.5 - Excels PvP - Popular Perk 2
-dimwishlist:item=52683113&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3891536761,3640170453#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Combo (67.32%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=460017080,3640170453#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=460017080,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3640170453#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
-dimwishlist:item=52683113&perks=460017080#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE - Popular Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3891536761,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3891536761,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3700496672,2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3700496672,4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3891536761#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=2109543898#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=4049631843#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - God Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3700496672#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3891536761,3640170453#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Combo (67.32%) - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3891536761,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=460017080,3640170453#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=460017080,3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3640170453#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=3425386926#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
+dimwishlist:item=52683113&perks=460017080#notes:Tier A - PvE 4.4 - PvP 4.4 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/blast-furnace-god-rolls/
 dimwishlist:item=527989828&perks=3523296417,2922950962#notes:Tier A - PvE 2.5 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/action-item-god-rolls/
 dimwishlist:item=527989828&perks=3523296417,124408337#notes:Tier A - PvE 2.5 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/action-item-god-rolls/
 dimwishlist:item=527989828&perks=1955165503,2922950962#notes:Tier A - PvE 2.5 - PvP 2.5 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/action-item-god-rolls/
@@ -11372,6 +11518,21 @@ dimwishlist:item=79075821&perks=4267945040#notes:Tier S - PvE 4.1 - PvP 4.5 - Ex
 dimwishlist:item=79075821&perks=4082225868#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
 dimwishlist:item=79075821&perks=3425386926#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
 dimwishlist:item=79075821&perks=957782887#notes:Tier S - PvE 4.1 - PvP 4.5 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/drang-god-rolls/
+dimwishlist:item=810474119&perks=3824105627,3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=3824105627,2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=2922950962,3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=2922950962,2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=3824105627#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=3038247973#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=2922950962#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=2109543898#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Alt God Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=191144788,1370847713#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Combo (19.29%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=191144788,3719974635#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Combo (12.17%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=191144788,2923251173#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Combo (6.49%) - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=191144788#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=1370847713#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=3719974635#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
+dimwishlist:item=810474119&perks=2923251173#notes:Tier S - PvE 3.8 - PvP 4.2 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/spare-rations-god-rolls/
 dimwishlist:item=821154603&perks=776531651,2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
 dimwishlist:item=821154603&perks=776531651,3425386926#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
 dimwishlist:item=821154603&perks=3523296417,2048641572#notes:Tier S - PvE 4.5 - PvP 4.3 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/gnawing-hunger-god-rolls/
