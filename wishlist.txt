@@ -1182,6 +1182,16 @@ dimwishlist:item=1041028434&perks=191144788#notes:Tier S - PvE 2.6 - PvP 4.8 - E
 dimwishlist:item=1041028434&perks=332733060#notes:Tier S - PvE 2.6 - PvP 4.8 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/rose-god-rolls/
 dimwishlist:item=1041028434&perks=1370847713#notes:Tier S - PvE 2.6 - PvP 4.8 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/rose-god-rolls/
 dimwishlist:item=1041028434&perks=2396422520#notes:Tier S - PvE 2.6 - PvP 4.8 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/rose-god-rolls/
+dimwishlist:item=1041028435&perks=1115162408,3218042543#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - God Roll - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=1115162408#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=3218042543#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=191144788,1370847713#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Most Popular Combo (11.99%) - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=191144788,2073244114#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Popular Combo (7.46%) - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=191144788,3719974635#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Popular Combo (7.43%) - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=191144788#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=1370847713#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=2073244114#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
+dimwishlist:item=1041028435&perks=3719974635#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/solemn-lie-god-rolls/
 dimwishlist:item=1050582210&perks=1556840489,4293542123#notes:Tier A - PvE 3.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/greasy-luck-god-rolls/
 dimwishlist:item=1050582210&perks=1556840489,3201496230#notes:Tier A - PvE 3.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/greasy-luck-god-rolls/
 dimwishlist:item=1050582210&perks=1966281507,4293542123#notes:Tier A - PvE 3.9 - PvP 3.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/greasy-luck-god-rolls/
@@ -2232,6 +2242,20 @@ dimwishlist:item=1481892490&perks=706527188#notes:Tier A - PvE 3.9 - PvP 4.2 - E
 dimwishlist:item=1481892490&perks=2846385770#notes:Tier A - PvE 3.9 - PvP 4.2 - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/the-palindrome-god-rolls/
 dimwishlist:item=1481892490&perks=2450788523#notes:Tier A - PvE 3.9 - PvP 4.2 - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/the-palindrome-god-rolls/
 dimwishlist:item=1481892490&perks=3425386926#notes:Tier A - PvE 3.9 - PvP 4.2 - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/the-palindrome-god-rolls/
+dimwishlist:item=1484294659&perks=2890807135,657025441#notes:Tier A - Excels PvE - God Roll - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=2890807135,4293542123#notes:Tier A - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=2890807135,3201496230#notes:Tier A - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=1820235745,657025441#notes:Tier A - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=1820235745,4293542123#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=1820235745,3201496230#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=2890807135#notes:Tier A - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=657025441#notes:Tier A - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=1820235745#notes:Tier A - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=4293542123#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=3201496230#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=2890807135,557221067#notes:Tier A - Excels PvE - Popular Combo (6.72%) - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=1820235745,557221067#notes:Tier A - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=1484294659&perks=557221067#notes:Tier A - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
 dimwishlist:item=149110926&perks=2458610193,3966416502#notes:Tier S - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
 dimwishlist:item=149110926&perks=2458610193,654512643#notes:Tier S - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
 dimwishlist:item=149110926&perks=3828510309,3966416502#notes:Tier S - Excels PvE + PvP - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/whatchamacallit-god-rolls/
@@ -4403,6 +4427,20 @@ dimwishlist:item=2316331767&perks=243981275,2109543898#notes:Tier A - PvE 3.3 - 
 dimwishlist:item=2316331767&perks=1955165503,2109543898#notes:Tier A - PvE 3.3 - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/permafrost-god-rolls/
 dimwishlist:item=2316331767&perks=243981275#notes:Tier A - PvE 3.3 - Excels PvE - Most Popular Perk 1 - https://www.blueberries.gg/weapons/permafrost-god-rolls/
 dimwishlist:item=2316331767&perks=2109543898#notes:Tier A - PvE 3.3 - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/permafrost-god-rolls/
+dimwishlist:item=2325078119&perks=3038247973,1089671869#notes:Tier S - Excels PvP - God Roll - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=3038247973#notes:Tier S - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=1089671869#notes:Tier S - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=2866798147,2551157718#notes:Tier S - Excels PvP - Most Popular Combo (12.95%) - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=957782887,47981717#notes:Tier S - Excels PvP - Popular Combo (12.32%) - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=2866798147,654512643#notes:Tier S - Excels PvP - Popular Combo (7.72%) - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=2866798147,47981717#notes:Tier S - Excels PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=957782887,2551157718#notes:Tier S - Excels PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=957782887,654512643#notes:Tier S - Excels PvP - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=2866798147#notes:Tier S - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=2551157718#notes:Tier S - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=957782887#notes:Tier S - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=47981717#notes:Tier S - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=2325078119&perks=654512643#notes:Tier S - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
 dimwishlist:item=2326578623&perks=776531651,2048641572#notes:Tier A - PvE 4.5 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fortunate-star-god-rolls/
 dimwishlist:item=2326578623&perks=776531651,1464081238#notes:Tier A - PvE 4.5 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fortunate-star-god-rolls/
 dimwishlist:item=2326578623&perks=2848615171,2048641572#notes:Tier A - PvE 4.5 - PvP 4.0 - Excels PvE - God Roll - https://www.blueberries.gg/weapons/fortunate-star-god-rolls/
@@ -5975,6 +6013,20 @@ dimwishlist:item=2770035786&perks=984655331#notes:Tier A - PvE 5.0 - PvP 5.0 - E
 dimwishlist:item=2770035786&perks=2939589096#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvE + PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/m-17-fast-talker-god-rolls/
 dimwishlist:item=2770035786&perks=2039482529#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/m-17-fast-talker-god-rolls/
 dimwishlist:item=2770035786&perks=3060983774#notes:Tier A - PvE 5.0 - PvP 5.0 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/m-17-fast-talker-god-rolls/
+dimwishlist:item=2770617440&perks=2890807135,657025441#notes:Tier A - Excels PvE - God Roll - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=2890807135,4293542123#notes:Tier A - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=2890807135,3201496230#notes:Tier A - Excels PvE - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=1820235745,657025441#notes:Tier A - Excels PvE - Alt God Perk 1, God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=1820235745,4293542123#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=1820235745,3201496230#notes:Tier A - Excels PvE - Alt God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=2890807135#notes:Tier A - Excels PvE - God Perk 1 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=657025441#notes:Tier A - Excels PvE - God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=1820235745#notes:Tier A - Excels PvE - Alt God Perk 1 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=4293542123#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=3201496230#notes:Tier A - Excels PvE - Alt God Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=2890807135,557221067#notes:Tier A - Excels PvE - Popular Combo (6.72%) - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=1820235745,557221067#notes:Tier A - Excels PvE - Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
+dimwishlist:item=2770617440&perks=557221067#notes:Tier A - Excels PvE - Popular Perk 2 - https://www.blueberries.gg/weapons/dawn-far-god-rolls/
 dimwishlist:item=2775462168&perks=1749209109,3640170453#notes:Tier S - PvE 5.0 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/terciopelo-4bl-god-rolls/
 dimwishlist:item=2775462168&perks=2077819806,3640170453#notes:Tier S - PvE 5.0 - Excels PvE + PvP - God Roll - https://www.blueberries.gg/weapons/terciopelo-4bl-god-rolls/
 dimwishlist:item=2775462168&perks=1749209109,3764420437#notes:Tier S - PvE 5.0 - Excels PvE + PvP - God Perk 1, Alt God Perk 2 - https://www.blueberries.gg/weapons/terciopelo-4bl-god-rolls/
@@ -7210,6 +7262,20 @@ dimwishlist:item=3211624072&perks=243981275,365154968#notes:Tier S - PvE 3.3 - P
 dimwishlist:item=3211624072&perks=1359896290#notes:Tier S - PvE 3.3 - PvP 3.6 - Excels PvE + PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/multimach-ccx-god-rolls/
 dimwishlist:item=3211624072&perks=591790007#notes:Tier S - PvE 3.3 - PvP 3.6 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/multimach-ccx-god-rolls/
 dimwishlist:item=3211624072&perks=365154968#notes:Tier S - PvE 3.3 - PvP 3.6 - Excels PvE + PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/multimach-ccx-god-rolls/
+dimwishlist:item=3215649176&perks=3038247973,1089671869#notes:Tier S - Excels PvP - God Roll - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=3038247973#notes:Tier S - Excels PvP - God Perk 1 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=1089671869#notes:Tier S - Excels PvP - God Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=957782887,47981717#notes:Tier S - Excels PvP - Most Popular Combo (12.31%) - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=2866798147,2551157718#notes:Tier S - Excels PvP - Popular Combo (9.98%) - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=2866798147,654512643#notes:Tier S - Excels PvP - Popular Combo (5.97%) - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=957782887,2551157718#notes:Tier S - Excels PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=2866798147,47981717#notes:Tier S - Excels PvP - Popular Perk 1, Most Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=957782887,654512643#notes:Tier S - Excels PvP - Most Popular Perk 1, Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=957782887#notes:Tier S - Excels PvP - Most Popular Perk 1 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=47981717#notes:Tier S - Excels PvP - Most Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=2866798147#notes:Tier S - Excels PvP - Popular Perk 1 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=2551157718#notes:Tier S - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
+dimwishlist:item=3215649176&perks=654512643#notes:Tier S - Excels PvP - Popular Perk 2 - https://www.blueberries.gg/weapons/the-helmsman-god-rolls/
 dimwishlist:item=3218302023&perks=2541826827,1926441324#notes:Tier S - PvE 4.8 - PvP 3.5 - Excels PvE - Most Popular Combo (9.69%)
 dimwishlist:item=3218302023&perks=2938480696,1926441324#notes:Tier S - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Combo (9.22%)
 dimwishlist:item=3218302023&perks=2938480696,169755979#notes:Tier S - PvE 4.8 - PvP 3.5 - Excels PvE - Popular Combo (6.86%)
